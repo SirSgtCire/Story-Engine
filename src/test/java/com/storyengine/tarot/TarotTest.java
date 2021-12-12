@@ -1,4 +1,4 @@
-package src.test.java.com.storyengine.tarot;
+package com.storyengine.tarot;
 
 import static org.junit.Assert.assertTrue;
 
@@ -7,14 +7,12 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class TarotTest 
-{
+public class TarotTest {
     /**
      * Rigorous Test :-)
      */
-    @TarotTest
-    public void shouldAnswerWithTrue()
-    {
+    @Test
+    public void shouldAnswerWithTrue() {
         assertTrue( true );
     }
 }

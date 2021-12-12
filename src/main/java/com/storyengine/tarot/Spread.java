@@ -1,4 +1,4 @@
-package src.main.java.com.storyengine.tarot;
+package com.storyengine.tarot;
 
 public class Spread {
     

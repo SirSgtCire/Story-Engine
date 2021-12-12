@@ -1,4 +1,4 @@
-package src.main.java.com.storyengine;
+package com.storyengine;
 
 public class MySQLDao {
     

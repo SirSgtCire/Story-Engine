@@ -1,4 +1,4 @@
-package src.main.java.com.storyengine.narrative;
+package com.storyengine.narrative;
 
 public class BeatSheet {
     
