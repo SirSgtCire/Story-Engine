@@ -8,10 +8,6 @@
   <artifactId>storyengine</artifactId>
   <version>1.0.0</version>
 
-  <name>storyengine</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
-
   <dependencies>
     <dependency>
       <groupId>org.testng</groupId>
