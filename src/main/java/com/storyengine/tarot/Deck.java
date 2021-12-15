@@ -1,5 +1,7 @@
 package com.storyengine.tarot;
 
+import java.util.Random;
+
 public class Deck {
     private Card[] cards;
     private Random rand;
