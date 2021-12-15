@@ -1,11 +1,7 @@
 package com.storyengine;
 
-/**
- * Hello world!
- *
- */
 public class Base {
-    public static void main( String[] args ) {
-        System.out.println( "Hello World!" );
-    }
+    protected static final Config properties = new Config(System.getProperty("prop.file"));
+    protected static final Logger logger = LoggerFactory.getLogger(Base.class);
+    
 }
