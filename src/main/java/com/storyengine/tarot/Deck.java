@@ -1,20 +1,23 @@
 package com.storyengine.tarot;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
+import java.util.List;
 import java.util.Random;
+import org.slf4j.Logger;
+import java.util.Collections;
+import org.slf4j.LoggerFactory;
 
 public class Deck {
     private static final Logger logger = LoggerFactory.getLogger(Deck.class);
     private Card[] cards;
     private Random rand;
+    private List Deck;
     
     Deck() {
+        // Create the deck
         rand = new Random();
         cards = new Card[78];
 
-        //Major Arcana
+        // Major Arcana
         cards[0] = new Card("The Fool", "Innocence, New Beginnings, Wonder, Foolishness");
         cards[1] = new Card("The Magician", "Willpower, Creation, Mastery, Adaptation");
         cards[2] = new Card("The High Priestess", "Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious");
@@ -38,7 +41,7 @@ public class Deck {
         cards[20] = new Card("Judgement", "Reflection, Reckoning, Awakening");
         cards[21] = new Card("The World", "Fulfillment, Harmony, Completion");
 
-        //Suit of Wands
+        // Suit of Wands
         cards[22] = new Card("Ace of Wands", "Creation, Willpower, Inspiration, Desire");
         cards[23] = new Card("Two of Wands", "Planning, Making Decisions, Leaving Home");
         cards[24] = new Card("Three of Wands", "Looking Ahead, Expansion, Rapid Growth");
@@ -54,7 +57,7 @@ public class Deck {
         cards[34] = new Card("Queen of Wands", "Courage, Determination, Passion, Joy");
         cards[35] = new Card("King of Wands", "Big Picture, Leader, Overcoming Challenges");
         
-        //Suit of Cups
+        // Suit of Cups
         cards[36] = new Card("Ace of Cups", "New Feelings, Spirituality, Intuition");
         cards[37] = new Card("Two of Cups", "Unity, Partnership, Connection");
         cards[38] = new Card("Three of Cups", "Friendship, Community, Happiness");
@@ -70,7 +73,7 @@ public class Deck {
         cards[48] = new Card("Queen of Cups", "Compassion, Calm, Comfort");
         cards[49] = new Card("King of Cups", "Emotional Control, Balance Between Heart and Head");
         
-        //Suit of Swords
+        // Suit of Swords
         cards[50] = new Card("Ace of Swords", "Breakthrough, Clarity, Sharp Mind");
         cards[51] = new Card("Two of Swords", "Difficult Choices, Indecision, Stalemate");
         cards[52] = new Card("Three of Swords", "Heartbreak, Suffering, Grief");
@@ -86,7 +89,7 @@ public class Deck {
         cards[62] = new Card("Queen of Swords", "Complexity, Perceptive, Clear Mindedness");
         cards[63] = new Card("King of Swords", "Head Over Heart, Truth, Discipline");
 
-        //Suit of Pentacles
+        // Suit of Pentacles
         cards[64] = new Card("Ace of Pentacles", "Opportunity, Prosperity, New Venture");
         cards[65] = new Card("Two of Pentacles", "Balancing Decisions, Priorities, Adaptation");
         cards[66] = new Card("Three of Pentacles", "Teamwork, Collaboration, Building Together");
@@ -101,11 +104,22 @@ public class Deck {
         cards[75] = new Card("Knight of Pentacles", "Efficiency, Hard Work, Responsibility");
         cards[76] = new Card("Queen of Pentacles", "Practicality, Creature Comforts, Security");
         cards[77] = new Card("King of Pentacles", "Abundance, Prosperity, Provider, Generosity");
+
+        Deck = List.of(cards);
     }
     
-    public void draw() {
+    public void randomCard() {
         logger.info("Drawing a card from the deck...");
         int pick = rand.nextInt(78);
         cards[pick].display();
+    }
+
+    public void shuffle() {
+        logger.info("Shuffling the deck...");
+        Collections.shuffle(Deck);
+    }
+
+    public void drawOneFromTop() {
+        logger.info("Drawing the top card...");
     }
 }
