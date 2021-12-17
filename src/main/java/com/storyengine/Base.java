@@ -11,8 +11,7 @@ public class Base {
     public static void main(String [] args) {
         logger.info("WE ARE ALIVE!!!");
 
-        Spread spread = new Spread();
-        spread.FortuneTeller();
+        Spread.FortuneTeller();
 
         logger.info("Well done. Go to sleep now my child.");
     }
