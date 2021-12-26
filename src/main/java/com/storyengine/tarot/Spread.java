@@ -64,12 +64,11 @@ public class Spread {
         logger.info("Until next time...");
     }
 
-    public static void Reading() {
+    public static void NCardReading(Integer cardCount) {
 
     }
 
-    public static void storyPrompts() {
+    public static void BodyReading() {
 
     }
-    
 }
