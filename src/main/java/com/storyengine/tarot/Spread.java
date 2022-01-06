@@ -71,4 +71,8 @@ public class Spread {
     public static void BodyReading() {
 
     }
+
+    public static void BeatReading() {
+
+    }
 }

@@ -51,7 +51,7 @@ Tarot Game Rules:
 
 11. Play happens as follows:
     All cards in Tarot have supports and oppositions.
-    That list of details can be found at: https://tarotx.net/
+    That list of details can be found at: https://tarotx.net/tarot-card-meanings/rider-waite/
     After the first card is played, a player has two real options.
     First, play a card that either supports or is supported by the previous card, in any faceup square orientation you choose.
     Second, play a card that either opposes or is opposed by the previous card, in any faceup square orientation you choose.
@@ -103,3 +103,78 @@ Act 1: (1, 2, 2)
 Act 2: (1, 2, 2)
 Act 3: (1, 2, 2)
 for five players.
+
+
+
+Use a five card spread to create a Beat Reading, which corresponds to:
+1. Inciting Incident
+2. Complication
+3. Crisis
+4. Climax
+5. Resolution
+
+
+
+We will need to design a printable output for all this information, use Google Slides for assistance...
+
+
+
+Story Grid Book Notes:
+
+Ch. 11
+- story graph example for Silence of the Lambs
+- Six Editor Questions:
+1. What's the Genre?
+2. What are the conventions and obligatory scenes for that Genre?
+3. What's the point of view?
+4. What are the protagonist's objects of desire?
+5. What's the controlling idea/theme?
+6. What is the Beginning Hook, the Middle Build, and Ending Payoff?
+- Also think on how this concept applies to acting, jokes, composing and coding.
+
+Ch. 16 
+- think of how to abstract Genres into a list of relevant conventions and obligatory scenes, to then make a checklist for our review process 
+- (if we cover all the topics in our list, then we pass)
+- Genre Five-Leaf Clover (organizes most known Genre categorizations into five expectation groups: Time, Reality, Style, Structure, Content)
+
+Ch. 18
+- Story Bell Curve (x-axis: Mini-Plot, Arch-Plot, Anti-Plot; y-axis: Potential Audience)
+
+Ch. 22
+- Boiling down both Arch-Plot and Mini-Plot Structure Genres lead to describing "The Hero's Journey"
+- Inner Conflict, Personal Conflict and Extra-Personal Conflict
+- Focus on the struggle to get objects of desire
+- character wants and needs
+
+Ch. 23
+- External Content Genres (what characters want)
+- Internal Content Genres (what characters need)
+
+NOTE: Remember that Genres are fluid, and can morph into each other at any point in a book
+
+Ch. 25
+- Most stories that last a few seasons or over 10 novels require the usage of both External and Internal Content Genres
+
+Ch. 27
+- The Foolscap Method is comparable in strategy to the Story Grid Method, and can be used as a "process derivative" if relevant
+
+Ch. 28
+- The Foolscap Global Story Grid sheet is a one-page summary of a novel that answers the Six Editor Questions from Ch. 11
+- Look to page 114 for the one-page form to fill out
+- If you can fill out this one-page form after reading a book, then the book "passes the test"
+
+Ch. 30
+- Story Value is categorized as a human experience that can shift from positive to negative, or vice versa
+- Walk through the assignment of numerical values to all parts of the Story Value Spectrum (this could be coded)
+- "The Negation of the Negation" and how it appears in your story
+
+Ch. 32
+- First Person, Second Person, Third Person
+- Do not shift too much in the story
+
+Ch. 34
+- pages 137 and 138 for definition of Controlling Idea and example description, respectively
+
+Ch. 36
+- use this chapter to come up with coded parameters for actual novel structure (pages, words, etc)
+
