@@ -178,3 +178,48 @@ Ch. 34
 Ch. 36
 - use this chapter to come up with coded parameters for actual novel structure (pages, words, etc)
 
+Ch. 37
+- page 148 is the Kubler-Ross Change Curve For Story
+- keep in mind curve proportions: 25%/50%/25% is a standard generalization, and can be played around with
+
+Ch. 39
+- BEATS!!! lol, it's beat structure, which also happens to be the same structure for all story components:
+1. Inciting Incident
+a. Casual
+b. Coincidence
+
+2. Progressive Complication
+a. Active Turning Point
+b. Revelatory Turning Point
+
+3. Crisis
+a. The Best Bad Choice
+b. Irreconcilable Goods
+
+4. Climax
+
+5. Resolution
+
+- Beats (smallest unit of story) 
+-> Scenes (basic building blocks of story) 
+-> Sequences (minor life stages in story)
+-> Acts (major life stages in story)
+-> Subplots (controlling theme amplifiers, useful in long story formats)
+-> Global Story (what the author is trying to say)
+- every unit of story follows the same five principles listed above
+
+Ch. 42
+- Turning Points are little buddies to Progressive Complications
+- if decisions and actions are easily reversible, then no story; make sure you can't go backwards easily
+
+Ch. 53
+- Be aware of Paralysis by Analysis, which is planning out Global Story before writing anything
+
+Ch. 59
+- Use the Foolscap Global Story Grid on two scales: Micro and Macro
+- Micro Scale (analyze whole work Scene by Scene, keeping track of all building blocks, pages 236 - 253)
+- Macro Scale (analyze whole work overall, keeping track of all building blocks, use one-page form)
+
+Ch. 66
+- Combining Micro Scale and Macro Scale Story Grids to make the overarching story grid
+
