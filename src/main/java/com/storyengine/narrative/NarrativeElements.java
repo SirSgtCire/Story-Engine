@@ -14,7 +14,7 @@ public class NarrativeElements {
 
     }
 
-    public static void Character() {
+    public static void CharacterSet() {
 
     }
 

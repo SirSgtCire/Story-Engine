@@ -106,7 +106,7 @@ for five players.
 
 
 
-Use a five card spread to create a Beat Reading, which corresponds to:
+Use a five card spread to create a Story Unit Reading, which corresponds to:
 1. Inciting Incident
 2. Complication
 3. Crisis
@@ -116,6 +116,17 @@ Use a five card spread to create a Beat Reading, which corresponds to:
 
 
 We will need to design a printable output for all this information, use Google Slides for assistance...
+
+
+
+Tarot Game Round Rules Brainstorming:
+- Tarot is a 3 - 5 player game
+- if Tarot Game is 3 player, then max spread size is 3 (applies to 4 and 5)
+- also, if a three card spread, the minimum number of players is also 3 (applies to 4 and 5)
+- you can have more players than size of spread (randomly choose players 1, 2, 3 each round from player pool)
+- you cannot have less players than size of Tarot Game (cannot have five card spread for four or three players)
+- each card in a Tarot Game Round corresponds to which character (in their player position) played the card
+- each card played by each player is that character's answer to the Five-Part Story Structure
 
 
 
