@@ -38,8 +38,7 @@ public class Card {
 
     public void rotate(String newRotation) {
         logger.info("Old rotation: " + rotation);
-        //TODO: use enums to change rotations
-        this.rotation = newRotation;
+        this.rotation = rotations.valueOf(newRotation).toString();
         logger.info("New rotation: " + rotation);
     }
 }

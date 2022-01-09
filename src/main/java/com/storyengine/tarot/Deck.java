@@ -25,7 +25,7 @@ public class Deck {
         // Load our deckInput into a jsonObject
         JSONParser parser = new JSONParser();
         JSONObject jsonObject = (JSONObject) parser.parse(deckInput);
-        JSONArray jsonData = (JSONArray) jsonObject.get("");
+        JSONArray jsonData = (JSONArray) jsonObject.get();
 
         // For each card provided, insert it into our deck
 
