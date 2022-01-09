@@ -19,6 +19,9 @@ Blah
 Blah
 
 
+Tarot Suit Rankings:
+wands, batons, or rods (clubs); cups (hearts); swords (spades); and coins, pentacles, or disks (diamonds)
+
 
 Tarot Game Rules:
 

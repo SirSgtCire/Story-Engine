@@ -27,7 +27,7 @@ public class Spread {
                     numCards = input.nextInt();
                     for (int k = 0; k < numCards; k++) {
                         logger.info("Drawing card "+(k+1)+" of "+(numCards+1));
-                        tarotDeck.randomCard();
+                        tarotDeck.randomCard(78);
                     }
                     logger.info("Hmm, interesting....");
                     logger.info("Another question? (1 for yes, 2 for no)");
