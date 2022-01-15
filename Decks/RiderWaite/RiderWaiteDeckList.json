@@ -10,11 +10,11 @@
         "rotation":"UPRIGHT",
         "keywords":"Innocence, New Beginnings, Wonder, Foolishness",
         "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+          "Purity":[4,2],
+          "Potential":[3,1],
+          "Innocence":[0,0],
+          "Naivete":[2,-1],
+          "Irresponsibility":[1,-2]
         }
       }
     },
@@ -28,11 +28,11 @@
         "rotation":"UPRIGHT",
         "keywords":"Willpower, Creation, Mastery, Adaptation",
         "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+          "Creativity":[4,2],
+          "Accomplishment":[3,1],
+          "Ingenuity":[0,0],
+          "Charlatan":[2,-1],
+          "Arrogance":[1,-2]
         }
       }
     },

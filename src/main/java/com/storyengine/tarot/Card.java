@@ -18,6 +18,9 @@ public class Card {
     private enum rotations {
         UPRIGHT, RONSIDE, LONSIDE, REVERSED, FACEDOWN
     }
+    private enum compass {
+        NORTH, EAST, WEST, SOUTH, CENTER
+    }
     
     public Card(Integer order, String title, String image, String arcana, Integer number,
                 String suit, String rotation, String keywords, JSONObject legend) {
