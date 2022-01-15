@@ -11,30 +11,39 @@ import org.slf4j.LoggerFactory;
 public class Deck {
     private static final Logger logger = LoggerFactory.getLogger(Deck.class);
     private List<Card> Deck;
+    private Integer size;
     private Random rand;
     private Card card;
     
-    Deck(String deckInput, String jsonHeader) throws Exception {
+    public Deck(String deckInput, String jsonHeader) throws Exception {
         // Create the deck
         Deck = new ArrayList<>();
         rand = new Random();
+        Integer cardCount = 0;
 
         try {
             // Load our deckInput into a jsonObject
             JSONParser parser = new JSONParser();
             JSONObject jsonObject = (JSONObject) parser.parse(new FileReader(deckInput));
             JSONArray jsonData = (JSONArray) jsonObject.get(jsonHeader);
-            Iterator<Card> iterator = jsonData.iterator();
 
             // For each card provided, insert it into our deck
-            while(iterator.hasNext()) {
+            for (Object card: jsonData) {
+                logger.info(String.format("Is this the card deck placement number? %s", jsonData.indexOf(card)));
+                logger.info(String.format("Is this the associated card data?\n%s", card.toString()));
+                cardCount += 1;
                 //TODO: print each aspect of the card, to make sure we can assign each to the card object
             }
+            size = cardCount;
 
         } catch (Exception e) {
             logger.info("We received an error with deck input: " + e);
             e.printStackTrace();
         }
+    }
+
+    public Integer getNumCards() {
+        return this.size;
     }
     
     public void randomCard(Integer deckSize) {

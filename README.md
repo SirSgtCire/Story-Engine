@@ -240,6 +240,7 @@ Ch. 66
 
 
 Need to incorporate dice rolling into card interpretation:
+When deciding on the interpreted answer to each story structure question ->
 - roll a d4
 - there are 4 independent and valid interpretations of each card, ranging from worst (1) to best (4)
 - there are 4 defined directions on a compass: N, E, W, S
@@ -249,3 +250,19 @@ Need to incorporate dice rolling into card interpretation:
 - What is the most 1 value of the card, which is also asking what is the most reversed meaning of the card?
 - do this for all possible rolls for each card
 - QED.
+You can graph the story progression using the method above and plotting the value shifts!
+
+
+
+Notes on Tarot Round usage:
+- for 3 player game, there are 24 rounds
+- for at least 3 main characters, there are at least 24 chapters
+- add chapter 0 for world building, character sheets, etc.
+- for one novel, that's 25 chapters
+- one novel converted to long-format content is one season of a show
+- one season of a show is then 25 episodes, following chapter outline
+- repeat for however many seasons you want to exist
+
+
+
+Whoever wins the game is the protagonist

@@ -7,8 +7,10 @@ import org.slf4j.LoggerFactory;
 public class Spread {
     private static final Logger logger = LoggerFactory.getLogger(Spread.class);
 
-    public static void FortuneTeller() {
-        Deck tarotDeck = new Deck();
+    public static void FortuneTeller() throws Exception {
+        Deck tarotDeck = new Deck(
+                "src/main/resources/Decks/RiderWaite/RiderWaiteDeckList.json",
+                "Cards");
         Scanner input = new Scanner(System.in);
         logger.info("Welcome, welcome...");
         //ask if the user wants a reading or story prompts
@@ -44,7 +46,7 @@ public class Spread {
                 logger.info("Here's your starting prompt:");
 
                 while (next != 0) {
-                    tarotDeck.randomCard();
+                    tarotDeck.randomCard(tarotDeck.getNumCards());
                     story += (input.nextLine() + "\n");
                     do {
                         logger.info("Enter 1 for another prompt or 0 to end.");

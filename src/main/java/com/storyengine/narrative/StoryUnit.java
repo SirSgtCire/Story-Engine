@@ -9,4 +9,20 @@ public class StoryUnit {
     public static void IncitingIncident() {
 
     }
+
+    public static void Complication() {
+
+    }
+
+    public static void Crisis() {
+
+    }
+
+    public static void Climax() {
+
+    }
+
+    public static void Resolution() {
+
+    }
 }

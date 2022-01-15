@@ -1,704 +1,860 @@
 {
-  "Cards":{
-    "0": {
-      "title": "The Fool",
-      "image": "",
-      "arcana": "Major",
-      "number": 0,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Innocence, New Beginnings, Wonder, Foolishness"
-    },
-    "1": {
-      "title": "The Magician",
-      "arcana": "Major",
-      "number": 1,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Willpower, Creation, Mastery, Adaptation"
-    },
-    "2": {
-      "title": "The High Priestess",
-      "arcana": "Major",
-      "number": 2,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious"
-    },
-    "3": {
-      "title": "The Empress",
-      "image": "",
-      "arcana": "Major",
-      "number": 3,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Beauty, Fertility, Nurturing, Luxury, Creativity"
-    },
-    "4": {
-      "title": "The Emperor",
-      "image": "",
-      "arcana": "Major",
-      "number": 4,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Structure, Ambition, Authority, Rationality"
-    },
-    "5": {
-      "title": "The Hierophant",
-      "image": "",
-      "arcana": "Major",
-      "number": 5,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Tradition, Legacy, Society, Organized Religion"
-    },
-    "6": {
-      "title": "The Lovers",
-      "image": "",
-      "arcana": "Major",
-      "number": 6,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Choices, Union, Love, Relationship"
-    },
-    "7": {
-      "title": "The Chariot",
-      "image": "",
-      "arcana": "Major",
-      "number": 7,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Self-Control, Discipline, Success"
-    },
-    "8": {
-      "title": "Strength",
-      "image": "",
-      "arcana": "Major",
-      "number": 8,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Courage, Inner Strength, Conviction, Compassion"
-    },
-    "9": {
-      "title": "The Hermit",
-      "image": "",
-      "arcana": "Major",
-      "number": 9,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Contemplation, Solitude, Insight, Awareness"
-    },
-    "10": {
-      "title": "The Wheel of Fortune",
-      "image": "",
-      "arcana": "Major",
-      "number": 10,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Fate, Karma, Destiny, Fortune, Cycles"
-    },
-    "11": {
-      "title": "Justice",
-      "image": "",
-      "arcana": "Major",
-      "number": 11,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Truth, Fairness, Law, Clarity, Cause and Effect"
-    },
-    "12": {
-      "title": "The Hanged Man",
-      "image": "",
-      "arcana": "Major",
-      "number": 12,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Sacrifice, Suspension, Release, Martyrdom, New Perspective"
-    },
-    "13": {
-      "title": "Death",
-      "image": "",
-      "arcana": "Major",
-      "number": 13,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "End of Cycle, New Beginnings, Change, Metamorphosis"
-    },
-    "14": {
-      "title": "Temperance",
-      "image": "",
-      "arcana": "Major",
-      "number": 14,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Middle Path, Patience, Finding Meaning"
-    },
-    "15": {
-      "title": "The Devil",
-      "image": "",
-      "arcana": "Major",
-      "number": 15,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Materialism, Playfulness, Pleasure, Addiction, Self-Destruction"
-    },
-    "16": {
-      "title": "The Tower",
-      "image": "",
-      "arcana": "Major",
-      "number": 16,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Upheaval, Disaster, Foundational Shift"
-    },
-    "17": {
-      "title": "The Star",
-      "image": "",
-      "arcana": "Major",
-      "number": 17,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Hope, Faith, Rejuvenation, Rebuilding, Healing"
-    },
-    "18": {
-      "title": "The Moon",
-      "image": "",
-      "arcana": "Major",
-      "number": 18,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Unconscious, Illusions, Intuition, Lack of Clarity"
-    },
-    "19": {
-      "title": "The Sun",
-      "image": "",
-      "arcana": "Major",
-      "number": 19,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Joy, Success, Celebration, Pleasure"
-    },
-    "20": {
-      "title": "Judgment",
-      "image": "",
-      "arcana": "Major",
-      "number": 20,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Reflection, Reckoning, Awakening"
-    },
-    "21": {
-      "title": "The World",
-      "image": "",
-      "arcana": "Major",
-      "number": 21,
-      "suit": null,
-      "rotation": "UPRIGHT",
-      "keywords": "Fulfillment, Harmony, Completion"
-    },
-    "22": {
-      "title": "Ace of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 1,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Creation, Willpower, Inspiration, Desire"
-    },
-    "23": {
-      "title": "Two of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 2,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Planning, Making Decisions, Leaving Home"
-    },
-    "24": {
-      "title": "Three of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 3,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Looking Ahead, Expansion, Rapid Growth"
-    },
-    "25": {
-      "title": "Four of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 4,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Community, Home, Celebration"
-    },
-    "26": {
-      "title": "Five of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 5,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Competition, Conflict, Reality"
-    },
-    "27": {
-      "title": "Six of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 6,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Victory, Success, Public Reward"
-    },
-    "28": {
-      "title": "Seven of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 7,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Perseverance, Mounting A Defense, Maintaining Control"
-    },
-    "29": {
-      "title": "Eight of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 8,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Rapid Action, Monument, Quick Decision"
-    },
-    "30": {
-      "title": "Nine of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 9,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Resilience, Grit, Taking Last Stand"
-    },
-    "31": {
-      "title": "Ten of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 10,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Accomplishment, Responsibility, Burden"
-    },
-    "32": {
-      "title": "Page of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 11,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Exploration, Excitement, Freedom"
-    },
-    "33": {
-      "title": "Knight of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 12,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Action, Adventure, Fearlessness"
-    },
-    "34": {
-      "title": "Queen of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 13,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Courage, Determination, Passion, Joy"
-    },
-    "35": {
-      "title": "King of Wands",
-      "image": "",
-      "arcana": "Minor",
-      "number": 14,
-      "suit": "Wands",
-      "rotation": "UPRIGHT",
-      "keywords": "Big Picture, Leader, Overcoming Challenges"
-    },
-    "36": {
-      "title": "Ace of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 1,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "New Feelings, Spirituality, Intuition"
-    },
-    "37": {
-      "title": "Two of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 2,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Unity, Partnership, Connection"
-    },
-    "38": {
-      "title": "Three of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 3,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Friendship, Community, Happiness"
-    },
-    "39": {
-      "title": "Four of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 4,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Apathy, Contemplation, Disconnection"
-    },
-    "40": {
-      "title": "Five of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 5,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Loss, Grief, Disappointment, Mourning"
-    },
-    "41": {
-      "title": "Six of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 6,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Familiarity, Memories, Healing, Restoration"
-    },
-    "42": {
-      "title": "Seven of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 7,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Searching for Purpose, Choices, Daydreaming"
-    },
-    "43": {
-      "title": "Eight of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 8,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Walking Away, Disillusionment, Leaving Something Behind"
-    },
-    "44": {
-      "title": "Nine of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 9,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Satisfaction, Luxury, Emotional Stability"
-    },
-    "45": {
-      "title": "Ten of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 10,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Inner Happiness, Fulfillment, Dreams Coming True"
-    },
-    "46": {
-      "title": "Page of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 11,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Happy Surprise, Dreamer, Sensitivity"
-    },
-    "47": {
-      "title": "Knight of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 12,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Idealistic, Romantic, Following One's Heart"
-    },
-    "48": {
-      "title": "Queen of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 13,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Compassion, Calm, Comfort"
-    },
-    "49": {
-      "title": "King of Cups",
-      "image": "",
-      "arcana": "Minor",
-      "number": 14,
-      "suit": "Cups",
-      "rotation": "UPRIGHT",
-      "keywords": "Emotional Control, Balance Between Heart and Head"
-    },
-    "50": {
-      "title": "Ace of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 1,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Breakthrough, Clarity, Sharp Mind"
-    },
-    "51": {
-      "title": "Two of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 2,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Difficult Choices, Indecision, Stalemate"
-    },
-    "52": {
-      "title": "Three of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 3,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Heartbreak, Suffering, Grief"
-    },
-    "53": {
-      "title": "Four of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 4,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Rest, Restoration, Contemplation"
-    },
-    "54": {
-      "title": "Five of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 5,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Unbridled Ambition, Win At All Costs, Sneakiness"
-    },
-    "55": {
-      "title": "Six of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 6,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Transition, Leaving Behind, Moving On"
-    },
-    "56": {
-      "title": "Seven of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 7,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Deception, Trickery, Tactics and Strategy"
-    },
-    "57": {
-      "title": "Eight of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 8,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Imprisonment, Entrapment, Self-Victimization"
-    },
-    "58": {
-      "title": "Nine of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 9,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Anxiety, Hopelessness, Trauma"
-    },
-    "59": {
-      "title": "Ten of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 10,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Failure, Collapse, Defeat, Backstabbing"
-    },
-    "60": {
-      "title": "Page of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 11,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Curiosity, Restlessness, Mental Energy"
-    },
-    "61": {
-      "title": "Knight of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 12,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Action, Impulsiveness, Defending Beliefs"
-    },
-    "62": {
-      "title": "Queen of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 13,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Complexity, Perceptive, Clear Mindedness"
-    },
-    "63": {
-      "title": "King of Swords",
-      "image": "",
-      "arcana": "Minor",
-      "number": 14,
-      "suit": "Swords",
-      "rotation": "UPRIGHT",
-      "keywords": "Head Over Heart, Truth, Discipline"
-    },
-    "64": {
-      "title": "Ace of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 1,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Opportunity, Prosperity, New Venture"
-    },
-    "65": {
-      "title": "Two of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 2,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Balancing Decisions, Priorities, Adaptation"
-    },
-    "66": {
-      "title": "Three of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 3,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Teamwork, Collaboration, Building Together"
-    },
-    "67": {
-      "title": "Four of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 4,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Conservation, Security, Frugality"
-    },
-    "68": {
-      "title": "Five of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 5,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Need, Poverty, Insecurity, Low Resources"
-    },
-    "69": {
-      "title": "Six of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 6,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Charity, Generosity, Sharing"
-    },
-    "70": {
-      "title": "Seven of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 7,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Hard Work, Perseverance, Diligence"
-    },
-    "71": {
-      "title": "Eight of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 8,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Diligence, Passion, High Standards"
-    },
-    "72": {
-      "title": "Nine of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 9,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Fruits of Labour, Reckless Spending, Rewards"
-    },
-    "73": {
-      "title": "Ten of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 10,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Legacy, Inheritance, Culmination"
-    },
-    "74": {
-      "title": "Page of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 11,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Ambition, Desire, Diligence, Craving New Venture"
-    },
-    "75": {
-      "title": "Knight of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 12,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Efficiency, Hard Work, Responsibility"
-    },
-    "76": {
-      "title": "Queen of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 13,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Practicality, Creature Comforts, Security"
-    },
-    "77": {
-      "title": "King of Pentacles",
-      "image": "",
-      "arcana": "Minor",
-      "number": 14,
-      "suit": "Pentacles",
-      "rotation": "UPRIGHT",
-      "keywords": "Abundance, Prosperity, Provider, Generosity"
+  "Cards":[
+    {
+      "0":{
+        "title":"The Fool",
+        "image":"",
+        "arcana":"Major",
+        "number":0,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Innocence, New Beginnings, Wonder, Foolishness"
+      }
+    },
+    {
+      "1":{
+        "title":"The Magician",
+        "arcana":"Major",
+        "number":1,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Willpower, Creation, Mastery, Adaptation"
+      }
+    },
+    {
+      "2":{
+        "title":"The High Priestess",
+        "arcana":"Major",
+        "number":2,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious"
+      }
+    },
+    {
+      "3":{
+        "title":"The Empress",
+        "image":"",
+        "arcana":"Major",
+        "number":3,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Beauty, Fertility, Nurturing, Luxury, Creativity"
+      }
+    },
+    {
+      "4":{
+        "title":"The Emperor",
+        "image":"",
+        "arcana":"Major",
+        "number":4,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Structure, Ambition, Authority, Rationality"
+      }
+    },
+    {
+      "5":{
+        "title":"The Hierophant",
+        "image":"",
+        "arcana":"Major",
+        "number":5,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Tradition, Legacy, Society, Organized Religion"
+      }
+    },
+    {
+      "6":{
+        "title":"The Lovers",
+        "image":"",
+        "arcana":"Major",
+        "number":6,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Choices, Union, Love, Relationship"
+      }
+    },
+    {
+      "7":{
+        "title":"The Chariot",
+        "image":"",
+        "arcana":"Major",
+        "number":7,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Self-Control, Discipline, Success"
+      }
+    },
+    {
+      "8":{
+        "title":"Strength",
+        "image":"",
+        "arcana":"Major",
+        "number":8,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Courage, Inner Strength, Conviction, Compassion"
+      }
+    },
+    {
+      "9":{
+        "title":"The Hermit",
+        "image":"",
+        "arcana":"Major",
+        "number":9,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Contemplation, Solitude, Insight, Awareness"
+      }
+    },
+    {
+      "10":{
+        "title":"The Wheel of Fortune",
+        "image":"",
+        "arcana":"Major",
+        "number":10,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Fate, Karma, Destiny, Fortune, Cycles"
+      }
+    },
+    {
+      "11":{
+        "title":"Justice",
+        "image":"",
+        "arcana":"Major",
+        "number":11,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Truth, Fairness, Law, Clarity, Cause and Effect"
+      }
+    },
+    {
+      "12":{
+        "title":"The Hanged Man",
+        "image":"",
+        "arcana":"Major",
+        "number":12,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Sacrifice, Suspension, Release, Martyrdom, New Perspective"
+      }
+    },
+    {
+      "13":{
+        "title":"Death",
+        "image":"",
+        "arcana":"Major",
+        "number":13,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"End of Cycle, New Beginnings, Change, Metamorphosis"
+      }
+    },
+    {
+      "14":{
+        "title":"Temperance",
+        "image":"",
+        "arcana":"Major",
+        "number":14,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Middle Path, Patience, Finding Meaning"
+      }
+    },
+    {
+      "15":{
+        "title":"The Devil",
+        "image":"",
+        "arcana":"Major",
+        "number":15,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Materialism, Playfulness, Pleasure, Addiction, Self-Destruction"
+      }
+    },
+    {
+      "16":{
+        "title":"The Tower",
+        "image":"",
+        "arcana":"Major",
+        "number":16,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Upheaval, Disaster, Foundational Shift"
+      }
+    },
+    {
+      "17":{
+        "title":"The Star",
+        "image":"",
+        "arcana":"Major",
+        "number":17,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Hope, Faith, Rejuvenation, Rebuilding, Healing"
+      }
+    },
+    {
+      "18":{
+        "title":"The Moon",
+        "image":"",
+        "arcana":"Major",
+        "number":18,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Unconscious, Illusions, Intuition, Lack of Clarity"
+      }
+    },
+    {
+      "19":{
+        "title":"The Sun",
+        "image":"",
+        "arcana":"Major",
+        "number":19,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Joy, Success, Celebration, Pleasure"
+      }
+    },
+    {
+      "20":{
+        "title":"Judgment",
+        "image":"",
+        "arcana":"Major",
+        "number":20,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Reflection, Reckoning, Awakening"
+      }
+    },
+    {
+      "21":{
+        "title":"The World",
+        "image":"",
+        "arcana":"Major",
+        "number":21,
+        "suit":null,
+        "rotation":"UPRIGHT",
+        "keywords":"Fulfillment, Harmony, Completion"
+      }
+    },
+    {
+      "22":{
+        "title":"Ace of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":1,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Creation, Willpower, Inspiration, Desire"
+      }
+    },
+    {
+      "23":{
+        "title":"Two of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":2,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Planning, Making Decisions, Leaving Home"
+      }
+    },
+    {
+      "24":{
+        "title":"Three of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":3,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Looking Ahead, Expansion, Rapid Growth"
+      }
+    },
+    {
+      "25":{
+        "title":"Four of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":4,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Community, Home, Celebration"
+      }
+    },
+    {
+      "26":{
+        "title":"Five of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":5,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Competition, Conflict, Reality"
+      }
+    },
+    {
+      "27":{
+        "title":"Six of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":6,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Victory, Success, Public Reward"
+      }
+    },
+    {
+      "28":{
+        "title":"Seven of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":7,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Perseverance, Mounting A Defense, Maintaining Control"
+      }
+    },
+    {
+      "29":{
+        "title":"Eight of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":8,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Rapid Action, Monument, Quick Decision"
+      }
+    },
+    {
+      "30":{
+        "title":"Nine of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":9,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Resilience, Grit, Taking Last Stand"
+      }
+    },
+    {
+      "31":{
+        "title":"Ten of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":10,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Accomplishment, Responsibility, Burden"
+      }
+    },
+    {
+      "32":{
+        "title":"Page of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":11,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Exploration, Excitement, Freedom"
+      }
+    },
+    {
+      "33":{
+        "title":"Knight of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":12,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Action, Adventure, Fearlessness"
+      }
+    },
+    {
+      "34":{
+        "title":"Queen of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":13,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Courage, Determination, Passion, Joy"
+      }
+    },
+    {
+      "35":{
+        "title":"King of Wands",
+        "image":"",
+        "arcana":"Minor",
+        "number":14,
+        "suit":"Wands",
+        "rotation":"UPRIGHT",
+        "keywords":"Big Picture, Leader, Overcoming Challenges"
+      }
+    },
+    {
+      "36":{
+        "title":"Ace of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":1,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"New Feelings, Spirituality, Intuition"
+      }
+    },
+    {
+      "37":{
+        "title":"Two of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":2,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Unity, Partnership, Connection"
+      }
+    },
+    {
+      "38":{
+        "title":"Three of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":3,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Friendship, Community, Happiness"
+      }
+    },
+    {
+      "39":{
+        "title":"Four of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":4,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Apathy, Contemplation, Disconnection"
+      }
+    },
+    {
+      "40":{
+        "title":"Five of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":5,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Loss, Grief, Disappointment, Mourning"
+      }
+    },
+    {
+      "41":{
+        "title":"Six of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":6,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Familiarity, Memories, Healing, Restoration"
+      }
+    },
+    {
+      "42":{
+        "title":"Seven of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":7,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Searching for Purpose, Choices, Daydreaming"
+      }
+    },
+    {
+      "43":{
+        "title":"Eight of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":8,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Walking Away, Disillusionment, Leaving Something Behind"
+      }
+    },
+    {
+      "44":{
+        "title":"Nine of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":9,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Satisfaction, Luxury, Emotional Stability"
+      }
+    },
+    {
+      "45":{
+        "title":"Ten of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":10,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Inner Happiness, Fulfillment, Dreams Coming True"
+      }
+    },
+    {
+      "46":{
+        "title":"Page of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":11,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Happy Surprise, Dreamer, Sensitivity"
+      }
+    },
+    {
+      "47":{
+        "title":"Knight of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":12,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Idealistic, Romantic, Following One's Heart"
+      }
+    },
+    {
+      "48":{
+        "title":"Queen of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":13,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Compassion, Calm, Comfort"
+      }
+    },
+    {
+      "49":{
+        "title":"King of Cups",
+        "image":"",
+        "arcana":"Minor",
+        "number":14,
+        "suit":"Cups",
+        "rotation":"UPRIGHT",
+        "keywords":"Emotional Control, Balance Between Heart and Head"
+      }
+    },
+    {
+      "50":{
+        "title":"Ace of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":1,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Breakthrough, Clarity, Sharp Mind"
+      }
+    },
+    {
+      "51":{
+        "title":"Two of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":2,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Difficult Choices, Indecision, Stalemate"
+      }
+    },
+    {
+      "52":{
+        "title":"Three of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":3,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Heartbreak, Suffering, Grief"
+      }
+    },
+    {
+      "53":{
+        "title":"Four of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":4,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Rest, Restoration, Contemplation"
+      }
+    },
+    {
+      "54":{
+        "title":"Five of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":5,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Unbridled Ambition, Win At All Costs, Sneakiness"
+      }
+    },
+    {
+      "55":{
+        "title":"Six of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":6,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Transition, Leaving Behind, Moving On"
+      }
+    },
+    {
+      "56":{
+        "title":"Seven of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":7,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Deception, Trickery, Tactics and Strategy"
+      }
+    },
+    {
+      "57":{
+        "title":"Eight of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":8,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Imprisonment, Entrapment, Self-Victimization"
+      }
+    },
+    {
+      "58":{
+        "title":"Nine of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":9,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Anxiety, Hopelessness, Trauma"
+      }
+    },
+    {
+      "59":{
+        "title":"Ten of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":10,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Failure, Collapse, Defeat, Backstabbing"
+      }
+    },
+    {
+      "60":{
+        "title":"Page of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":11,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Curiosity, Restlessness, Mental Energy"
+      }
+    },
+    {
+      "61":{
+        "title":"Knight of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":12,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Action, Impulsiveness, Defending Beliefs"
+      }
+    },
+    {
+      "62":{
+        "title":"Queen of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":13,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Complexity, Perceptive, Clear Mindedness"
+      }
+    },
+    {
+      "63":{
+        "title":"King of Swords",
+        "image":"",
+        "arcana":"Minor",
+        "number":14,
+        "suit":"Swords",
+        "rotation":"UPRIGHT",
+        "keywords":"Head Over Heart, Truth, Discipline"
+      }
+    },
+    {
+      "64":{
+        "title":"Ace of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":1,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Opportunity, Prosperity, New Venture"
+      }
+    },
+    {
+      "65":{
+        "title":"Two of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":2,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Balancing Decisions, Priorities, Adaptation"
+      }
+    },
+    {
+      "66":{
+        "title":"Three of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":3,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Teamwork, Collaboration, Building Together"
+      }
+    },
+    {
+      "67":{
+        "title":"Four of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":4,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Conservation, Security, Frugality"
+      }
+    },
+    {
+      "68":{
+        "title":"Five of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":5,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Need, Poverty, Insecurity, Low Resources"
+      }
+    },
+    {
+      "69":{
+        "title":"Six of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":6,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Charity, Generosity, Sharing"
+      }
+    },
+    {
+      "70":{
+        "title":"Seven of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":7,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Hard Work, Perseverance, Diligence"
+      }
+    },
+    {
+      "71":{
+        "title":"Eight of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":8,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Diligence, Passion, High Standards"
+      }
+    },
+    {
+      "72":{
+        "title":"Nine of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":9,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Fruits of Labour, Reckless Spending, Rewards"
+      }
+    },
+    {
+      "73":{
+        "title":"Ten of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":10,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Legacy, Inheritance, Culmination"
+      }
+    },
+    {
+      "74":{
+        "title":"Page of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":11,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Ambition, Desire, Diligence, Craving New Venture"
+      }
+    },
+    {
+      "75":{
+        "title":"Knight of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":12,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Efficiency, Hard Work, Responsibility"
+      }
+    },
+    {
+      "76":{
+        "title":"Queen of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":13,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Practicality, Creature Comforts, Security"
+      }
+    },
+    {
+      "77":{
+        "title":"King of Pentacles",
+        "image":"",
+        "arcana":"Minor",
+        "number":14,
+        "suit":"Pentacles",
+        "rotation":"UPRIGHT",
+        "keywords":"Abundance, Prosperity, Provider, Generosity"
+      }
     }
-  }
+  ]
 }
