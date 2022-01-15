@@ -237,3 +237,8 @@ Ch. 59
 Ch. 66
 - Combining Micro Scale and Macro Scale Story Grids to make the overarching story grid
 
+
+
+Need to incorporate dice rolling into card interpretation:
+- roll a d20
+- there are 20 independent and valid interpretations of each card, ranging from worst (1) to best (20)
