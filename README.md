@@ -240,5 +240,12 @@ Ch. 66
 
 
 Need to incorporate dice rolling into card interpretation:
-- roll a d20
-- there are 20 independent and valid interpretations of each card, ranging from worst (1) to best (20)
+- roll a d4
+- there are 4 independent and valid interpretations of each card, ranging from worst (1) to best (4)
+- there are 4 defined directions on a compass: N, E, W, S
+- there are 4 defined card placements: upright, onside right, onside left, reversed
+- there are 4 defined interpretations of card placement: positive, trending towards positive, tending towards negative, negative
+- equate the following: d4 roll == direction == card placement == interpretation == WORDS
+- What is the most 1 value of the card, which is also asking what is the most reversed meaning of the card?
+- do this for all possible rolls for each card
+- QED.
