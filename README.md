@@ -246,7 +246,7 @@ When deciding on the interpreted answer to each story structure question ->
 - there are 4 defined directions on a compass: N, E, W, S
 - there are 4 defined card placements: upright, onside right, onside left, reversed
 - there are 4 defined interpretations of card placement: positive, trending towards positive, tending towards negative, negative
-- equate the following: d4 roll == direction == card placement == interpretation == WORDS
+- equate the following: d4 roll == direction == card placement == interpretation == *WORDS*
 - What is the most 1 value of the card, which is also asking what is the most reversed meaning of the card?
 - do this for all possible rolls for each card
 - QED.
@@ -266,3 +266,18 @@ Notes on Tarot Round usage:
 
 
 Whoever wins the game is the protagonist
+
+
+
+*WORDS*:
+- This has an elegant equation, taken directly from DBT:
+- WORDS = Emotions + Facts + Consequences
+- apply this equation to every possible dice roll outcome
+
+
+
+TL;DR:
+- The first play of the round is the Trick, which means they are the Inciting Incident
+- The second play is the Complication and Crisis, which also begins the Defense
+- The third play is the Climax, which is the last play of the Defense
+- The Resolution is who won the game round
