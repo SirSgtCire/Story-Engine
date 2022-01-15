@@ -1,5 +1,6 @@
 package com.storyengine.tarot;
 
+import org.json.simple.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -13,12 +14,13 @@ public class Card {
     private String suit;
     private String rotation;
     private String keywords;
+    private JSONObject legend;
     private enum rotations {
         UPRIGHT, RONSIDE, LONSIDE, REVERSED, FACEDOWN
     }
     
-    public Card(Integer order, String title, String image, String arcana,
-                Integer number, String suit, String rotation, String keywords) {
+    public Card(Integer order, String title, String image, String arcana, Integer number,
+                String suit, String rotation, String keywords, JSONObject legend) {
         this.order = order;
         this.title = title;
         this.image = image;
@@ -27,6 +29,7 @@ public class Card {
         this.suit = suit;
         this.rotation = rotation;
         this.keywords = keywords;
+        this.legend = legend;
     }
 
     public void display() {
@@ -38,11 +41,17 @@ public class Card {
         logger.info("Suit: " + suit);
         logger.info("Rotation: " + rotation);
         logger.info("Keywords: " + keywords);
+        logger.info("Legend: " + legend);
     }
 
     public void rotate(String newRotation) {
         logger.info("Old rotation: " + rotation);
-        this.rotation = rotations.valueOf(newRotation).toString();
+        try {
+            this.rotation = rotations.valueOf(newRotation).toString();
+        } catch (Exception e) {
+            logger.error(String.format("We received the following error:\n%s", e));
+            logger.info("Here are the valid inputs that can be used: UPRIGHT, RONSIDE, LONSIDE, REVERSED, FACEDOWN\n");
+        }
         logger.info("New rotation: " + rotation);
     }
 }
