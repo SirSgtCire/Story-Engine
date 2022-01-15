@@ -1,6 +1,7 @@
 # Arcanum
 ## Context
 Welcome to Arcanum!
+Also known as Story Engine!
 Blah
 
 ## Objective
@@ -18,7 +19,7 @@ Blah
 ## Contributing
 Blah
 
-
+## NOTES
 Tarot Suit Rankings:
 wands, batons, or rods (clubs); cups (hearts); swords (spades); and coins, pentacles, or disks (diamonds)
 
@@ -130,6 +131,9 @@ Tarot Game Round Rules Brainstorming:
 - you cannot have less players than size of Tarot Game (cannot have five card spread for four or three players)
 - each card in a Tarot Game Round corresponds to which character (in their player position) played the card
 - each card played by each player is that character's answer to the Five-Part Story Structure
+- each card played represents a scene, owned by the associated character, which also asks the Five Questions
+- each chapter is a sequence of scenes equal to the number of players in the round of Tarot, so 3 - 5 scenes
+- the number of subplots in a story is equal to the number of face cards played as the Trick in a round (average between 4 and 7)
 
 
 
