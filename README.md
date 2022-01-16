@@ -280,8 +280,20 @@ Whoever wins the game is the protagonist
 
 
 
-TL;DR:
+More Game Notes:
 - The first play of the round is the Trick, which means they are the Inciting Incident
 - The second play is the Complication and Crisis, which also begins the Defense
 - The third play is the Climax, which is the last play of the Defense
 - The Resolution is who won the game round
+
+
+
+Sentence Structuring:
+- there are five important nouns: Person, Thing, Idea, Quality, Action (Place and Animal do not apply)
+- We need to assign each of these noun types to one of the Five Questions
+- We have the following:
+- -> Inciting Incident: "The __(Thing)__ happens."
+- -> Complication: "The __(Person)__ gets involved."
+- -> Crisis: "The __(Idea)__ becomes known."
+- -> Climax: "The __(Action)__ is taken."
+- -> Resolution: "The __(Quality)__ is achieved."

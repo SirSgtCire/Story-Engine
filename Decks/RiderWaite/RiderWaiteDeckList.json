@@ -46,11 +46,11 @@
         "rotation":"UPRIGHT",
         "keywords":"Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
         "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+          "Enlightenment":[4,2],
+          "Wisdom":[3,1],
+          "Intuition":[0,0],
+          "Bias":[2,-1],
+          "Prejudice":[1,-2]
         }
       }
     },
@@ -64,11 +64,11 @@
         "rotation":"UPRIGHT",
         "keywords":"Beauty, Fertility, Nurturing, Luxury, Creativity",
         "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+          "Fertility":[4,2],
+          "Development":[3,1],
+          "Growth":[0,0],
+          "Greed":[2,-1],
+          "Depletion":[1,-2]
         }
       }
     },
@@ -82,11 +82,11 @@
         "rotation":"UPRIGHT",
         "keywords":"Structure, Ambition, Authority, Rationality",
         "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+          "Stability":[4,2],
+          "Structure":[3,1],
+          "Order":[0,0],
+          "Regulation":[2,-1],
+          "Authoritarianism":[1,-2]
         }
       }
     },
@@ -100,11 +100,11 @@
         "rotation":"UPRIGHT",
         "keywords":"Tradition, Legacy, Society, Organized Religion",
         "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+          "Orthodoxy":[4,2],
+          "Education":[3,1],
+          "Tradition":[0,0],
+          "Conformity":[2,-1],
+          "Zealotry":[1,-2]
         }
       }
     },
