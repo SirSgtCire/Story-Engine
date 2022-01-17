@@ -8,13 +8,11 @@
         "number":0,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Innocence, New Beginnings, Wonder, Foolishness",
-        "legend":{
-          "Purity":[4,2],
-          "Potential":[3,1],
-          "Innocence":[0,0],
-          "Naivete":[2,-1],
-          "Irresponsibility":[1,-2]
+        "keywords":{
+          "General": "Innocence, New Beginnings, Wonder, Foolishness",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -26,13 +24,11 @@
         "number":1,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Willpower, Creation, Mastery, Adaptation",
-        "legend":{
-          "Creativity":[4,2],
-          "Accomplishment":[3,1],
-          "Ingenuity":[0,0],
-          "Charlatan":[2,-1],
-          "Arrogance":[1,-2]
+        "keywords":{
+          "General":"Willpower, Creation, Mastery, Adaptation",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -44,13 +40,11 @@
         "number":2,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
-        "legend":{
-          "Enlightenment":[4,2],
-          "Wisdom":[3,1],
-          "Intuition":[0,0],
-          "Bias":[2,-1],
-          "Prejudice":[1,-2]
+        "keywords":{
+          "General":"Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -62,13 +56,11 @@
         "number":3,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Beauty, Fertility, Nurturing, Luxury, Creativity",
-        "legend":{
-          "Fertility":[4,2],
-          "Development":[3,1],
-          "Growth":[0,0],
-          "Greed":[2,-1],
-          "Depletion":[1,-2]
+        "keywords":{
+          "General":"Beauty, Fertility, Nurturing, Luxury, Creativity",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -80,13 +72,11 @@
         "number":4,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Structure, Ambition, Authority, Rationality",
-        "legend":{
-          "Stability":[4,2],
-          "Structure":[3,1],
-          "Order":[0,0],
-          "Regulation":[2,-1],
-          "Authoritarianism":[1,-2]
+        "keywords":{
+          "General":"Structure, Ambition, Authority, Rationality",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -98,13 +88,11 @@
         "number":5,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Tradition, Legacy, Society, Organized Religion",
-        "legend":{
-          "Orthodoxy":[4,2],
-          "Education":[3,1],
-          "Tradition":[0,0],
-          "Conformity":[2,-1],
-          "Zealotry":[1,-2]
+        "keywords":{
+          "General":"Tradition, Legacy, Society, Organized Religion",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -116,13 +104,11 @@
         "number":6,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Choices, Union, Love, Relationship",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Choices, Union, Love, Relationship",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -134,13 +120,11 @@
         "number":7,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Self-Control, Discipline, Success",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Self-Control, Discipline, Success",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -152,13 +136,11 @@
         "number":8,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Courage, Inner Strength, Conviction, Compassion",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Courage, Inner Strength, Conviction, Compassion",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -170,13 +152,11 @@
         "number":9,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Contemplation, Solitude, Insight, Awareness",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Contemplation, Solitude, Insight, Awareness",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -188,13 +168,11 @@
         "number":10,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Fate, Karma, Destiny, Fortune, Cycles",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Fate, Karma, Destiny, Fortune, Cycles",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -206,13 +184,11 @@
         "number":11,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Truth, Fairness, Law, Clarity, Cause and Effect",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Truth, Fairness, Law, Clarity, Cause and Effect",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -224,13 +200,11 @@
         "number":12,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Sacrifice, Suspension, Release, Martyrdom, New Perspective",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Sacrifice, Suspension, Release, Martyrdom, New Perspective",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -242,13 +216,11 @@
         "number":13,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"End of Cycle, New Beginnings, Change, Metamorphosis",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"End of Cycle, New Beginnings, Change, Metamorphosis",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -260,13 +232,11 @@
         "number":14,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Middle Path, Patience, Finding Meaning",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Middle Path, Patience, Finding Meaning",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -278,13 +248,11 @@
         "number":15,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -296,13 +264,11 @@
         "number":16,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Upheaval, Disaster, Foundational Shift",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Upheaval, Disaster, Foundational Shift",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -314,13 +280,11 @@
         "number":17,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Hope, Faith, Rejuvenation, Rebuilding, Healing",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Hope, Faith, Rejuvenation, Rebuilding, Healing",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -332,13 +296,11 @@
         "number":18,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Unconscious, Illusions, Intuition, Lack of Clarity",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Unconscious, Illusions, Intuition, Lack of Clarity",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -350,13 +312,11 @@
         "number":19,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Joy, Success, Celebration, Pleasure",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Joy, Success, Celebration, Pleasure",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -368,13 +328,11 @@
         "number":20,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Reflection, Reckoning, Awakening",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Reflection, Reckoning, Awakening",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -386,13 +344,11 @@
         "number":21,
         "suit":null,
         "rotation":"UPRIGHT",
-        "keywords":"Fulfillment, Harmony, Completion",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Fulfillment, Harmony, Completion",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -404,13 +360,11 @@
         "number":1,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Creation, Willpower, Inspiration, Desire",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Creation, Willpower, Inspiration, Desire",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -422,13 +376,11 @@
         "number":2,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Planning, Making Decisions, Leaving Home",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Planning, Making Decisions, Leaving Home",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -440,13 +392,11 @@
         "number":3,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Looking Ahead, Expansion, Rapid Growth",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Looking Ahead, Expansion, Rapid Growth",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -458,13 +408,11 @@
         "number":4,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Community, Home, Celebration",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Community, Home, Celebration",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -476,13 +424,11 @@
         "number":5,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Competition, Conflict, Reality",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Competition, Conflict, Reality",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -494,13 +440,11 @@
         "number":6,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Victory, Success, Public Reward",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Victory, Success, Public Reward",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -512,13 +456,11 @@
         "number":7,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Perseverance, Mounting A Defense, Maintaining Control",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Perseverance, Mounting A Defense, Maintaining Control",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -530,13 +472,11 @@
         "number":8,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Rapid Action, Monument, Quick Decision",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Rapid Action, Monument, Quick Decision",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -548,13 +488,11 @@
         "number":9,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Resilience, Grit, Taking Last Stand",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Resilience, Grit, Taking Last Stand",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -566,13 +504,11 @@
         "number":10,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Accomplishment, Responsibility, Burden",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Accomplishment, Responsibility, Burden",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -584,13 +520,11 @@
         "number":11,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Exploration, Excitement, Freedom",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Exploration, Excitement, Freedom",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -602,13 +536,11 @@
         "number":12,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Action, Adventure, Fearlessness",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Action, Adventure, Fearlessness",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -620,13 +552,11 @@
         "number":13,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Courage, Determination, Passion, Joy",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Courage, Determination, Passion, Joy",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -638,13 +568,11 @@
         "number":14,
         "suit":"Wands",
         "rotation":"UPRIGHT",
-        "keywords":"Big Picture, Leader, Overcoming Challenges",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Big Picture, Leader, Overcoming Challenges",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -656,13 +584,11 @@
         "number":1,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"New Feelings, Spirituality, Intuition",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"New Feelings, Spirituality, Intuition",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -674,13 +600,11 @@
         "number":2,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Unity, Partnership, Connection",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Unity, Partnership, Connection",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -692,13 +616,11 @@
         "number":3,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Friendship, Community, Happiness",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Friendship, Community, Happiness",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -710,13 +632,11 @@
         "number":4,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Apathy, Contemplation, Disconnection",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Apathy, Contemplation, Disconnection",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -728,13 +648,11 @@
         "number":5,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Loss, Grief, Disappointment, Mourning",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Loss, Grief, Disappointment, Mourning",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -746,13 +664,11 @@
         "number":6,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Familiarity, Memories, Healing, Restoration",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Familiarity, Memories, Healing, Restoration",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -764,13 +680,11 @@
         "number":7,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Searching for Purpose, Choices, Daydreaming",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Searching for Purpose, Choices, Daydreaming",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -782,13 +696,11 @@
         "number":8,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Walking Away, Disillusionment, Leaving Something Behind",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Walking Away, Disillusionment, Leaving Something Behind",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -800,13 +712,11 @@
         "number":9,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Satisfaction, Luxury, Emotional Stability",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Satisfaction, Luxury, Emotional Stability",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -818,13 +728,11 @@
         "number":10,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Inner Happiness, Fulfillment, Dreams Coming True",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Inner Happiness, Fulfillment, Dreams Coming True",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -836,13 +744,11 @@
         "number":11,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Happy Surprise, Dreamer, Sensitivity",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Happy Surprise, Dreamer, Sensitivity",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -854,13 +760,11 @@
         "number":12,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Idealistic, Romantic, Following One's Heart",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Idealistic, Romantic, Following One's Heart",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -872,13 +776,11 @@
         "number":13,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Compassion, Calm, Comfort",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Compassion, Calm, Comfort",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -890,13 +792,11 @@
         "number":14,
         "suit":"Cups",
         "rotation":"UPRIGHT",
-        "keywords":"Emotional Control, Balance Between Heart and Head",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Emotional Control, Balance Between Heart and Head",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -908,13 +808,11 @@
         "number":1,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Breakthrough, Clarity, Sharp Mind",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Breakthrough, Clarity, Sharp Mind",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -926,13 +824,11 @@
         "number":2,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Difficult Choices, Indecision, Stalemate",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Difficult Choices, Indecision, Stalemate",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -944,13 +840,11 @@
         "number":3,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Heartbreak, Suffering, Grief",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Heartbreak, Suffering, Grief",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -962,13 +856,11 @@
         "number":4,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Rest, Restoration, Contemplation",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Rest, Restoration, Contemplation",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -980,13 +872,11 @@
         "number":5,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Unbridled Ambition, Win At All Costs, Sneakiness",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Unbridled Ambition, Win At All Costs, Sneakiness",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -998,13 +888,11 @@
         "number":6,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Transition, Leaving Behind, Moving On",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Transition, Leaving Behind, Moving On",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1016,13 +904,11 @@
         "number":7,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Deception, Trickery, Tactics and Strategy",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Deception, Trickery, Tactics and Strategy",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1034,13 +920,11 @@
         "number":8,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Imprisonment, Entrapment, Self-Victimization",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Imprisonment, Entrapment, Self-Victimization",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1052,13 +936,11 @@
         "number":9,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Anxiety, Hopelessness, Trauma",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Anxiety, Hopelessness, Trauma",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1070,13 +952,11 @@
         "number":10,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Failure, Collapse, Defeat, Backstabbing",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Failure, Collapse, Defeat, Backstabbing",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1088,13 +968,11 @@
         "number":11,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Curiosity, Restlessness, Mental Energy",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Curiosity, Restlessness, Mental Energy",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1106,13 +984,11 @@
         "number":12,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Action, Impulsiveness, Defending Beliefs",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Action, Impulsiveness, Defending Beliefs",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1124,13 +1000,11 @@
         "number":13,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Complexity, Perceptive, Clear Mindedness",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Complexity, Perceptive, Clear Mindedness",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1142,13 +1016,11 @@
         "number":14,
         "suit":"Swords",
         "rotation":"UPRIGHT",
-        "keywords":"Head Over Heart, Truth, Discipline",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Head Over Heart, Truth, Discipline",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1160,13 +1032,11 @@
         "number":1,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Opportunity, Prosperity, New Venture",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Opportunity, Prosperity, New Venture",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1178,13 +1048,11 @@
         "number":2,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Balancing Decisions, Priorities, Adaptation",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Balancing Decisions, Priorities, Adaptation",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1196,13 +1064,11 @@
         "number":3,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Teamwork, Collaboration, Building Together",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Teamwork, Collaboration, Building Together",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1214,13 +1080,11 @@
         "number":4,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Conservation, Security, Frugality",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Conservation, Security, Frugality",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1232,13 +1096,11 @@
         "number":5,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Need, Poverty, Insecurity, Low Resources",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Need, Poverty, Insecurity, Low Resources",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1250,13 +1112,11 @@
         "number":6,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Charity, Generosity, Sharing",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Charity, Generosity, Sharing",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1268,13 +1128,11 @@
         "number":7,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Hard Work, Perseverance, Diligence",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Hard Work, Perseverance, Diligence",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1286,13 +1144,11 @@
         "number":8,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Diligence, Passion, High Standards",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Diligence, Passion, High Standards",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1304,13 +1160,11 @@
         "number":9,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Fruits of Labour, Reckless Spending, Rewards",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Fruits of Labour, Reckless Spending, Rewards",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1322,13 +1176,11 @@
         "number":10,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Legacy, Inheritance, Culmination",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Legacy, Inheritance, Culmination",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1340,13 +1192,11 @@
         "number":11,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Ambition, Desire, Diligence, Craving New Venture",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Ambition, Desire, Diligence, Craving New Venture",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1358,13 +1208,11 @@
         "number":12,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Efficiency, Hard Work, Responsibility",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Efficiency, Hard Work, Responsibility",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1376,13 +1224,11 @@
         "number":13,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Practicality, Creature Comforts, Security",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Practicality, Creature Comforts, Security",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     },
@@ -1394,13 +1240,11 @@
         "number":14,
         "suit":"Pentacles",
         "rotation":"UPRIGHT",
-        "keywords":"Abundance, Prosperity, Provider, Generosity",
-        "legend":{
-          "":[4,2],
-          "":[3,1],
-          "":[0,0],
-          "":[2,-1],
-          "":[1,-2]
+        "keywords":{
+          "General":"Abundance, Prosperity, Provider, Generosity",
+          "Emotions":"",
+          "Facts":"",
+          "Consequences":""
         }
       }
     }

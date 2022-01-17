@@ -37,7 +37,7 @@ public class Deck {
             size = cardCount;
 
         } catch (Exception e) {
-            logger.info("We received an error with deck input: " + e);
+            logger.info("We received the following error: " + e);
             e.printStackTrace();
         }
     }
@@ -56,6 +56,10 @@ public class Deck {
     public void shuffle() {
         logger.info("Shuffling the deck...");
         Collections.shuffle(Deck);
+    }
+
+    public void reorder() {
+        logger.info("Reordering the deck...");
     }
 
     public void drawOneFromTop() {

@@ -13,8 +13,7 @@ public class Card {
     private Integer number;
     private String suit;
     private String rotation;
-    private String keywords;
-    private JSONObject legend;
+    private JSONObject keywords;
     private enum rotations {
         UPRIGHT, RONSIDE, LONSIDE, REVERSED, FACEDOWN
     }
@@ -23,7 +22,7 @@ public class Card {
     }
     
     public Card(Integer order, String title, String image, String arcana, Integer number,
-                String suit, String rotation, String keywords, JSONObject legend) {
+                String suit, String rotation, JSONObject keywords) {
         this.order = order;
         this.title = title;
         this.image = image;
@@ -32,7 +31,6 @@ public class Card {
         this.suit = suit;
         this.rotation = rotation;
         this.keywords = keywords;
-        this.legend = legend;
     }
 
     public void display() {
@@ -43,8 +41,7 @@ public class Card {
         logger.info("Number: " + number);
         logger.info("Suit: " + suit);
         logger.info("Rotation: " + rotation);
-        logger.info("Keywords: " + keywords);
-        logger.info("Legend: " + legend);
+        logger.info("Keywords: " + keywords.toString());
     }
 
     public void rotate(String newRotation) {
