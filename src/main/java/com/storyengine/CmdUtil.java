@@ -13,10 +13,9 @@ public class CmdUtil {
         ProcessBuilder builder = new ProcessBuilder("sh", "-c", command);
         builder.redirectErrorStream(true);
         Process process = builder.start();
-        InputStream is = process.getInputStream();
-        BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+        BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+        StringBuilder output = new StringBuilder();
         String line;
-        StringBuilder output = null;
         while ((line = reader.readLine()) != null) {
             logger.info(line);
             output.append(line);
