@@ -116,11 +116,11 @@ The Taker has one of two decisions to make before game starts:
 - -> Following the 25/50/25 novel distribution, we need two Chapters per question in Act 2, which is twice that of Acts 1 and 3
 - We are now ready to evaluate each Sequence/Chapter, which we equate to one Round of French Tarot
 - For each Round, we answer the "Five Building Block Questions" based on turn order in the Round:
-- -> Player 1 = The Trick = Inciting Incident = Emotions
-- -> Player 2 = The Defense (Part 1) = Complication + Crisis = Facts
-- -> Player 3 = The Defense (Part 2) = Climax = Consequences - Resolution
+- -> Player 1 = The Trick = Inciting Incident = Facts
+- -> Player 2 = The Defense (Part 1) = Complication + Crisis = Consequences
+- -> Player 3 = The Defense (Part 2) = Climax = Emotions - Resolution
 - -> The Resolution is responsible for two story aspects:
-- -> 1. Climax + "Resolution" = Consequences
+- -> 1. Climax + "Resolution" = Emotions
 - -> 2. Resolution = Round Winner = Controls the next Round's Inciting Incident
 - -> The above ties together each consecutive Sequence/Chapter through Resolution -> Inciting Incident, looping on our building block narrative structure
 - We now evaluate each Scene within each Chapter, where Scene = Card played in Round

@@ -13,7 +13,6 @@ public class Deck {
     private List<Card> Deck;
     private Integer size;
     private Random rand;
-    private Card card;
     
     public Deck(String deckInput, String jsonHeader) throws Exception {
         // Create the deck
@@ -37,7 +36,7 @@ public class Deck {
             size = cardCount;
 
         } catch (Exception e) {
-            logger.info("We received the following error: " + e);
+            logger.info(String.format("We received the following error:\n%s", e));
             e.printStackTrace();
         }
     }
@@ -49,8 +48,8 @@ public class Deck {
     public void randomCard(Integer deckSize) {
         logger.info("Drawing a card from the deck...");
         int pick = rand.nextInt(deckSize);
-        card = Deck.get(pick);
-        card.display();
+        logger.info(String.format("You chose card number %d, which happens to be...\n", pick));
+        Deck.get(pick).display();
     }
 
     public void shuffle() {
