@@ -4,16 +4,21 @@ Welcome to Arcanum!
 Also known as Story Engine!
 
 ## Objective
-We intend to use the game of French Tarot to drive stories, since Tarot Cards represent narrative archetype.
+We use the game of French Tarot to drive stories, since Tarot Cards represent narrative archetypes.
 
 ## Rider Waite Tarot Deck
-Blah
+https://tarotx.net/tarot-card-meanings/rider-waite/
+
+Suit Rankings:
+wands, batons, or rods (clubs); cups (hearts); swords (spades); and coins, pentacles, or disks (diamonds)
+
 
 ## French Tarot Game
 ###Game Setup:
 - For three players, there are 24 rounds of play, six card dog
 - For four players, there are 18 rounds of play, six card dog
 - For five players, there are 15 rounds of play, three card dog
+- Shuffle the deck, and deal each player a card. The player with the lowest value card deals first.
 
 ###Tarot Gameplay Rules:
 0. Tarot Game is a three to five player game, no more, no less.
@@ -37,8 +42,8 @@ Blah
 - All cards in Tarot have supports and oppositions.
 - That list of details can be found at: https://tarotx.net/tarot-card-meanings/rider-waite/
 - After the first card is played, a player has two real options.
-- First, play a card that either supports or is supported by the previous card, in any faceup square orientation you choose.
-- Second, play a card that either opposes or is opposed by the previous card, in any faceup square orientation you choose.
+- First, play a card that either supports or is supported by the previous card, in any face up square orientation you choose.
+- Second, play a card that either opposes or is opposed by the previous card, in any face up square orientation you choose.
 - Play continues until the last card is played.
 - The result of the last card is the result of the game.
 - No objections can be made to the result of the game UNLESS a player has broken any of the above rules.
@@ -57,13 +62,52 @@ The Taker has one of two decisions to make before game starts:
 4. Climax
 5. Resolution
 - Each layer of story MUST answer these building block questions:
-1. Beats (smallest unit of story)
+1. Beats (the smallest unit of story)
 2. Scenes (basic building blocks of story)
 3. Sequences / Chapters (minor life stages in story)
 4. Acts (major life stages in story)
 5. Subplots (controlling theme amplifiers, useful in long story formats)
 6. Global Story (what the author is trying to say)
 - We call these questions the "Five Building Block Questions"
+
+- We now consider how exactly to "interpret" each Tarot card in a way that translates to our previously described building blocks.
+- We use the foundation for a DBT skill to obtain archetypal data from each card.
+- This skill is known as the "Mindfulness Non-Judgmental" skill, and is composed of the following:
+1. What are the Facts of a given situation?
+2. What are the Consequences of a given situation?
+3. What are the Emotions of a given situation?
+- We call these three questions the "FCE"
+- Each question is answered with a list of archetypal answers that reflect both positive and negative perspectives of the card interpretation.
+
+- What we choose to do is equate "Five Questions" to "FCE" as follows:
+- Five Questions = FCE
+- -> Inciting Incident + (Complication + Crisis) + (Climax + Resolution) = Facts + Consequences + Emotions
+- -> Inciting Incident ~= Facts (What are the Facts ~= What was Incited)
+- -> (Complication + Crisis) ~= Consequences (What are the Consequences ~= Complication -> Crisis narrative development)
+- -> (Climax + Resolution) ~= Emotions (What are the Emotions ~= Climax -> Resolution narrative development)
+- We use this relationship as our main connector between the game of French Tarot and the archetypal interpretation of each card.
+- However, we have an immediate issue: Five Questions are full sentences and FCE are lists of words.
+- We need to figure out how to use the words in FCE as the responses to the Five Questions
+
+- The definition of a noun contains the following subtypes: Person, Thing, Idea, Quality, Action (Place and Animal are less human-centric, and therefore ignored)
+- We assign each of these noun types to one of the Five Questions. We extrapolate the meaning of each of the Five Questions to create the following relationship:
+- -> Inciting Incident: "The __(Thing)__ happens."
+- -> Complication: "The __(Person)__ gets involved."
+- -> Crisis: "The __(Idea)__ becomes known."
+- -> Climax: "The __(Action)__ is taken."
+- -> Resolution: "The __(Quality)__ is achieved."
+
+- We now have the following narrative equations:
+1. Inciting Incident ~= Facts ~= "The __(Thing)__ happens."
+2. Complication ~= Consequences ~= "The __(Person)__ gets involved."
+3. Crisis ~= Consequences ~= "The __(Idea)__ becomes known."
+4. Climax ~= Emotions ~= "The __(Action)__ is taken."
+5. Resolution ~= Emotions ~= "The __(Quality)__ is achieved."
+- Notice the overlap of Emotions and Consequences; Consequences can describe both Complications and Crises, and Emotions can describe both Climaxes and Resolutions
+
+- To summarize everything we have discussed:
+- -> We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
+- -> This is the connection we implement in our algorithm to have a game of French Tarot tell us a narrative.
 
 ## Algorithm
 - Tarot is a 3 - 5 player game, which corresponds to our 3 - 5 card spreads of Tarot cards
@@ -118,7 +162,7 @@ The Taker has one of two decisions to make before game starts:
 - For each Round, we answer the "Five Building Block Questions" based on turn order in the Round:
 - -> Player 1 = The Trick = Inciting Incident = Facts
 - -> Player 2 = The Defense (Part 1) = Complication + Crisis = Consequences
-- -> Player 3 = The Defense (Part 2) = Climax = Emotions - Resolution
+- -> Player 3 = The Defense (Part 2) = Climax + Resolution = Emotions
 - -> The Resolution is responsible for two story aspects:
 - -> 1. Climax + "Resolution" = Emotions
 - -> 2. Resolution = Round Winner = Controls the next Round's Inciting Incident
@@ -128,7 +172,7 @@ The Taker has one of two decisions to make before game starts:
 - We do NOT define Beats in our Algorithm, to give our output enough flexibility in finalizing the writing of our story.
 
 We have now answered all building block questions for all our defined layers of story.
-- This means we now need to generate our Rough Draft Output using our Matrix dataset.
+- We now generate our Rough Draft Output using our Matrix dataset, containing card interpretations and game round results.
 
 ## Installation
 Blah
@@ -141,13 +185,7 @@ https://tarotx.net/
 https://en.wikipedia.org/wiki/French_Tarot
 https://storygrid.com/how-to-learn-writing/
 
-
-
 ## NOTES
-Tarot Suit Rankings:
-wands, batons, or rods (clubs); cups (hearts); swords (spades); and coins, pentacles, or disks (diamonds)
-
-
 Body reading notes:
 between every shuffle, take one half of the cards and invert their orientation, 
 to maintain a certain number of reversed cards.
@@ -262,15 +300,3 @@ Ch. 59
 
 Ch. 66
 - Combining Micro Scale and Macro Scale Story Grids to make the overarching story grid
-
-
-
-Sentence Structuring:
-- there are five important nouns: Person, Thing, Idea, Quality, Action (Place and Animal do not apply)
-- We need to assign each of these noun types to one of the Five Questions
-- We have the following:
-- -> Inciting Incident: "The __(Thing)__ happens."
-- -> Complication: "The __(Person)__ gets involved."
-- -> Crisis: "The __(Idea)__ becomes known."
-- -> Climax: "The __(Action)__ is taken."
-- -> Resolution: "The __(Quality)__ is achieved."

@@ -3,7 +3,6 @@ package com.storyengine.tarot;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.json.simple.JSONObject;
-import java.util.ArrayList;
 
 public class Card {
     private static final Logger logger = LoggerFactory.getLogger(Card.class);
