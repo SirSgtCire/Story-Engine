@@ -31,6 +31,7 @@ public class Card {
         this.suit = suit;
         this.rotation = rotation;
         this.keywords = keywords;
+        initialPlacement(rotation);
     }
 
     public void display() {
@@ -57,23 +58,42 @@ public class Card {
         logger.info(String.format("New rotation: %s\n", rotation));
     }
 
-    public void placement(Integer roll) {
+    public void initialPlacement(String rotation) {
+        cardinality = new JSONObject();
+        cardinality.put("diceRoll",4);
+        cardinality.put("direction","NORTH");
+        cardinality.put("rotation",rotation);
+    }
+
+    public void changeOrientation(Integer roll) {
         switch (roll) {
             case 1:
-                cardinality = null;
-                cardinality.put(1,"SOUTH,REVERSED");
+                cardinality = new JSONObject();
+                cardinality.put("diceRoll",roll);
+                cardinality.put("direction","SOUTH");
+                cardinality.put("rotation","REVERSED");
+                this.rotate("REVERSED");
                 break;
             case 2:
-                cardinality = null;
-                cardinality.put(2,"WEST,LONSIDE");
+                cardinality = new JSONObject();
+                cardinality.put("diceRoll",roll);
+                cardinality.put("direction","WEST");
+                cardinality.put("rotation","LONSIDE");
+                this.rotate("LONSIDE");
                 break;
             case 3:
-                cardinality = null;
-                cardinality.put(3,"EAST,RONSIDE");
+                cardinality = new JSONObject();
+                cardinality.put("diceRoll",roll);
+                cardinality.put("direction","EAST");
+                cardinality.put("rotation","RONSIDE");
+                this.rotate("RONSIDE");
                 break;
             case 4:
-                cardinality = null;
-                cardinality.put(4,"NORTH,UPRIGHT");
+                cardinality = new JSONObject();
+                cardinality.put("diceRoll",roll);
+                cardinality.put("direction","NORTH");
+                cardinality.put("rotation","UPRIGHT");
+                this.rotate("UPRIGHT");
                 break;
             default:
                 logger.info(String.format("Roll %d does NOT use a d4, please roll again...\n", roll));

@@ -27,16 +27,27 @@ public class Deck {
             JSONArray jsonData = (JSONArray) jsonObject.get(jsonHeader);
 
             // For each card provided, insert it into our deck
-            for (Object card: jsonData) {
-                logger.info(String.format("Is this the card deck placement number? %s", jsonData.indexOf(card)));
-                logger.info(String.format("Is this the associated card data?\n%s", card.toString()));
+            for (Object obj: jsonData) {
+                JSONObject card = (JSONObject) obj;
+                JSONObject cardData = (JSONObject) card.get(String.format("%s", jsonData.indexOf(card)));
+                Card newCard = new Card(
+                        jsonData.indexOf(card),
+                        cardData.get("title").toString(),
+                        cardData.get("image").toString(),
+                        cardData.get("arcana").toString(),
+                        Integer.parseInt(cardData.get("number").toString()),
+                        Integer.parseInt(cardData.get("value").toString()),
+                        cardData.get("suit").toString(),
+                        cardData.get("rotation").toString(),
+                        (JSONObject) cardData.get("keywords")
+                );
+                Deck.add(newCard);
                 cardCount += 1;
-                //TODO: print each aspect of the card, to make sure we can assign each to the card object
             }
             size = cardCount;
 
         } catch (Exception e) {
-            logger.info(String.format("We received the following error:\n%s", e));
+            logger.info(String.format("We received the following error:\n%s\n", e));
             e.printStackTrace();
         }
     }
@@ -46,22 +57,22 @@ public class Deck {
     }
     
     public void randomCard(Integer deckSize) {
-        logger.info("Drawing a card from the deck...");
+        logger.info("Drawing a card from the deck...\n");
         int pick = rand.nextInt(deckSize);
         logger.info(String.format("You chose card number %d, which happens to be...\n", pick));
         Deck.get(pick).display();
     }
 
     public void shuffle() {
-        logger.info("Shuffling the deck...");
+        logger.info("Shuffling the deck...\n");
         Collections.shuffle(Deck);
     }
 
     public void reorder() {
-        logger.info("Reordering the deck...");
+        logger.info("Reordering the deck...\n");
     }
 
     public void drawOneFromTop() {
-        logger.info("Drawing the top card...");
+        logger.info("Drawing the top card...\n");
     }
 }

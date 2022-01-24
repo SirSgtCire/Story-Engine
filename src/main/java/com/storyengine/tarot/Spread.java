@@ -9,7 +9,7 @@ public class Spread {
 
     public static void FortuneTeller() throws Exception {
         Deck tarotDeck = new Deck(
-                "src/main/resources/Decks/RiderWaite/RiderWaiteDeckList.json",
+                "Decks/RiderWaite/RiderWaiteDeckList.json",
                 "Cards");
         Scanner input = new Scanner(System.in);
         logger.info("Welcome, welcome...");

@@ -1,1718 +1,1327 @@
 {
-  "Cards":[
-    {
-      "0":{
-        "title":"The Fool",
-        "image":"Decks/RiderWaite/CardImages/the-fool.png",
-        "arcana":"Major",
-        "number":0,
-        "value":15,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Innocence, New Beginnings, Wonder, Foolishness",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "1":{
-        "title":"The Magician",
-        "image":"Decks/RiderWaite/CardImages/the-magician.png",
-        "arcana":"Major",
-        "number":1,
-        "value":16,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Willpower, Creation, Mastery, Adaptation",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "2":{
-        "title":"The High Priestess",
-        "image":"Decks/RiderWaite/CardImages/the-high-priestess.png",
-        "arcana":"Major",
-        "number":2,
-        "value":17,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "3":{
-        "title":"The Empress",
-        "image":"Decks/RiderWaite/CardImages/the-empress.png",
-        "arcana":"Major",
-        "number":3,
-        "value":18,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Beauty, Fertility, Nurturing, Luxury, Creativity",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "4":{
-        "title":"The Emperor",
-        "image":"Decks/RiderWaite/CardImages/the-emperor.png",
-        "arcana":"Major",
-        "number":4,
-        "value":19,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Structure, Ambition, Authority, Rationality",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "5":{
-        "title":"The Hierophant",
-        "image":"Decks/RiderWaite/CardImages/the-hierophant.png",
-        "arcana":"Major",
-        "number":5,
-        "value":20,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Tradition, Legacy, Society, Organized Religion",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "6":{
-        "title":"The Lovers",
-        "image":"Decks/RiderWaite/CardImages/the-lovers.png",
-        "arcana":"Major",
-        "number":6,
-        "value":21,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Choices, Union, Love, Relationship",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "7":{
-        "title":"The Chariot",
-        "image":"Decks/RiderWaite/CardImages/the-chariot.png",
-        "arcana":"Major",
-        "number":7,
-        "value":22,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Self-Control, Discipline, Success",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "8":{
-        "title":"Strength",
-        "image":"Decks/RiderWaite/CardImages/strength.png",
-        "arcana":"Major",
-        "number":8,
-        "value":23,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Courage, Inner Strength, Conviction, Compassion",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "9":{
-        "title":"The Hermit",
-        "image":"Decks/RiderWaite/CardImages/the-hermit.png",
-        "arcana":"Major",
-        "number":9,
-        "value":24,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Contemplation, Solitude, Insight, Awareness",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "10":{
-        "title":"Wheel of Fortune",
-        "image":"Decks/RiderWaite/CardImages/wheel-of-fortune.png",
-        "arcana":"Major",
-        "number":10,
-        "value":25,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Fate, Karma, Destiny, Fortune, Cycles",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "11":{
-        "title":"Justice",
-        "image":"Decks/RiderWaite/CardImages/justice.png",
-        "arcana":"Major",
-        "number":11,
-        "value":26,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Truth, Fairness, Law, Clarity, Cause and Effect",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "12":{
-        "title":"The Hanged Man",
-        "image":"Decks/RiderWaite/CardImages/the-hanged-man.png",
-        "arcana":"Major",
-        "number":12,
-        "value":27,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Sacrifice, Suspension, Release, Martyrdom, New Perspective",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "13":{
-        "title":"Death",
-        "image":"Decks/RiderWaite/CardImages/death.png",
-        "arcana":"Major",
-        "number":13,
-        "value":28,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"End of Cycle, New Beginnings, Change, Metamorphosis",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "14":{
-        "title":"Temperance",
-        "image":"Decks/RiderWaite/CardImages/temperance.png",
-        "arcana":"Major",
-        "number":14,
-        "value":29,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Middle Path, Patience, Finding Meaning",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "15":{
-        "title":"The Devil",
-        "image":"Decks/RiderWaite/CardImages/the-devil.png",
-        "arcana":"Major",
-        "number":15,
-        "value":30,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "16":{
-        "title":"The Tower",
-        "image":"Decks/RiderWaite/CardImages/the-tower.png",
-        "arcana":"Major",
-        "number":16,
-        "value":31,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Upheaval, Disaster, Foundational Shift",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "17":{
-        "title":"The Star",
-        "image":"Decks/RiderWaite/CardImages/the-star.png",
-        "arcana":"Major",
-        "number":17,
-        "value":32,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Hope, Faith, Rejuvenation, Rebuilding, Healing",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "18":{
-        "title":"The Moon",
-        "image":"Decks/RiderWaite/CardImages/the-moon.png",
-        "arcana":"Major",
-        "number":18,
-        "value":33,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Unconscious, Illusions, Intuition, Lack of Clarity",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "19":{
-        "title":"The Sun",
-        "image":"Decks/RiderWaite/CardImages/the-sun.png",
-        "arcana":"Major",
-        "number":19,
-        "value":34,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Joy, Success, Celebration, Pleasure",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "20":{
-        "title":"Judgment",
-        "image":"Decks/RiderWaite/CardImages/judgment.png",
-        "arcana":"Major",
-        "number":20,
-        "value":35,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Reflection, Reckoning, Awakening",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "21":{
-        "title":"The World",
-        "image":"Decks/RiderWaite/CardImages/the-world.png",
-        "arcana":"Major",
-        "number":21,
-        "value":36,
-        "suit":null,
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Fulfillment, Harmony, Completion",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "22":{
-        "title":"Ace of Wands",
-        "image":"Decks/RiderWaite/CardImages/ace-of-wands.png",
-        "arcana":"Minor",
-        "number":1,
-        "value":1,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Creation, Willpower, Inspiration, Desire",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "23":{
-        "title":"Two of Wands",
-        "image":"Decks/RiderWaite/CardImages/two-of-wands.png",
-        "arcana":"Minor",
-        "number":2,
-        "value":2,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Planning, Making Decisions, Leaving Home",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "24":{
-        "title":"Three of Wands",
-        "image":"Decks/RiderWaite/CardImages/three-of-wands.png",
-        "arcana":"Minor",
-        "number":3,
-        "value":3,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Looking Ahead, Expansion, Rapid Growth",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "25":{
-        "title":"Four of Wands",
-        "image":"Decks/RiderWaite/CardImages/four-of-wands.png",
-        "arcana":"Minor",
-        "number":4,
-        "value":4,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Community, Home, Celebration",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "26":{
-        "title":"Five of Wands",
-        "image":"Decks/RiderWaite/CardImages/five-of-wands.png",
-        "arcana":"Minor",
-        "number":5,
-        "value":5,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Competition, Conflict, Reality",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "27":{
-        "title":"Six of Wands",
-        "image":"Decks/RiderWaite/CardImages/six-of-wands.png",
-        "arcana":"Minor",
-        "number":6,
-        "value":6,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Victory, Success, Public Reward",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "28":{
-        "title":"Seven of Wands",
-        "image":"Decks/RiderWaite/CardImages/seven-of-wands.png",
-        "arcana":"Minor",
-        "number":7,
-        "value":7,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Perseverance, Mounting A Defense, Maintaining Control",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "29":{
-        "title":"Eight of Wands",
-        "image":"Decks/RiderWaite/CardImages/eight-of-wands.png",
-        "arcana":"Minor",
-        "number":8,
-        "value":8,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Rapid Action, Monument, Quick Decision",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "30":{
-        "title":"Nine of Wands",
-        "image":"Decks/RiderWaite/CardImages/nine-of-wands.png",
-        "arcana":"Minor",
-        "number":9,
-        "value":9,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Resilience, Grit, Taking Last Stand",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "31":{
-        "title":"Ten of Wands",
-        "image":"Decks/RiderWaite/CardImages/ten-of-wands.png",
-        "arcana":"Minor",
-        "number":10,
-        "value":10,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Accomplishment, Responsibility, Burden",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "32":{
-        "title":"Page of Wands",
-        "image":"Decks/RiderWaite/CardImages/page-of-wands.png",
-        "arcana":"Minor",
-        "number":11,
-        "value":11,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Exploration, Excitement, Freedom",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "33":{
-        "title":"Knight of Wands",
-        "image":"Decks/RiderWaite/CardImages/knight-of-wands.png",
-        "arcana":"Minor",
-        "number":12,
-        "value":12,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Action, Adventure, Fearlessness",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "34":{
-        "title":"Queen of Wands",
-        "image":"Decks/RiderWaite/CardImages/queen-of-wands.png",
-        "arcana":"Minor",
-        "number":13,
-        "value":13,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Courage, Determination, Passion, Joy",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "35":{
-        "title":"King of Wands",
-        "image":"Decks/RiderWaite/CardImages/king-of-wands.png",
-        "arcana":"Minor",
-        "number":14,
-        "value":14,
-        "suit":"Wands",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Big Picture, Leader, Overcoming Challenges",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "36":{
-        "title":"Ace of Cups",
-        "image":"Decks/RiderWaite/CardImages/ace-of-cups.png",
-        "arcana":"Minor",
-        "number":1,
-        "value":1,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"New Feelings, Spirituality, Intuition",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "37":{
-        "title":"Two of Cups",
-        "image":"Decks/RiderWaite/CardImages/two-of-cups.png",
-        "arcana":"Minor",
-        "number":2,
-        "value":2,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Unity, Partnership, Connection",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "38":{
-        "title":"Three of Cups",
-        "image":"Decks/RiderWaite/CardImages/three-of-cups.png",
-        "arcana":"Minor",
-        "number":3,
-        "value":3,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Friendship, Community, Happiness",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "39":{
-        "title":"Four of Cups",
-        "image":"Decks/RiderWaite/CardImages/four-of-cups.png",
-        "arcana":"Minor",
-        "number":4,
-        "value":4,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Apathy, Contemplation, Disconnection",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "40":{
-        "title":"Five of Cups",
-        "image":"Decks/RiderWaite/CardImages/five-of-cups.png",
-        "arcana":"Minor",
-        "number":5,
-        "value":5,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Loss, Grief, Disappointment, Mourning",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "41":{
-        "title":"Six of Cups",
-        "image":"Decks/RiderWaite/CardImages/six-of-cups.png",
-        "arcana":"Minor",
-        "number":6,
-        "value":6,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Familiarity, Memories, Healing, Restoration",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "42":{
-        "title":"Seven of Cups",
-        "image":"Decks/RiderWaite/CardImages/seven-of-cups.png",
-        "arcana":"Minor",
-        "number":7,
-        "value":7,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Searching for Purpose, Choices, Daydreaming",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "43":{
-        "title":"Eight of Cups",
-        "image":"Decks/RiderWaite/CardImages/eight-of-cups.png",
-        "arcana":"Minor",
-        "number":8,
-        "value":8,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Walking Away, Disillusionment, Leaving Something Behind",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "44":{
-        "title":"Nine of Cups",
-        "image":"Decks/RiderWaite/CardImages/nine-of-cups.png",
-        "arcana":"Minor",
-        "number":9,
-        "value":9,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Satisfaction, Luxury, Emotional Stability",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "45":{
-        "title":"Ten of Cups",
-        "image":"Decks/RiderWaite/CardImages/ten-of-cups.png",
-        "arcana":"Minor",
-        "number":10,
-        "value":10,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Inner Happiness, Fulfillment, Dreams Coming True",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "46":{
-        "title":"Page of Cups",
-        "image":"Decks/RiderWaite/CardImages/page-of-cups.png",
-        "arcana":"Minor",
-        "number":11,
-        "value":11,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Happy Surprise, Dreamer, Sensitivity",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "47":{
-        "title":"Knight of Cups",
-        "image":"Decks/RiderWaite/CardImages/knight-of-cups.png",
-        "arcana":"Minor",
-        "number":12,
-        "value":12,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Idealistic, Romantic, Following One's Heart",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "48":{
-        "title":"Queen of Cups",
-        "image":"Decks/RiderWaite/CardImages/queen-of-cups.png",
-        "arcana":"Minor",
-        "number":13,
-        "value":13,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Compassion, Calm, Comfort",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "49":{
-        "title":"King of Cups",
-        "image":"Decks/RiderWaite/CardImages/king-of-cups.png",
-        "arcana":"Minor",
-        "number":14,
-        "value":14,
-        "suit":"Cups",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Emotional Control, Balance Between Heart and Head",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "50":{
-        "title":"Ace of Swords",
-        "image":"Decks/RiderWaite/CardImages/ace-of-swords.png",
-        "arcana":"Minor",
-        "number":1,
-        "value":1,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Breakthrough, Clarity, Sharp Mind",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "51":{
-        "title":"Two of Swords",
-        "image":"Decks/RiderWaite/CardImages/two-of-swords.png",
-        "arcana":"Minor",
-        "number":2,
-        "value":2,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Difficult Choices, Indecision, Stalemate",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "52":{
-        "title":"Three of Swords",
-        "image":"Decks/RiderWaite/CardImages/three-of-swords.png",
-        "arcana":"Minor",
-        "number":3,
-        "value":3,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Heartbreak, Suffering, Grief",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "53":{
-        "title":"Four of Swords",
-        "image":"Decks/RiderWaite/CardImages/four-of-swords.png",
-        "arcana":"Minor",
-        "number":4,
-        "value":4,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Rest, Restoration, Contemplation",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "54":{
-        "title":"Five of Swords",
-        "image":"Decks/RiderWaite/CardImages/five-of-swords.png",
-        "arcana":"Minor",
-        "number":5,
-        "value":5,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Unbridled Ambition, Win At All Costs, Sneakiness",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "55":{
-        "title":"Six of Swords",
-        "image":"Decks/RiderWaite/CardImages/six-of-swords.png",
-        "arcana":"Minor",
-        "number":6,
-        "value":6,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Transition, Leaving Behind, Moving On",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "56":{
-        "title":"Seven of Swords",
-        "image":"Decks/RiderWaite/CardImages/seven-of-swords.png",
-        "arcana":"Minor",
-        "number":7,
-        "value":7,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Deception, Trickery, Tactics and Strategy",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "57":{
-        "title":"Eight of Swords",
-        "image":"Decks/RiderWaite/CardImages/eight-of-swords.png",
-        "arcana":"Minor",
-        "number":8,
-        "value":8,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Imprisonment, Entrapment, Self-Victimization",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "58":{
-        "title":"Nine of Swords",
-        "image":"Decks/RiderWaite/CardImages/nine-of-swords.png",
-        "arcana":"Minor",
-        "number":9,
-        "value":9,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Anxiety, Hopelessness, Trauma",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "59":{
-        "title":"Ten of Swords",
-        "image":"Decks/RiderWaite/CardImages/ten-of-swords.png",
-        "arcana":"Minor",
-        "number":10,
-        "value":10,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Failure, Collapse, Defeat, Backstabbing",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "60":{
-        "title":"Page of Swords",
-        "image":"Decks/RiderWaite/CardImages/page-of-swords.png",
-        "arcana":"Minor",
-        "number":11,
-        "value":11,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Curiosity, Restlessness, Mental Energy",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "61":{
-        "title":"Knight of Swords",
-        "image":"Decks/RiderWaite/CardImages/knight-of-swords.png",
-        "arcana":"Minor",
-        "number":12,
-        "value":12,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Action, Impulsiveness, Defending Beliefs",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "62":{
-        "title":"Queen of Swords",
-        "image":"Decks/RiderWaite/CardImages/queen-of-swords.png",
-        "arcana":"Minor",
-        "number":13,
-        "value":13,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Complexity, Perceptive, Clear Mindedness",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "63":{
-        "title":"King of Swords",
-        "image":"Decks/RiderWaite/CardImages/king-of-swords.png",
-        "arcana":"Minor",
-        "number":14,
-        "value":14,
-        "suit":"Swords",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Head Over Heart, Truth, Discipline",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "64":{
-        "title":"Ace of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/ace-of-pentacles.png",
-        "arcana":"Minor",
-        "number":1,
-        "value":1,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Opportunity, Prosperity, New Venture",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "65":{
-        "title":"Two of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/two-of-pentacles.png",
-        "arcana":"Minor",
-        "number":2,
-        "value":2,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Balancing Decisions, Priorities, Adaptation",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "66":{
-        "title":"Three of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/three-of-pentacles.png",
-        "arcana":"Minor",
-        "number":3,
-        "value":3,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Teamwork, Collaboration, Building Together",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "67":{
-        "title":"Four of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/four-of-pentacles.png",
-        "arcana":"Minor",
-        "number":4,
-        "value":4,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Conservation, Security, Frugality",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "68":{
-        "title":"Five of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/five-of-pentacles.png",
-        "arcana":"Minor",
-        "number":5,
-        "value":5,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Need, Poverty, Insecurity, Low Resources",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "69":{
-        "title":"Six of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/six-of-pentacles.png",
-        "arcana":"Minor",
-        "number":6,
-        "value":6,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Charity, Generosity, Sharing",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "70":{
-        "title":"Seven of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/seven-of-pentacles.png",
-        "arcana":"Minor",
-        "number":7,
-        "value":7,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Hard Work, Perseverance, Diligence",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "71":{
-        "title":"Eight of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/eight-of-pentacles.png",
-        "arcana":"Minor",
-        "number":8,
-        "value":8,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Diligence, Passion, High Standards",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "72":{
-        "title":"Nine of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/nine-of-pentacles.png",
-        "arcana":"Minor",
-        "number":9,
-        "value":9,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Fruits of Labour, Reckless Spending, Rewards",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "73":{
-        "title":"Ten of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/ten-of-pentacles.png",
-        "arcana":"Minor",
-        "number":10,
-        "value":10,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Legacy, Inheritance, Culmination",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "74":{
-        "title":"Page of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/page-of-pentacles.png",
-        "arcana":"Minor",
-        "number":11,
-        "value":11,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Ambition, Desire, Diligence, Craving New Venture",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "75":{
-        "title":"Knight of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/knight-of-pentacles.png",
-        "arcana":"Minor",
-        "number":12,
-        "value":12,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Efficiency, Hard Work, Responsibility",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "76":{
-        "title":"Queen of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/queen-of-pentacles.png",
-        "arcana":"Minor",
-        "number":13,
-        "value":13,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Practicality, Creature Comforts, Security",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
-        }
-      }
-    },
-    {
-      "77":{
-        "title":"King of Pentacles",
-        "image":"Decks/RiderWaite/CardImages/king-of-pentacles.png",
-        "arcana":"Minor",
-        "number":14,
-        "value":14,
-        "suit":"Pentacles",
-        "rotation":"UPRIGHT",
-        "keywords":{
-          "Core":"Abundance, Prosperity, Provider, Generosity",
-          "Facts":"words",
-          "Consequences":"words",
-          "Emotions":"words",
-          "Inciting Incident":"words",
-          "Complication":"words",
-          "Crisis":"words",
-          "Climax":"words",
-          "Resolution":"words"
+  "Cards": [{
+    "0": {
+      "title": "The Fool",
+      "image": "Decks/RiderWaite/CardImages/the-fool.png",
+      "arcana": "Major",
+      "number": 0,
+      "value": 15,
+      "suit": "None",
+      "rotation": "UPRIGHT",
+      "keywords": {
+        "Core": "Innocence, New Beginnings, Wonder, Foolishness",
+        "Facts": "words",
+        "Consequences": "words",
+        "Emotions": "words"
+      }
+    }
+  },
+    {
+      "1": {
+        "title": "The Magician",
+        "image": "Decks/RiderWaite/CardImages/the-magician.png",
+        "arcana": "Major",
+        "number": 1,
+        "value": 16,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Willpower, Creation, Mastery, Adaptation",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "2": {
+        "title": "The High Priestess",
+        "image": "Decks/RiderWaite/CardImages/the-high-priestess.png",
+        "arcana": "Major",
+        "number": 2,
+        "value": 17,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "3": {
+        "title": "The Empress",
+        "image": "Decks/RiderWaite/CardImages/the-empress.png",
+        "arcana": "Major",
+        "number": 3,
+        "value": 18,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Beauty, Fertility, Nurturing, Luxury, Creativity",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "4": {
+        "title": "The Emperor",
+        "image": "Decks/RiderWaite/CardImages/the-emperor.png",
+        "arcana": "Major",
+        "number": 4,
+        "value": 19,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Structure, Ambition, Authority, Rationality",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "5": {
+        "title": "The Hierophant",
+        "image": "Decks/RiderWaite/CardImages/the-hierophant.png",
+        "arcana": "Major",
+        "number": 5,
+        "value": 20,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Tradition, Legacy, Society, Organized Religion",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "6": {
+        "title": "The Lovers",
+        "image": "Decks/RiderWaite/CardImages/the-lovers.png",
+        "arcana": "Major",
+        "number": 6,
+        "value": 21,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Choices, Union, Love, Relationship",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "7": {
+        "title": "The Chariot",
+        "image": "Decks/RiderWaite/CardImages/the-chariot.png",
+        "arcana": "Major",
+        "number": 7,
+        "value": 22,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Self-Control, Discipline, Success",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "8": {
+        "title": "Strength",
+        "image": "Decks/RiderWaite/CardImages/strength.png",
+        "arcana": "Major",
+        "number": 8,
+        "value": 23,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Courage, Inner Strength, Conviction, Compassion",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "9": {
+        "title": "The Hermit",
+        "image": "Decks/RiderWaite/CardImages/the-hermit.png",
+        "arcana": "Major",
+        "number": 9,
+        "value": 24,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Contemplation, Solitude, Insight, Awareness",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "10": {
+        "title": "Wheel of Fortune",
+        "image": "Decks/RiderWaite/CardImages/wheel-of-fortune.png",
+        "arcana": "Major",
+        "number": 10,
+        "value": 25,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Fate, Karma, Destiny, Fortune, Cycles",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "11": {
+        "title": "Justice",
+        "image": "Decks/RiderWaite/CardImages/justice.png",
+        "arcana": "Major",
+        "number": 11,
+        "value": 26,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Truth, Fairness, Law, Clarity, Cause and Effect",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "12": {
+        "title": "The Hanged Man",
+        "image": "Decks/RiderWaite/CardImages/the-hanged-man.png",
+        "arcana": "Major",
+        "number": 12,
+        "value": 27,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Sacrifice, Suspension, Release, Martyrdom, New Perspective",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "13": {
+        "title": "Death",
+        "image": "Decks/RiderWaite/CardImages/death.png",
+        "arcana": "Major",
+        "number": 13,
+        "value": 28,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "End of Cycle, New Beginnings, Change, Metamorphosis",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "14": {
+        "title": "Temperance",
+        "image": "Decks/RiderWaite/CardImages/temperance.png",
+        "arcana": "Major",
+        "number": 14,
+        "value": 29,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Middle Path, Patience, Finding Meaning",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "15": {
+        "title": "The Devil",
+        "image": "Decks/RiderWaite/CardImages/the-devil.png",
+        "arcana": "Major",
+        "number": 15,
+        "value": 30,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "16": {
+        "title": "The Tower",
+        "image": "Decks/RiderWaite/CardImages/the-tower.png",
+        "arcana": "Major",
+        "number": 16,
+        "value": 31,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Upheaval, Disaster, Foundational Shift",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "17": {
+        "title": "The Star",
+        "image": "Decks/RiderWaite/CardImages/the-star.png",
+        "arcana": "Major",
+        "number": 17,
+        "value": 32,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Hope, Faith, Rejuvenation, Rebuilding, Healing",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "18": {
+        "title": "The Moon",
+        "image": "Decks/RiderWaite/CardImages/the-moon.png",
+        "arcana": "Major",
+        "number": 18,
+        "value": 33,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Unconscious, Illusions, Intuition, Lack of Clarity",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "19": {
+        "title": "The Sun",
+        "image": "Decks/RiderWaite/CardImages/the-sun.png",
+        "arcana": "Major",
+        "number": 19,
+        "value": 34,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Joy, Success, Celebration, Pleasure",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "20": {
+        "title": "Judgment",
+        "image": "Decks/RiderWaite/CardImages/judgment.png",
+        "arcana": "Major",
+        "number": 20,
+        "value": 35,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Reflection, Reckoning, Awakening",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "21": {
+        "title": "The World",
+        "image": "Decks/RiderWaite/CardImages/the-world.png",
+        "arcana": "Major",
+        "number": 21,
+        "value": 36,
+        "suit": "None",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Fulfillment, Harmony, Completion",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "22": {
+        "title": "Ace of Wands",
+        "image": "Decks/RiderWaite/CardImages/ace-of-wands.png",
+        "arcana": "Minor",
+        "number": 1,
+        "value": 1,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Creation, Willpower, Inspiration, Desire",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "23": {
+        "title": "Two of Wands",
+        "image": "Decks/RiderWaite/CardImages/two-of-wands.png",
+        "arcana": "Minor",
+        "number": 2,
+        "value": 2,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Planning, Making Decisions, Leaving Home",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "24": {
+        "title": "Three of Wands",
+        "image": "Decks/RiderWaite/CardImages/three-of-wands.png",
+        "arcana": "Minor",
+        "number": 3,
+        "value": 3,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Looking Ahead, Expansion, Rapid Growth",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "25": {
+        "title": "Four of Wands",
+        "image": "Decks/RiderWaite/CardImages/four-of-wands.png",
+        "arcana": "Minor",
+        "number": 4,
+        "value": 4,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Community, Home, Celebration",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "26": {
+        "title": "Five of Wands",
+        "image": "Decks/RiderWaite/CardImages/five-of-wands.png",
+        "arcana": "Minor",
+        "number": 5,
+        "value": 5,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Competition, Conflict, Reality",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "27": {
+        "title": "Six of Wands",
+        "image": "Decks/RiderWaite/CardImages/six-of-wands.png",
+        "arcana": "Minor",
+        "number": 6,
+        "value": 6,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Victory, Success, Public Reward",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "28": {
+        "title": "Seven of Wands",
+        "image": "Decks/RiderWaite/CardImages/seven-of-wands.png",
+        "arcana": "Minor",
+        "number": 7,
+        "value": 7,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Perseverance, Mounting A Defense, Maintaining Control",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "29": {
+        "title": "Eight of Wands",
+        "image": "Decks/RiderWaite/CardImages/eight-of-wands.png",
+        "arcana": "Minor",
+        "number": 8,
+        "value": 8,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Rapid Action, Monument, Quick Decision",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "30": {
+        "title": "Nine of Wands",
+        "image": "Decks/RiderWaite/CardImages/nine-of-wands.png",
+        "arcana": "Minor",
+        "number": 9,
+        "value": 9,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Resilience, Grit, Taking Last Stand",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "31": {
+        "title": "Ten of Wands",
+        "image": "Decks/RiderWaite/CardImages/ten-of-wands.png",
+        "arcana": "Minor",
+        "number": 10,
+        "value": 10,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Accomplishment, Responsibility, Burden",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "32": {
+        "title": "Page of Wands",
+        "image": "Decks/RiderWaite/CardImages/page-of-wands.png",
+        "arcana": "Minor",
+        "number": 11,
+        "value": 11,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Exploration, Excitement, Freedom",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "33": {
+        "title": "Knight of Wands",
+        "image": "Decks/RiderWaite/CardImages/knight-of-wands.png",
+        "arcana": "Minor",
+        "number": 12,
+        "value": 12,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Action, Adventure, Fearlessness",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "34": {
+        "title": "Queen of Wands",
+        "image": "Decks/RiderWaite/CardImages/queen-of-wands.png",
+        "arcana": "Minor",
+        "number": 13,
+        "value": 13,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Courage, Determination, Passion, Joy",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "35": {
+        "title": "King of Wands",
+        "image": "Decks/RiderWaite/CardImages/king-of-wands.png",
+        "arcana": "Minor",
+        "number": 14,
+        "value": 14,
+        "suit": "Wands",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Big Picture, Leader, Overcoming Challenges",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "36": {
+        "title": "Ace of Cups",
+        "image": "Decks/RiderWaite/CardImages/ace-of-cups.png",
+        "arcana": "Minor",
+        "number": 1,
+        "value": 1,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "New Feelings, Spirituality, Intuition",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "37": {
+        "title": "Two of Cups",
+        "image": "Decks/RiderWaite/CardImages/two-of-cups.png",
+        "arcana": "Minor",
+        "number": 2,
+        "value": 2,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Unity, Partnership, Connection",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "38": {
+        "title": "Three of Cups",
+        "image": "Decks/RiderWaite/CardImages/three-of-cups.png",
+        "arcana": "Minor",
+        "number": 3,
+        "value": 3,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Friendship, Community, Happiness",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "39": {
+        "title": "Four of Cups",
+        "image": "Decks/RiderWaite/CardImages/four-of-cups.png",
+        "arcana": "Minor",
+        "number": 4,
+        "value": 4,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Apathy, Contemplation, Disconnection",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "40": {
+        "title": "Five of Cups",
+        "image": "Decks/RiderWaite/CardImages/five-of-cups.png",
+        "arcana": "Minor",
+        "number": 5,
+        "value": 5,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Loss, Grief, Disappointment, Mourning",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "41": {
+        "title": "Six of Cups",
+        "image": "Decks/RiderWaite/CardImages/six-of-cups.png",
+        "arcana": "Minor",
+        "number": 6,
+        "value": 6,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Familiarity, Memories, Healing, Restoration",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "42": {
+        "title": "Seven of Cups",
+        "image": "Decks/RiderWaite/CardImages/seven-of-cups.png",
+        "arcana": "Minor",
+        "number": 7,
+        "value": 7,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Searching for Purpose, Choices, Daydreaming",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "43": {
+        "title": "Eight of Cups",
+        "image": "Decks/RiderWaite/CardImages/eight-of-cups.png",
+        "arcana": "Minor",
+        "number": 8,
+        "value": 8,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Walking Away, Disillusionment, Leaving Something Behind",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "44": {
+        "title": "Nine of Cups",
+        "image": "Decks/RiderWaite/CardImages/nine-of-cups.png",
+        "arcana": "Minor",
+        "number": 9,
+        "value": 9,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Satisfaction, Luxury, Emotional Stability",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "45": {
+        "title": "Ten of Cups",
+        "image": "Decks/RiderWaite/CardImages/ten-of-cups.png",
+        "arcana": "Minor",
+        "number": 10,
+        "value": 10,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Inner Happiness, Fulfillment, Dreams Coming True",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "46": {
+        "title": "Page of Cups",
+        "image": "Decks/RiderWaite/CardImages/page-of-cups.png",
+        "arcana": "Minor",
+        "number": 11,
+        "value": 11,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Happy Surprise, Dreamer, Sensitivity",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "47": {
+        "title": "Knight of Cups",
+        "image": "Decks/RiderWaite/CardImages/knight-of-cups.png",
+        "arcana": "Minor",
+        "number": 12,
+        "value": 12,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Idealistic, Romantic, Following One's Heart",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "48": {
+        "title": "Queen of Cups",
+        "image": "Decks/RiderWaite/CardImages/queen-of-cups.png",
+        "arcana": "Minor",
+        "number": 13,
+        "value": 13,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Compassion, Calm, Comfort",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "49": {
+        "title": "King of Cups",
+        "image": "Decks/RiderWaite/CardImages/king-of-cups.png",
+        "arcana": "Minor",
+        "number": 14,
+        "value": 14,
+        "suit": "Cups",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Emotional Control, Balance Between Heart and Head",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "50": {
+        "title": "Ace of Swords",
+        "image": "Decks/RiderWaite/CardImages/ace-of-swords.png",
+        "arcana": "Minor",
+        "number": 1,
+        "value": 1,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Breakthrough, Clarity, Sharp Mind",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "51": {
+        "title": "Two of Swords",
+        "image": "Decks/RiderWaite/CardImages/two-of-swords.png",
+        "arcana": "Minor",
+        "number": 2,
+        "value": 2,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Difficult Choices, Indecision, Stalemate",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "52": {
+        "title": "Three of Swords",
+        "image": "Decks/RiderWaite/CardImages/three-of-swords.png",
+        "arcana": "Minor",
+        "number": 3,
+        "value": 3,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Heartbreak, Suffering, Grief",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "53": {
+        "title": "Four of Swords",
+        "image": "Decks/RiderWaite/CardImages/four-of-swords.png",
+        "arcana": "Minor",
+        "number": 4,
+        "value": 4,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Rest, Restoration, Contemplation",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "54": {
+        "title": "Five of Swords",
+        "image": "Decks/RiderWaite/CardImages/five-of-swords.png",
+        "arcana": "Minor",
+        "number": 5,
+        "value": 5,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Unbridled Ambition, Win At All Costs, Sneakiness",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "55": {
+        "title": "Six of Swords",
+        "image": "Decks/RiderWaite/CardImages/six-of-swords.png",
+        "arcana": "Minor",
+        "number": 6,
+        "value": 6,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Transition, Leaving Behind, Moving On",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "56": {
+        "title": "Seven of Swords",
+        "image": "Decks/RiderWaite/CardImages/seven-of-swords.png",
+        "arcana": "Minor",
+        "number": 7,
+        "value": 7,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Deception, Trickery, Tactics and Strategy",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "57": {
+        "title": "Eight of Swords",
+        "image": "Decks/RiderWaite/CardImages/eight-of-swords.png",
+        "arcana": "Minor",
+        "number": 8,
+        "value": 8,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Imprisonment, Entrapment, Self-Victimization",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "58": {
+        "title": "Nine of Swords",
+        "image": "Decks/RiderWaite/CardImages/nine-of-swords.png",
+        "arcana": "Minor",
+        "number": 9,
+        "value": 9,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Anxiety, Hopelessness, Trauma",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "59": {
+        "title": "Ten of Swords",
+        "image": "Decks/RiderWaite/CardImages/ten-of-swords.png",
+        "arcana": "Minor",
+        "number": 10,
+        "value": 10,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Failure, Collapse, Defeat, Backstabbing",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "60": {
+        "title": "Page of Swords",
+        "image": "Decks/RiderWaite/CardImages/page-of-swords.png",
+        "arcana": "Minor",
+        "number": 11,
+        "value": 11,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Curiosity, Restlessness, Mental Energy",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "61": {
+        "title": "Knight of Swords",
+        "image": "Decks/RiderWaite/CardImages/knight-of-swords.png",
+        "arcana": "Minor",
+        "number": 12,
+        "value": 12,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Action, Impulsiveness, Defending Beliefs",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "62": {
+        "title": "Queen of Swords",
+        "image": "Decks/RiderWaite/CardImages/queen-of-swords.png",
+        "arcana": "Minor",
+        "number": 13,
+        "value": 13,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Complexity, Perceptive, Clear Mindedness",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "63": {
+        "title": "King of Swords",
+        "image": "Decks/RiderWaite/CardImages/king-of-swords.png",
+        "arcana": "Minor",
+        "number": 14,
+        "value": 14,
+        "suit": "Swords",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Head Over Heart, Truth, Discipline",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "64": {
+        "title": "Ace of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/ace-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 1,
+        "value": 1,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Opportunity, Prosperity, New Venture",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "65": {
+        "title": "Two of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/two-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 2,
+        "value": 2,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Balancing Decisions, Priorities, Adaptation",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "66": {
+        "title": "Three of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/three-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 3,
+        "value": 3,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Teamwork, Collaboration, Building Together",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "67": {
+        "title": "Four of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/four-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 4,
+        "value": 4,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Conservation, Security, Frugality",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "68": {
+        "title": "Five of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/five-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 5,
+        "value": 5,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Need, Poverty, Insecurity, Low Resources",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "69": {
+        "title": "Six of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/six-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 6,
+        "value": 6,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Charity, Generosity, Sharing",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "70": {
+        "title": "Seven of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/seven-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 7,
+        "value": 7,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Hard Work, Perseverance, Diligence",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "71": {
+        "title": "Eight of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/eight-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 8,
+        "value": 8,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Diligence, Passion, High Standards",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "72": {
+        "title": "Nine of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/nine-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 9,
+        "value": 9,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Fruits of Labour, Reckless Spending, Rewards",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "73": {
+        "title": "Ten of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/ten-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 10,
+        "value": 10,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Legacy, Inheritance, Culmination",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "74": {
+        "title": "Page of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/page-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 11,
+        "value": 11,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Ambition, Desire, Diligence, Craving New Venture",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "75": {
+        "title": "Knight of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/knight-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 12,
+        "value": 12,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Efficiency, Hard Work, Responsibility",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "76": {
+        "title": "Queen of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/queen-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 13,
+        "value": 13,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Practicality, Creature Comforts, Security",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
+        }
+      }
+    },
+    {
+      "77": {
+        "title": "King of Pentacles",
+        "image": "Decks/RiderWaite/CardImages/king-of-pentacles.png",
+        "arcana": "Minor",
+        "number": 14,
+        "value": 14,
+        "suit": "Pentacles",
+        "rotation": "UPRIGHT",
+        "keywords": {
+          "Core": "Abundance, Prosperity, Provider, Generosity",
+          "Facts": "words",
+          "Consequences": "words",
+          "Emotions": "words"
         }
       }
     }
