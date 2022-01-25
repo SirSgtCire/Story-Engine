@@ -10,9 +10,11 @@
       "rotation": "UPRIGHT",
       "keywords": {
         "Core": "Innocence, New Beginnings, Wonder, Foolishness",
-        "Facts": "words",
-        "Consequences": "words",
-        "Emotions": "words"
+        "IncitingIncident": "words",
+        "Complication": "words",
+        "Crisis": "words",
+        "Climax": "words",
+        "Resolution": "words"
       }
     }
   },
@@ -27,9 +29,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Willpower, Creation, Mastery, Adaptation",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -44,9 +48,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -61,9 +67,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Beauty, Fertility, Nurturing, Luxury, Creativity",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -78,9 +86,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Structure, Ambition, Authority, Rationality",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -95,9 +105,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Tradition, Legacy, Society, Organized Religion",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -112,9 +124,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Choices, Union, Love, Relationship",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -129,9 +143,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Self-Control, Discipline, Success",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -146,9 +162,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Courage, Inner Strength, Conviction, Compassion",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -163,9 +181,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Contemplation, Solitude, Insight, Awareness",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -180,9 +200,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Fate, Karma, Destiny, Fortune, Cycles",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -197,9 +219,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Truth, Fairness, Law, Clarity, Cause and Effect",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -214,9 +238,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Sacrifice, Suspension, Release, Martyrdom, New Perspective",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -231,9 +257,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "End of Cycle, New Beginnings, Change, Metamorphosis",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -248,9 +276,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Middle Path, Patience, Finding Meaning",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -265,9 +295,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -282,9 +314,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Upheaval, Disaster, Foundational Shift",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -299,9 +333,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Hope, Faith, Rejuvenation, Rebuilding, Healing",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -316,9 +352,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Unconscious, Illusions, Intuition, Lack of Clarity",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -333,9 +371,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Joy, Success, Celebration, Pleasure",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -350,9 +390,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Reflection, Reckoning, Awakening",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -367,9 +409,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Fulfillment, Harmony, Completion",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -384,9 +428,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Creation, Willpower, Inspiration, Desire",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -401,9 +447,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Planning, Making Decisions, Leaving Home",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -418,9 +466,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Looking Ahead, Expansion, Rapid Growth",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -435,9 +485,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Community, Home, Celebration",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -452,9 +504,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Competition, Conflict, Reality",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -469,9 +523,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Victory, Success, Public Reward",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -486,9 +542,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Perseverance, Mounting A Defense, Maintaining Control",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -503,9 +561,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Rapid Action, Monument, Quick Decision",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -520,9 +580,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Resilience, Grit, Taking Last Stand",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -537,9 +599,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Accomplishment, Responsibility, Burden",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -554,9 +618,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Exploration, Excitement, Freedom",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -571,9 +637,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Action, Adventure, Fearlessness",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -588,9 +656,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Courage, Determination, Passion, Joy",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -605,9 +675,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Big Picture, Leader, Overcoming Challenges",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -622,9 +694,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "New Feelings, Spirituality, Intuition",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -639,9 +713,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Unity, Partnership, Connection",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -656,9 +732,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Friendship, Community, Happiness",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -673,9 +751,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Apathy, Contemplation, Disconnection",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -690,9 +770,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Loss, Grief, Disappointment, Mourning",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -707,9 +789,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Familiarity, Memories, Healing, Restoration",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -724,9 +808,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Searching for Purpose, Choices, Daydreaming",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -741,9 +827,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Walking Away, Disillusionment, Leaving Something Behind",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -758,9 +846,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Satisfaction, Luxury, Emotional Stability",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -775,9 +865,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Inner Happiness, Fulfillment, Dreams Coming True",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -792,9 +884,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Happy Surprise, Dreamer, Sensitivity",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -809,9 +903,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Idealistic, Romantic, Following One's Heart",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -826,9 +922,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Compassion, Calm, Comfort",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -843,9 +941,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Emotional Control, Balance Between Heart and Head",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -860,9 +960,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Breakthrough, Clarity, Sharp Mind",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -877,9 +979,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Difficult Choices, Indecision, Stalemate",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -894,9 +998,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Heartbreak, Suffering, Grief",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -911,9 +1017,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Rest, Restoration, Contemplation",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -928,9 +1036,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Unbridled Ambition, Win At All Costs, Sneakiness",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -945,9 +1055,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Transition, Leaving Behind, Moving On",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -962,9 +1074,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Deception, Trickery, Tactics and Strategy",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -979,9 +1093,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Imprisonment, Entrapment, Self-Victimization",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -996,9 +1112,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Anxiety, Hopelessness, Trauma",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1013,9 +1131,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Failure, Collapse, Defeat, Backstabbing",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1030,9 +1150,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Curiosity, Restlessness, Mental Energy",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1047,9 +1169,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Action, Impulsiveness, Defending Beliefs",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1064,9 +1188,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Complexity, Perceptive, Clear Mindedness",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1081,9 +1207,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Head Over Heart, Truth, Discipline",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1098,9 +1226,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Opportunity, Prosperity, New Venture",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1115,9 +1245,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Balancing Decisions, Priorities, Adaptation",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1132,9 +1264,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Teamwork, Collaboration, Building Together",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1149,9 +1283,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Conservation, Security, Frugality",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1166,9 +1302,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Need, Poverty, Insecurity, Low Resources",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1183,9 +1321,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Charity, Generosity, Sharing",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1200,9 +1340,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Hard Work, Perseverance, Diligence",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1217,9 +1359,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Diligence, Passion, High Standards",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1234,9 +1378,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Fruits of Labour, Reckless Spending, Rewards",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1251,9 +1397,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Legacy, Inheritance, Culmination",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1268,9 +1416,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Ambition, Desire, Diligence, Craving New Venture",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1285,9 +1435,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Efficiency, Hard Work, Responsibility",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1302,9 +1454,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Practicality, Creature Comforts, Security",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     },
@@ -1319,9 +1473,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Abundance, Prosperity, Provider, Generosity",
-          "Facts": "words",
-          "Consequences": "words",
-          "Emotions": "words"
+          "IncitingIncident": "words",
+          "Complication": "words",
+          "Crisis": "words",
+          "Climax": "words",
+          "Resolution": "words"
         }
       }
     }
