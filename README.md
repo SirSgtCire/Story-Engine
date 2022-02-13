@@ -12,7 +12,6 @@ https://tarotx.net/tarot-card-meanings/rider-waite/
 Suit Rankings:
 wands, batons, or rods (clubs); cups (hearts); swords (spades); and coins, pentacles, or disks (diamonds)
 
-
 ## French Tarot Game
 ###Game Setup:
 - For three players, there are 24 rounds of play, six card dog
@@ -25,7 +24,7 @@ wands, batons, or rods (clubs); cups (hearts); swords (spades); and coins, penta
 1. Order all cards (1 - 78).
 2. Separate Major Arcana from Minor Arcana.
 3. Shuffle all Minor Arcana together, 1st half in right hand reversed, 2nd half upright, both sides face down.
-4. Deal all Minor Arcana cards out to all players
+4. Deal all Minor Arcana cards out to all players.
 - Always deal cards vertical to each player.
 5. Shuffle all Major Arcana together, 1st half in right hand reversed, 2nd hand upright, both sides face down.
 6. Deal all Major Arcana cards out to all players.
@@ -69,22 +68,16 @@ The Taker has one of two decisions to make before game starts:
 4. Acts (major life stages in story)
 5. Subplots (controlling theme amplifiers, useful in long story formats)
 6. Global Story (what the author is trying to say)
-- We call these questions the "Five Building Block Questions"
+- We call these questions FBBQ, the "Five Building Block Questions"
 
-- The definition of a noun contains the following subtypes: Person, Thing, Idea, Quality, Action (Place and Animal are less human-centric, and therefore ignored)
-- We assign each of these noun types to one of the Five Questions. We extrapolate the meaning of each of the Five Questions to create the following relationship:
-- -> Inciting Incident: "The __(Thing)__ happens."
-- -> Complication: "The __(Person)__ gets involved."
-- -> Crisis: "The __(Idea)__ becomes known."
-- -> Climax: "The __(Action)__ is taken."
-- -> Resolution: "The __(Quality)__ is achieved."
+- We provide a one word answer to each of these FBBQ, and different answers whether the card is upright or reversed.
+- In total, there will be ten one word answers for each card.
 
 - To summarize everything we have discussed:
 - -> We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
 - -> This is the connection we implement in our algorithm to have a game of French Tarot tell us a narrative.
 
 ## "Arcanum" Algorithm
-
 ### Definitions
 - Tarot is a 3 - 5 player game, which corresponds to our 3 - 5 card spreads of Tarot cards
 - Each player in a game of Tarot corresponds to a defined Character in our story
@@ -107,7 +100,7 @@ The Taker has one of two decisions to make before game starts:
 - We finalize our story using the Global Story
 - The Global Story answers the "Five Building Block Questions"
 
-### Algorithm Walkthrough
+### Algorithm Walk-Through
 - We start with creating our Tarot Deck, by uploading a JSON containing each card and relevant data
 - We then decide how many main Characters are defined in our story, ranging from 3 - 5
 - For each Character, we do a Body Reading, which builds our Character using Tarot card meanings
@@ -143,8 +136,8 @@ The Taker has one of two decisions to make before game starts:
 - -> Following the 25/50/25 novel distribution, we need two Chapters per question in Act 2, which is twice that of Acts 1 and 3
 - We are now ready to evaluate each Sequence/Chapter, which we equate to one Round of French Tarot
 - For each Round, we answer the "Five Building Block Questions" based on turn order in the Round:
-- -> Player 1 = The Trick = Inciting Incident
-- -> Player 2 = The Defense (Part 1) = Complication + Crisis
+- -> Player 1 = The Trick = Inciting Incident + Complication
+- -> Player 2 = The Defense (Part 1) = Crisis
 - -> Player 3 = The Defense (Part 2) = Climax + Resolution
 - -> The Resolution = Round Winner = Controls the next Round's Inciting Incident
 - -> The above ties together each consecutive Sequence/Chapter through Resolution -> Inciting Incident, looping on our building block narrative structure
@@ -282,6 +275,15 @@ Ch. 59
 
 Ch. 66
 - Combining Micro Scale and Macro Scale Story Grids to make the overarching story grid
+
+### Narrative Structure Notes
+- The definition of a noun contains the following subtypes: Person, Thing, Idea, Quality, Action (Place and Animal are less human-centric, and therefore ignored)
+- We assign each of these noun types to one of the Five Questions. We extrapolate the meaning of each of the Five Questions to create the following relationship:
+- -> Inciting Incident: "The __(Thing)__ happens."
+- -> Complication: "The __(Person)__ gets involved."
+- -> Crisis: "The __(Idea)__ becomes known."
+- -> Climax: "The __(Action)__ is taken."
+- -> Resolution: "The __(Quality)__ is achieved."
 
 ### Algorithm Notes
 - We now consider how exactly to "interpret" each Tarot card in a way that translates to our previously described building blocks.

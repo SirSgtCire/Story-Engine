@@ -10,11 +10,11 @@
       "rotation": "UPRIGHT",
       "keywords": {
         "Core": "Innocence, New Beginnings, Wonder, Foolishness",
-        "IncitingIncident": "words",
-        "Complication": "words",
-        "Crisis": "words",
-        "Climax": "words",
-        "Resolution": "words"
+        "IncitingIncident": ["upright_answer","reversed_answer"],
+        "Complication": ["upright_answer","reversed_answer"],
+        "Crisis": ["upright_answer","reversed_answer"],
+        "Climax": ["upright_answer","reversed_answer"],
+        "Resolution": ["upright_answer","reversed_answer"]
       }
     }
   },
@@ -29,11 +29,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Willpower, Creation, Mastery, Adaptation",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -48,11 +48,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -67,11 +67,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Beauty, Fertility, Nurturing, Luxury, Creativity",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -86,11 +86,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Structure, Ambition, Authority, Rationality",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -105,11 +105,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Tradition, Legacy, Society, Organized Religion",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -124,11 +124,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Choices, Union, Love, Relationship",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -143,11 +143,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Self-Control, Discipline, Success",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -162,11 +162,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Courage, Inner Strength, Conviction, Compassion",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -181,11 +181,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Contemplation, Solitude, Insight, Awareness",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -200,11 +200,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Fate, Karma, Destiny, Fortune, Cycles",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -219,11 +219,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Truth, Fairness, Law, Clarity, Cause and Effect",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -238,11 +238,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Sacrifice, Suspension, Release, Martyrdom, New Perspective",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -257,11 +257,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "End of Cycle, New Beginnings, Change, Metamorphosis",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -276,11 +276,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Middle Path, Patience, Finding Meaning",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -295,11 +295,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -314,11 +314,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Upheaval, Disaster, Foundational Shift",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -333,11 +333,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Hope, Faith, Rejuvenation, Rebuilding, Healing",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -352,11 +352,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Unconscious, Illusions, Intuition, Lack of Clarity",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -371,11 +371,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Joy, Success, Celebration, Pleasure",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -390,11 +390,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Reflection, Reckoning, Awakening",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -409,11 +409,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Fulfillment, Harmony, Completion",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -428,11 +428,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Creation, Willpower, Inspiration, Desire",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -447,11 +447,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Planning, Making Decisions, Leaving Home",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -466,11 +466,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Looking Ahead, Expansion, Rapid Growth",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -485,11 +485,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Community, Home, Celebration",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -504,11 +504,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Competition, Conflict, Reality",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -523,11 +523,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Victory, Success, Public Reward",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -542,11 +542,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Perseverance, Mounting A Defense, Maintaining Control",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -561,11 +561,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Rapid Action, Monument, Quick Decision",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -580,11 +580,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Resilience, Grit, Taking Last Stand",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -599,11 +599,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Accomplishment, Responsibility, Burden",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -618,11 +618,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Exploration, Excitement, Freedom",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -637,11 +637,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Action, Adventure, Fearlessness",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -656,11 +656,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Courage, Determination, Passion, Joy",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -675,11 +675,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Big Picture, Leader, Overcoming Challenges",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -694,11 +694,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "New Feelings, Spirituality, Intuition",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -713,11 +713,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Unity, Partnership, Connection",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -732,11 +732,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Friendship, Community, Happiness",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -751,11 +751,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Apathy, Contemplation, Disconnection",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -770,11 +770,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Loss, Grief, Disappointment, Mourning",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -789,11 +789,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Familiarity, Memories, Healing, Restoration",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -808,11 +808,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Searching for Purpose, Choices, Daydreaming",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -827,11 +827,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Walking Away, Disillusionment, Leaving Something Behind",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -846,11 +846,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Satisfaction, Luxury, Emotional Stability",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -865,11 +865,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Inner Happiness, Fulfillment, Dreams Coming True",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -884,11 +884,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Happy Surprise, Dreamer, Sensitivity",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -903,11 +903,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Idealistic, Romantic, Following One's Heart",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -922,11 +922,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Compassion, Calm, Comfort",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -941,11 +941,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Emotional Control, Balance Between Heart and Head",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -960,11 +960,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Breakthrough, Clarity, Sharp Mind",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -979,11 +979,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Difficult Choices, Indecision, Stalemate",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -998,11 +998,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Heartbreak, Suffering, Grief",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1017,11 +1017,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Rest, Restoration, Contemplation",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1036,11 +1036,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Unbridled Ambition, Win At All Costs, Sneakiness",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1055,11 +1055,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Transition, Leaving Behind, Moving On",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1074,11 +1074,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Deception, Trickery, Tactics and Strategy",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1093,11 +1093,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Imprisonment, Entrapment, Self-Victimization",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1112,11 +1112,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Anxiety, Hopelessness, Trauma",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1131,11 +1131,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Failure, Collapse, Defeat, Backstabbing",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1150,11 +1150,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Curiosity, Restlessness, Mental Energy",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1169,11 +1169,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Action, Impulsiveness, Defending Beliefs",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1188,11 +1188,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Complexity, Perceptive, Clear Mindedness",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1207,11 +1207,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Head Over Heart, Truth, Discipline",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1226,11 +1226,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Opportunity, Prosperity, New Venture",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1245,11 +1245,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Balancing Decisions, Priorities, Adaptation",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1264,11 +1264,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Teamwork, Collaboration, Building Together",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1283,11 +1283,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Conservation, Security, Frugality",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1302,11 +1302,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Need, Poverty, Insecurity, Low Resources",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1321,11 +1321,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Charity, Generosity, Sharing",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1340,11 +1340,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Hard Work, Perseverance, Diligence",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1359,11 +1359,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Diligence, Passion, High Standards",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1378,11 +1378,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Fruits of Labour, Reckless Spending, Rewards",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1397,11 +1397,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Legacy, Inheritance, Culmination",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1416,11 +1416,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Ambition, Desire, Diligence, Craving New Venture",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1435,11 +1435,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Efficiency, Hard Work, Responsibility",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1454,11 +1454,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Practicality, Creature Comforts, Security",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     },
@@ -1473,11 +1473,11 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "Core": "Abundance, Prosperity, Provider, Generosity",
-          "IncitingIncident": "words",
-          "Complication": "words",
-          "Crisis": "words",
-          "Climax": "words",
-          "Resolution": "words"
+          "IncitingIncident": ["upright_answer","reversed_answer"],
+          "Complication": ["upright_answer","reversed_answer"],
+          "Crisis": ["upright_answer","reversed_answer"],
+          "Climax": ["upright_answer","reversed_answer"],
+          "Resolution": ["upright_answer","reversed_answer"]
         }
       }
     }
