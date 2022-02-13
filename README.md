@@ -70,8 +70,7 @@ The Taker has one of two decisions to make before game starts:
 6. Global Story (what the author is trying to say)
 - We call these questions FBBQ, the "Five Building Block Questions"
 
-- We provide a one word answer to each of these FBBQ, and different answers whether the card is upright or reversed.
-- In total, there will be ten one word answers for each card.
+- NOTE: GRAB MEL'S SENTENCE EQUATIONS AND PUT THEM HERE...
 
 - To summarize everything we have discussed:
 - -> We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.

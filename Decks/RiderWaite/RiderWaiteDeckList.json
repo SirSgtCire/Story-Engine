@@ -9,12 +9,11 @@
       "suit": "None",
       "rotation": "UPRIGHT",
       "keywords": {
-        "Core": "Innocence, New Beginnings, Wonder, Foolishness",
-        "IncitingIncident": ["upright_answer","reversed_answer"],
-        "Complication": ["upright_answer","reversed_answer"],
-        "Crisis": ["upright_answer","reversed_answer"],
-        "Climax": ["upright_answer","reversed_answer"],
-        "Resolution": ["upright_answer","reversed_answer"]
+        "CoreMeaning": "Innocence, New Beginnings, Wonder, Foolishness",
+        "UprightTransitiveVerb": "word",
+        "ReversedTransitiveVerb": "word",
+        "UprightDirectObject": "word",
+        "ReversedDirectObject": "word"
       }
     }
   },
@@ -28,12 +27,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Willpower, Creation, Mastery, Adaptation",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Willpower, Creation, Mastery, Adaptation",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -47,12 +45,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -66,12 +63,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Beauty, Fertility, Nurturing, Luxury, Creativity",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Beauty, Fertility, Nurturing, Luxury, Creativity",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -85,12 +81,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Structure, Ambition, Authority, Rationality",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Structure, Ambition, Authority, Rationality",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -104,12 +99,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Tradition, Legacy, Society, Organized Religion",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Tradition, Legacy, Society, Organized Religion",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -123,12 +117,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Choices, Union, Love, Relationship",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Choices, Union, Love, Relationship",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -142,12 +135,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Self-Control, Discipline, Success",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Self-Control, Discipline, Success",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -161,12 +153,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Courage, Inner Strength, Conviction, Compassion",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Courage, Inner Strength, Conviction, Compassion",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -180,12 +171,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Contemplation, Solitude, Insight, Awareness",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Contemplation, Solitude, Insight, Awareness",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -199,12 +189,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Fate, Karma, Destiny, Fortune, Cycles",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Fate, Karma, Destiny, Fortune, Cycles",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -218,12 +207,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Truth, Fairness, Law, Clarity, Cause and Effect",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Truth, Fairness, Law, Clarity, Cause and Effect",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -237,12 +225,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Sacrifice, Suspension, Release, Martyrdom, New Perspective",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Sacrifice, Suspension, Release, Martyrdom, New Perspective",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -256,12 +243,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "End of Cycle, New Beginnings, Change, Metamorphosis",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "End of Cycle, New Beginnings, Change, Metamorphosis",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -275,12 +261,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Middle Path, Patience, Finding Meaning",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Middle Path, Patience, Finding Meaning",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -294,12 +279,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -313,12 +297,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Upheaval, Disaster, Foundational Shift",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Upheaval, Disaster, Foundational Shift",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -332,12 +315,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Hope, Faith, Rejuvenation, Rebuilding, Healing",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Hope, Faith, Rejuvenation, Rebuilding, Healing",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -351,12 +333,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Unconscious, Illusions, Intuition, Lack of Clarity",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Unconscious, Illusions, Intuition, Lack of Clarity",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -370,12 +351,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Joy, Success, Celebration, Pleasure",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Joy, Success, Celebration, Pleasure",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -389,12 +369,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Reflection, Reckoning, Awakening",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Reflection, Reckoning, Awakening",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -408,12 +387,11 @@
         "suit": "None",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Fulfillment, Harmony, Completion",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Fulfillment, Harmony, Completion",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -427,12 +405,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Creation, Willpower, Inspiration, Desire",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Creation, Willpower, Inspiration, Desire",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -446,12 +423,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Planning, Making Decisions, Leaving Home",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Planning, Making Decisions, Leaving Home",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -465,12 +441,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Looking Ahead, Expansion, Rapid Growth",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Looking Ahead, Expansion, Rapid Growth",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -484,12 +459,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Community, Home, Celebration",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Community, Home, Celebration",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -503,12 +477,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Competition, Conflict, Reality",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Competition, Conflict, Reality",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -522,12 +495,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Victory, Success, Public Reward",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Victory, Success, Public Reward",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -541,12 +513,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Perseverance, Mounting A Defense, Maintaining Control",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Perseverance, Mounting A Defense, Maintaining Control",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -560,12 +531,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Rapid Action, Monument, Quick Decision",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Rapid Action, Monument, Quick Decision",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -579,12 +549,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Resilience, Grit, Taking Last Stand",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Resilience, Grit, Taking Last Stand",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -598,12 +567,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Accomplishment, Responsibility, Burden",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Accomplishment, Responsibility, Burden",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -617,12 +585,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Exploration, Excitement, Freedom",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Exploration, Excitement, Freedom",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -636,12 +603,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Action, Adventure, Fearlessness",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Action, Adventure, Fearlessness",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -655,12 +621,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Courage, Determination, Passion, Joy",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Courage, Determination, Passion, Joy",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -674,12 +639,11 @@
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Big Picture, Leader, Overcoming Challenges",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Big Picture, Leader, Overcoming Challenges",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -693,12 +657,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "New Feelings, Spirituality, Intuition",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "New Feelings, Spirituality, Intuition",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -712,12 +675,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Unity, Partnership, Connection",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Unity, Partnership, Connection",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -731,12 +693,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Friendship, Community, Happiness",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Friendship, Community, Happiness",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -750,12 +711,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Apathy, Contemplation, Disconnection",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Apathy, Contemplation, Disconnection",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -769,12 +729,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Loss, Grief, Disappointment, Mourning",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Loss, Grief, Disappointment, Mourning",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -788,12 +747,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Familiarity, Memories, Healing, Restoration",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Familiarity, Memories, Healing, Restoration",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -807,12 +765,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Searching for Purpose, Choices, Daydreaming",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Searching for Purpose, Choices, Daydreaming",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -826,12 +783,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Walking Away, Disillusionment, Leaving Something Behind",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Walking Away, Disillusionment, Leaving Something Behind",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -845,12 +801,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Satisfaction, Luxury, Emotional Stability",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Satisfaction, Luxury, Emotional Stability",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -864,12 +819,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Inner Happiness, Fulfillment, Dreams Coming True",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Inner Happiness, Fulfillment, Dreams Coming True",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -883,12 +837,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Happy Surprise, Dreamer, Sensitivity",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Happy Surprise, Dreamer, Sensitivity",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -902,12 +855,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Idealistic, Romantic, Following One's Heart",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Idealistic, Romantic, Following One's Heart",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -921,12 +873,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Compassion, Calm, Comfort",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Compassion, Calm, Comfort",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -940,12 +891,11 @@
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Emotional Control, Balance Between Heart and Head",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Emotional Control, Balance Between Heart and Head",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -959,12 +909,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Breakthrough, Clarity, Sharp Mind",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Breakthrough, Clarity, Sharp Mind",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -978,12 +927,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Difficult Choices, Indecision, Stalemate",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Difficult Choices, Indecision, Stalemate",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -997,12 +945,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Heartbreak, Suffering, Grief",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Heartbreak, Suffering, Grief",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1016,12 +963,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Rest, Restoration, Contemplation",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Rest, Restoration, Contemplation",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1035,12 +981,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Unbridled Ambition, Win At All Costs, Sneakiness",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Unbridled Ambition, Win At All Costs, Sneakiness",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1054,12 +999,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Transition, Leaving Behind, Moving On",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Transition, Leaving Behind, Moving On",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1073,12 +1017,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Deception, Trickery, Tactics and Strategy",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Deception, Trickery, Tactics and Strategy",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1092,12 +1035,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Imprisonment, Entrapment, Self-Victimization",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Imprisonment, Entrapment, Self-Victimization",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1111,12 +1053,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Anxiety, Hopelessness, Trauma",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Anxiety, Hopelessness, Trauma",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1130,12 +1071,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Failure, Collapse, Defeat, Backstabbing",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Failure, Collapse, Defeat, Backstabbing",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1149,12 +1089,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Curiosity, Restlessness, Mental Energy",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Curiosity, Restlessness, Mental Energy",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1168,12 +1107,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Action, Impulsiveness, Defending Beliefs",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Action, Impulsiveness, Defending Beliefs",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1187,12 +1125,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Complexity, Perceptive, Clear Mindedness",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Complexity, Perceptive, Clear Mindedness",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1206,12 +1143,11 @@
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Head Over Heart, Truth, Discipline",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Head Over Heart, Truth, Discipline",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1225,12 +1161,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Opportunity, Prosperity, New Venture",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Opportunity, Prosperity, New Venture",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1244,12 +1179,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Balancing Decisions, Priorities, Adaptation",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Balancing Decisions, Priorities, Adaptation",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1263,12 +1197,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Teamwork, Collaboration, Building Together",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Teamwork, Collaboration, Building Together",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1282,12 +1215,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Conservation, Security, Frugality",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Conservation, Security, Frugality",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1301,12 +1233,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Need, Poverty, Insecurity, Low Resources",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Need, Poverty, Insecurity, Low Resources",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1320,12 +1251,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Charity, Generosity, Sharing",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Charity, Generosity, Sharing",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1339,12 +1269,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Hard Work, Perseverance, Diligence",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Hard Work, Perseverance, Diligence",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1358,12 +1287,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Diligence, Passion, High Standards",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Diligence, Passion, High Standards",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1377,12 +1305,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Fruits of Labour, Reckless Spending, Rewards",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Fruits of Labour, Reckless Spending, Rewards",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1396,12 +1323,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Legacy, Inheritance, Culmination",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Legacy, Inheritance, Culmination",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1415,12 +1341,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Ambition, Desire, Diligence, Craving New Venture",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Ambition, Desire, Diligence, Craving New Venture",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1434,12 +1359,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Efficiency, Hard Work, Responsibility",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Efficiency, Hard Work, Responsibility",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1453,12 +1377,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Practicality, Creature Comforts, Security",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Practicality, Creature Comforts, Security",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     },
@@ -1472,12 +1395,11 @@
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
-          "Core": "Abundance, Prosperity, Provider, Generosity",
-          "IncitingIncident": ["upright_answer","reversed_answer"],
-          "Complication": ["upright_answer","reversed_answer"],
-          "Crisis": ["upright_answer","reversed_answer"],
-          "Climax": ["upright_answer","reversed_answer"],
-          "Resolution": ["upright_answer","reversed_answer"]
+          "CoreMeaning": "Abundance, Prosperity, Provider, Generosity",
+          "UprightTransitiveVerb": "word",
+          "ReversedTransitiveVerb": "word",
+          "UprightDirectObject": "word",
+          "ReversedDirectObject": "word"
         }
       }
     }

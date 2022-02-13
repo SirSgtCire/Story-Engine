@@ -15,9 +15,8 @@ public class Card {
     private String suit;
     private String rotation;
     private JSONObject keywords;
-    private JSONObject cardinality;
     private enum rotations {
-        REVERSED, LONSIDE, RONSIDE, UPRIGHT;
+        REVERSED, UPRIGHT;
     }
     
     public Card(Integer order, String title, String image, String arcana, Integer number,
@@ -31,7 +30,6 @@ public class Card {
         this.suit = suit;
         this.rotation = rotation;
         this.keywords = keywords;
-        initialPlacement(rotation);
     }
 
     public void display() {
@@ -44,7 +42,6 @@ public class Card {
         logger.info(String.format("Suit: %s\n", suit));
         logger.info(String.format("Rotation: %s\n", rotation));
         logger.info(String.format("Keywords: %s\n", keywords.toString()));
-        logger.info(String.format("Cardinality: %s\n", cardinality.toString()));
     }
 
     public void rotate(String newRotation) {
@@ -52,51 +49,9 @@ public class Card {
         try {
             this.rotation = rotations.valueOf(newRotation).toString();
         } catch (Exception e) {
-            logger.error(String.format(
-                    "We received the following input, %s, and received the following error:\n%s\n", newRotation, e));
+            logger.error(String.format("We received the following input, %s, and received the following error:\n%s\n", newRotation, e));
+            throw e;
         }
         logger.info(String.format("New rotation: %s\n", rotation));
-    }
-
-    public void initialPlacement(String rotation) {
-        cardinality = new JSONObject();
-        cardinality.put("diceRoll",4);
-        cardinality.put("direction","NORTH");
-        cardinality.put("rotation",rotation);
-    }
-
-    public void changeOrientation(Integer roll) {
-        switch (roll) {
-            case 1:
-                cardinality = new JSONObject();
-                cardinality.put("diceRoll",roll);
-                cardinality.put("direction","SOUTH");
-                cardinality.put("rotation","REVERSED");
-                this.rotate("REVERSED");
-                break;
-            case 2:
-                cardinality = new JSONObject();
-                cardinality.put("diceRoll",roll);
-                cardinality.put("direction","WEST");
-                cardinality.put("rotation","LONSIDE");
-                this.rotate("LONSIDE");
-                break;
-            case 3:
-                cardinality = new JSONObject();
-                cardinality.put("diceRoll",roll);
-                cardinality.put("direction","EAST");
-                cardinality.put("rotation","RONSIDE");
-                this.rotate("RONSIDE");
-                break;
-            case 4:
-                cardinality = new JSONObject();
-                cardinality.put("diceRoll",roll);
-                cardinality.put("direction","NORTH");
-                cardinality.put("rotation","UPRIGHT");
-                this.rotate("UPRIGHT");
-                break;
-            default:
-                logger.info(String.format("Roll %d does NOT use a d4, please roll again...\n", roll));
-        }
     }
 }
