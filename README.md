@@ -71,6 +71,11 @@ The Taker has one of two decisions to make before game starts:
 - We call these questions FBBQ, the "Five Building Block Questions"
 
 - NOTE: GRAB MEL'S SENTENCE EQUATIONS AND PUT THEM HERE...
+- Inciting Incident = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
+- Complication = Subject (Player) + Reversed Verb + Reversed Direct Object (Noun)
+- Crisis = Question Word (D6, What, Where, Why, Who, When, How) + Auxiliary Verb (D7, Be, Do, Can, May, Have, Will, Should) + Subject (Player) + Reversed Verb + ?
+- Climax = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
+- Resolution = Subject (Player) + Upright Verb + Upright Direct Object (Noun) + Conjunctive (D8, For, And, But, Or, Yet, So, However, Therefore) + Subject (Player) + Reversed Verb + Reversed Direct Object (Noun)
 
 - To summarize everything we have discussed:
 - -> We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
