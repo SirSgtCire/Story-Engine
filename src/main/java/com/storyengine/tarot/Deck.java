@@ -29,7 +29,7 @@ public class Deck {
             // For each card provided, insert it into our deck
             for (Object obj: jsonData) {
                 JSONObject card = (JSONObject) obj;
-                JSONObject cardData = (JSONObject) card.get(String.format("%s", jsonData.indexOf(card)));
+                JSONObject cardData = (JSONObject) card.get(jsonData.indexOf(card));
                 Card newCard = new Card(
                         jsonData.indexOf(card),
                         cardData.get("title").toString(),
@@ -70,9 +70,11 @@ public class Deck {
 
     public void reorder() {
         logger.info("Reordering the deck...\n");
+        Collections.sort(Deck);
     }
 
     public void drawOneFromTop() {
         logger.info("Drawing the top card...\n");
+        Deck.get(0).display();
     }
 }

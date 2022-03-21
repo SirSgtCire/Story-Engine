@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.json.simple.JSONObject;
 
-public class Card {
+public class Card implements Comparable<Card> {
     private static final Logger logger = LoggerFactory.getLogger(Card.class);
     private Integer order;
     private String title;
@@ -32,6 +32,15 @@ public class Card {
         this.keywords = keywords;
     }
 
+    // Helper method for sorting cards back to their starting state in a Deck
+    @Override
+    public int compareTo(Card c) {
+        if (this.number == null || c.number == null) {
+            return 0;
+        }
+        return this.number.compareTo(c.number);
+    }
+
     public void display() {
         logger.info(String.format("Order in Deck: %d\n", order));
         logger.info(String.format("Card: %s\n", title));
@@ -49,7 +58,7 @@ public class Card {
         try {
             this.rotation = rotations.valueOf(newRotation).toString();
         } catch (Exception e) {
-            logger.error(String.format("We received the following input, %s, and received the following error:\n%s\n", newRotation, e));
+            logger.error(String.format("We received the following input, %s, which triggered the following error:\n%s\n", newRotation, e));
             throw e;
         }
         logger.info(String.format("New rotation: %s\n", rotation));

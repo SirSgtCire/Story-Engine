@@ -10,10 +10,10 @@
       "rotation": "UPRIGHT",
       "keywords": {
         "CoreMeaning": "Innocence, New Beginnings, Wonder, Foolishness",
-        "UprightTransitiveVerb": "word",
-        "ReversedTransitiveVerb": "word",
-        "UprightDirectObject": "word",
-        "ReversedDirectObject": "word"
+        "UprightTransitiveVerb": "word1",
+        "ReversedTransitiveVerb": "word2",
+        "UprightDirectObject": "word3",
+        "ReversedDirectObject": "word4"
       }
     }
   },
@@ -28,10 +28,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Willpower, Creation, Mastery, Adaptation",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -46,10 +46,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Inner Voice, Intuition, Divine Truth, Wisdom, Unconscious",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -64,10 +64,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Beauty, Fertility, Nurturing, Luxury, Creativity",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -82,10 +82,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Structure, Ambition, Authority, Rationality",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -100,10 +100,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Tradition, Legacy, Society, Organized Religion",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -118,10 +118,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Choices, Union, Love, Relationship",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -136,10 +136,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Self-Control, Discipline, Success",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -154,10 +154,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Courage, Inner Strength, Conviction, Compassion",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -172,10 +172,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Contemplation, Solitude, Insight, Awareness",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -190,10 +190,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Fate, Karma, Destiny, Fortune, Cycles",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -208,10 +208,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Truth, Fairness, Law, Clarity, Cause and Effect",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -226,10 +226,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Sacrifice, Suspension, Release, Martyrdom, New Perspective",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -244,10 +244,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "End of Cycle, New Beginnings, Change, Metamorphosis",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -262,10 +262,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Middle Path, Patience, Finding Meaning",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -280,10 +280,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Materialism, Playfulness, Pleasure, Addiction, Self-Destruction",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -298,10 +298,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Upheaval, Disaster, Foundational Shift",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -316,10 +316,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Hope, Faith, Rejuvenation, Rebuilding, Healing",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -334,10 +334,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Unconscious, Illusions, Intuition, Lack of Clarity",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -352,10 +352,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Joy, Success, Celebration, Pleasure",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -370,10 +370,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Reflection, Reckoning, Awakening",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -388,10 +388,10 @@
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Fulfillment, Harmony, Completion",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -400,16 +400,16 @@
         "title": "Ace of Wands",
         "image": "Decks/RiderWaite/CardImages/ace-of-wands.png",
         "arcana": "Minor",
-        "number": 1,
+        "number": 22,
         "value": 1,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Creation, Willpower, Inspiration, Desire",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -418,16 +418,16 @@
         "title": "Two of Wands",
         "image": "Decks/RiderWaite/CardImages/two-of-wands.png",
         "arcana": "Minor",
-        "number": 2,
+        "number": 23,
         "value": 2,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Planning, Making Decisions, Leaving Home",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -436,16 +436,16 @@
         "title": "Three of Wands",
         "image": "Decks/RiderWaite/CardImages/three-of-wands.png",
         "arcana": "Minor",
-        "number": 3,
+        "number": 24,
         "value": 3,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Looking Ahead, Expansion, Rapid Growth",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -454,16 +454,16 @@
         "title": "Four of Wands",
         "image": "Decks/RiderWaite/CardImages/four-of-wands.png",
         "arcana": "Minor",
-        "number": 4,
+        "number": 25,
         "value": 4,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Community, Home, Celebration",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -472,16 +472,16 @@
         "title": "Five of Wands",
         "image": "Decks/RiderWaite/CardImages/five-of-wands.png",
         "arcana": "Minor",
-        "number": 5,
+        "number": 26,
         "value": 5,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Competition, Conflict, Reality",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -490,16 +490,16 @@
         "title": "Six of Wands",
         "image": "Decks/RiderWaite/CardImages/six-of-wands.png",
         "arcana": "Minor",
-        "number": 6,
+        "number": 27,
         "value": 6,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Victory, Success, Public Reward",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -508,16 +508,16 @@
         "title": "Seven of Wands",
         "image": "Decks/RiderWaite/CardImages/seven-of-wands.png",
         "arcana": "Minor",
-        "number": 7,
+        "number": 28,
         "value": 7,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Perseverance, Mounting A Defense, Maintaining Control",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -526,16 +526,16 @@
         "title": "Eight of Wands",
         "image": "Decks/RiderWaite/CardImages/eight-of-wands.png",
         "arcana": "Minor",
-        "number": 8,
+        "number": 29,
         "value": 8,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Rapid Action, Monument, Quick Decision",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -544,16 +544,16 @@
         "title": "Nine of Wands",
         "image": "Decks/RiderWaite/CardImages/nine-of-wands.png",
         "arcana": "Minor",
-        "number": 9,
+        "number": 30,
         "value": 9,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Resilience, Grit, Taking Last Stand",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -562,16 +562,16 @@
         "title": "Ten of Wands",
         "image": "Decks/RiderWaite/CardImages/ten-of-wands.png",
         "arcana": "Minor",
-        "number": 10,
+        "number": 31,
         "value": 10,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Accomplishment, Responsibility, Burden",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -580,16 +580,16 @@
         "title": "Page of Wands",
         "image": "Decks/RiderWaite/CardImages/page-of-wands.png",
         "arcana": "Minor",
-        "number": 11,
+        "number": 32,
         "value": 11,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Exploration, Excitement, Freedom",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -598,16 +598,16 @@
         "title": "Knight of Wands",
         "image": "Decks/RiderWaite/CardImages/knight-of-wands.png",
         "arcana": "Minor",
-        "number": 12,
+        "number": 33,
         "value": 12,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Action, Adventure, Fearlessness",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -616,16 +616,16 @@
         "title": "Queen of Wands",
         "image": "Decks/RiderWaite/CardImages/queen-of-wands.png",
         "arcana": "Minor",
-        "number": 13,
+        "number": 34,
         "value": 13,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Courage, Determination, Passion, Joy",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -634,16 +634,16 @@
         "title": "King of Wands",
         "image": "Decks/RiderWaite/CardImages/king-of-wands.png",
         "arcana": "Minor",
-        "number": 14,
+        "number": 35,
         "value": 14,
         "suit": "Wands",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Big Picture, Leader, Overcoming Challenges",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -652,16 +652,16 @@
         "title": "Ace of Cups",
         "image": "Decks/RiderWaite/CardImages/ace-of-cups.png",
         "arcana": "Minor",
-        "number": 1,
+        "number": 36,
         "value": 1,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "New Feelings, Spirituality, Intuition",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -670,16 +670,16 @@
         "title": "Two of Cups",
         "image": "Decks/RiderWaite/CardImages/two-of-cups.png",
         "arcana": "Minor",
-        "number": 2,
+        "number": 37,
         "value": 2,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Unity, Partnership, Connection",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -688,16 +688,16 @@
         "title": "Three of Cups",
         "image": "Decks/RiderWaite/CardImages/three-of-cups.png",
         "arcana": "Minor",
-        "number": 3,
+        "number": 38,
         "value": 3,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Friendship, Community, Happiness",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -706,16 +706,16 @@
         "title": "Four of Cups",
         "image": "Decks/RiderWaite/CardImages/four-of-cups.png",
         "arcana": "Minor",
-        "number": 4,
+        "number": 39,
         "value": 4,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Apathy, Contemplation, Disconnection",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -724,16 +724,16 @@
         "title": "Five of Cups",
         "image": "Decks/RiderWaite/CardImages/five-of-cups.png",
         "arcana": "Minor",
-        "number": 5,
+        "number": 40,
         "value": 5,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Loss, Grief, Disappointment, Mourning",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -742,16 +742,16 @@
         "title": "Six of Cups",
         "image": "Decks/RiderWaite/CardImages/six-of-cups.png",
         "arcana": "Minor",
-        "number": 6,
+        "number": 41,
         "value": 6,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Familiarity, Memories, Healing, Restoration",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -760,16 +760,16 @@
         "title": "Seven of Cups",
         "image": "Decks/RiderWaite/CardImages/seven-of-cups.png",
         "arcana": "Minor",
-        "number": 7,
+        "number": 42,
         "value": 7,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Searching for Purpose, Choices, Daydreaming",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -778,16 +778,16 @@
         "title": "Eight of Cups",
         "image": "Decks/RiderWaite/CardImages/eight-of-cups.png",
         "arcana": "Minor",
-        "number": 8,
+        "number": 43,
         "value": 8,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Walking Away, Disillusionment, Leaving Something Behind",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -796,16 +796,16 @@
         "title": "Nine of Cups",
         "image": "Decks/RiderWaite/CardImages/nine-of-cups.png",
         "arcana": "Minor",
-        "number": 9,
+        "number": 44,
         "value": 9,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Satisfaction, Luxury, Emotional Stability",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -814,16 +814,16 @@
         "title": "Ten of Cups",
         "image": "Decks/RiderWaite/CardImages/ten-of-cups.png",
         "arcana": "Minor",
-        "number": 10,
+        "number": 45,
         "value": 10,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Inner Happiness, Fulfillment, Dreams Coming True",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -832,16 +832,16 @@
         "title": "Page of Cups",
         "image": "Decks/RiderWaite/CardImages/page-of-cups.png",
         "arcana": "Minor",
-        "number": 11,
+        "number": 46,
         "value": 11,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Happy Surprise, Dreamer, Sensitivity",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -850,16 +850,16 @@
         "title": "Knight of Cups",
         "image": "Decks/RiderWaite/CardImages/knight-of-cups.png",
         "arcana": "Minor",
-        "number": 12,
+        "number": 47,
         "value": 12,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Idealistic, Romantic, Following One's Heart",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -868,16 +868,16 @@
         "title": "Queen of Cups",
         "image": "Decks/RiderWaite/CardImages/queen-of-cups.png",
         "arcana": "Minor",
-        "number": 13,
+        "number": 48,
         "value": 13,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Compassion, Calm, Comfort",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -886,16 +886,16 @@
         "title": "King of Cups",
         "image": "Decks/RiderWaite/CardImages/king-of-cups.png",
         "arcana": "Minor",
-        "number": 14,
+        "number": 49,
         "value": 14,
         "suit": "Cups",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Emotional Control, Balance Between Heart and Head",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -904,16 +904,16 @@
         "title": "Ace of Swords",
         "image": "Decks/RiderWaite/CardImages/ace-of-swords.png",
         "arcana": "Minor",
-        "number": 1,
+        "number": 50,
         "value": 1,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Breakthrough, Clarity, Sharp Mind",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -922,16 +922,16 @@
         "title": "Two of Swords",
         "image": "Decks/RiderWaite/CardImages/two-of-swords.png",
         "arcana": "Minor",
-        "number": 2,
+        "number": 51,
         "value": 2,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Difficult Choices, Indecision, Stalemate",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -940,16 +940,16 @@
         "title": "Three of Swords",
         "image": "Decks/RiderWaite/CardImages/three-of-swords.png",
         "arcana": "Minor",
-        "number": 3,
+        "number": 52,
         "value": 3,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Heartbreak, Suffering, Grief",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -958,16 +958,16 @@
         "title": "Four of Swords",
         "image": "Decks/RiderWaite/CardImages/four-of-swords.png",
         "arcana": "Minor",
-        "number": 4,
+        "number": 53,
         "value": 4,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Rest, Restoration, Contemplation",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -976,16 +976,16 @@
         "title": "Five of Swords",
         "image": "Decks/RiderWaite/CardImages/five-of-swords.png",
         "arcana": "Minor",
-        "number": 5,
+        "number": 54,
         "value": 5,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Unbridled Ambition, Win At All Costs, Sneakiness",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -994,16 +994,16 @@
         "title": "Six of Swords",
         "image": "Decks/RiderWaite/CardImages/six-of-swords.png",
         "arcana": "Minor",
-        "number": 6,
+        "number": 55,
         "value": 6,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Transition, Leaving Behind, Moving On",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1012,16 +1012,16 @@
         "title": "Seven of Swords",
         "image": "Decks/RiderWaite/CardImages/seven-of-swords.png",
         "arcana": "Minor",
-        "number": 7,
+        "number": 56,
         "value": 7,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Deception, Trickery, Tactics and Strategy",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1030,16 +1030,16 @@
         "title": "Eight of Swords",
         "image": "Decks/RiderWaite/CardImages/eight-of-swords.png",
         "arcana": "Minor",
-        "number": 8,
+        "number": 57,
         "value": 8,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Imprisonment, Entrapment, Self-Victimization",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1048,16 +1048,16 @@
         "title": "Nine of Swords",
         "image": "Decks/RiderWaite/CardImages/nine-of-swords.png",
         "arcana": "Minor",
-        "number": 9,
+        "number": 58,
         "value": 9,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Anxiety, Hopelessness, Trauma",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1066,16 +1066,16 @@
         "title": "Ten of Swords",
         "image": "Decks/RiderWaite/CardImages/ten-of-swords.png",
         "arcana": "Minor",
-        "number": 10,
+        "number": 59,
         "value": 10,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Failure, Collapse, Defeat, Backstabbing",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1084,16 +1084,16 @@
         "title": "Page of Swords",
         "image": "Decks/RiderWaite/CardImages/page-of-swords.png",
         "arcana": "Minor",
-        "number": 11,
+        "number": 60,
         "value": 11,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Curiosity, Restlessness, Mental Energy",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1102,16 +1102,16 @@
         "title": "Knight of Swords",
         "image": "Decks/RiderWaite/CardImages/knight-of-swords.png",
         "arcana": "Minor",
-        "number": 12,
+        "number": 61,
         "value": 12,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Action, Impulsiveness, Defending Beliefs",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1120,16 +1120,16 @@
         "title": "Queen of Swords",
         "image": "Decks/RiderWaite/CardImages/queen-of-swords.png",
         "arcana": "Minor",
-        "number": 13,
+        "number": 62,
         "value": 13,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Complexity, Perceptive, Clear Mindedness",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1138,16 +1138,16 @@
         "title": "King of Swords",
         "image": "Decks/RiderWaite/CardImages/king-of-swords.png",
         "arcana": "Minor",
-        "number": 14,
+        "number": 63,
         "value": 14,
         "suit": "Swords",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Head Over Heart, Truth, Discipline",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1156,16 +1156,16 @@
         "title": "Ace of Pentacles",
         "image": "Decks/RiderWaite/CardImages/ace-of-pentacles.png",
         "arcana": "Minor",
-        "number": 1,
+        "number": 64,
         "value": 1,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Opportunity, Prosperity, New Venture",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1174,16 +1174,16 @@
         "title": "Two of Pentacles",
         "image": "Decks/RiderWaite/CardImages/two-of-pentacles.png",
         "arcana": "Minor",
-        "number": 2,
+        "number": 65,
         "value": 2,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Balancing Decisions, Priorities, Adaptation",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1192,16 +1192,16 @@
         "title": "Three of Pentacles",
         "image": "Decks/RiderWaite/CardImages/three-of-pentacles.png",
         "arcana": "Minor",
-        "number": 3,
+        "number": 66,
         "value": 3,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Teamwork, Collaboration, Building Together",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1210,16 +1210,16 @@
         "title": "Four of Pentacles",
         "image": "Decks/RiderWaite/CardImages/four-of-pentacles.png",
         "arcana": "Minor",
-        "number": 4,
+        "number": 67,
         "value": 4,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Conservation, Security, Frugality",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1228,16 +1228,16 @@
         "title": "Five of Pentacles",
         "image": "Decks/RiderWaite/CardImages/five-of-pentacles.png",
         "arcana": "Minor",
-        "number": 5,
+        "number": 68,
         "value": 5,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Need, Poverty, Insecurity, Low Resources",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1246,16 +1246,16 @@
         "title": "Six of Pentacles",
         "image": "Decks/RiderWaite/CardImages/six-of-pentacles.png",
         "arcana": "Minor",
-        "number": 6,
+        "number": 69,
         "value": 6,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Charity, Generosity, Sharing",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1264,16 +1264,16 @@
         "title": "Seven of Pentacles",
         "image": "Decks/RiderWaite/CardImages/seven-of-pentacles.png",
         "arcana": "Minor",
-        "number": 7,
+        "number": 70,
         "value": 7,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Hard Work, Perseverance, Diligence",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1282,16 +1282,16 @@
         "title": "Eight of Pentacles",
         "image": "Decks/RiderWaite/CardImages/eight-of-pentacles.png",
         "arcana": "Minor",
-        "number": 8,
+        "number": 71,
         "value": 8,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Diligence, Passion, High Standards",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1300,16 +1300,16 @@
         "title": "Nine of Pentacles",
         "image": "Decks/RiderWaite/CardImages/nine-of-pentacles.png",
         "arcana": "Minor",
-        "number": 9,
+        "number": 72,
         "value": 9,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Fruits of Labour, Reckless Spending, Rewards",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1318,16 +1318,16 @@
         "title": "Ten of Pentacles",
         "image": "Decks/RiderWaite/CardImages/ten-of-pentacles.png",
         "arcana": "Minor",
-        "number": 10,
+        "number": 73,
         "value": 10,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Legacy, Inheritance, Culmination",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1336,16 +1336,16 @@
         "title": "Page of Pentacles",
         "image": "Decks/RiderWaite/CardImages/page-of-pentacles.png",
         "arcana": "Minor",
-        "number": 11,
+        "number": 74,
         "value": 11,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Ambition, Desire, Diligence, Craving New Venture",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1354,16 +1354,16 @@
         "title": "Knight of Pentacles",
         "image": "Decks/RiderWaite/CardImages/knight-of-pentacles.png",
         "arcana": "Minor",
-        "number": 12,
+        "number": 75,
         "value": 12,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Efficiency, Hard Work, Responsibility",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1372,16 +1372,16 @@
         "title": "Queen of Pentacles",
         "image": "Decks/RiderWaite/CardImages/queen-of-pentacles.png",
         "arcana": "Minor",
-        "number": 13,
+        "number": 76,
         "value": 13,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Practicality, Creature Comforts, Security",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     },
@@ -1390,16 +1390,16 @@
         "title": "King of Pentacles",
         "image": "Decks/RiderWaite/CardImages/king-of-pentacles.png",
         "arcana": "Minor",
-        "number": 14,
+        "number": 77,
         "value": 14,
         "suit": "Pentacles",
         "rotation": "UPRIGHT",
         "keywords": {
           "CoreMeaning": "Abundance, Prosperity, Provider, Generosity",
-          "UprightTransitiveVerb": "word",
-          "ReversedTransitiveVerb": "word",
-          "UprightDirectObject": "word",
-          "ReversedDirectObject": "word"
+          "UprightTransitiveVerb": "word1",
+          "ReversedTransitiveVerb": "word2",
+          "UprightDirectObject": "word3",
+          "ReversedDirectObject": "word4"
         }
       }
     }
