@@ -28,10 +28,8 @@ public class Deck {
 
             // For each card provided, insert it into our deck
             for (Object obj: jsonData) {
-                JSONObject card = (JSONObject) obj;
-                JSONObject cardData = (JSONObject) card.get(jsonData.indexOf(card));
+                JSONObject cardData = (JSONObject) obj;
                 Card newCard = new Card(
-                        jsonData.indexOf(card),
                         cardData.get("title").toString(),
                         cardData.get("image").toString(),
                         cardData.get("arcana").toString(),

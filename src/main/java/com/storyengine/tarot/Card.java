@@ -6,7 +6,6 @@ import org.json.simple.JSONObject;
 
 public class Card implements Comparable<Card> {
     private static final Logger logger = LoggerFactory.getLogger(Card.class);
-    private Integer order;
     private String title;
     private String image;
     private String arcana;
@@ -19,9 +18,8 @@ public class Card implements Comparable<Card> {
         REVERSED, UPRIGHT;
     }
     
-    public Card(Integer order, String title, String image, String arcana, Integer number,
+    public Card(String title, String image, String arcana, Integer number,
                 Integer value, String suit, String rotation, JSONObject keywords) {
-        this.order = order;
         this.title = title;
         this.image = image;
         this.arcana = arcana;
@@ -42,7 +40,6 @@ public class Card implements Comparable<Card> {
     }
 
     public void display() {
-        logger.info(String.format("Order in Deck: %d\n", order));
         logger.info(String.format("Card: %s\n", title));
         logger.info(String.format("Image: %s\n", image));
         logger.info(String.format("Arcana: %s\n", arcana));
