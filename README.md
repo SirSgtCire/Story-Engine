@@ -1,7 +1,6 @@
 # Arcanum
 ## Context
-Welcome to Arcanum!
-Also known as Story Engine!
+Welcome to Arcanum, also known as Story Engine!
 
 ## Objective
 We use the game of French Tarot to drive stories, since Tarot Cards represent narrative archetypes.
@@ -70,16 +69,16 @@ The Taker has one of two decisions to make before game starts:
 6. Global Story (what the author is trying to say)
 - We call these questions FBBQ, the "Five Building Block Questions"
 
-- NOTE: GRAB MEL'S SENTENCE EQUATIONS AND PUT THEM HERE...
-- Inciting Incident = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
-- Complication = Subject (Player) + Reversed Verb + Reversed Direct Object (Noun)
-- Crisis = Question Word (D6, What, Where, Why, Who, When, How) + Auxiliary Verb (D7, Be, Do, Can, May, Have, Will, Should) + Subject (Player) + Reversed Verb + ?
-- Climax = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
-- Resolution = Subject (Player) + Upright Verb + Upright Direct Object (Noun) + Conjunctive (D8, For, And, But, Or, Yet, So, However, Therefore) + Subject (Player) + Reversed Verb + Reversed Direct Object (Noun)
+- We have created the following sentence templates:
+1. Inciting Incident = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
+2. Complication = Subject (Player) + Reversed Verb + Reversed Direct Object (Noun)
+3. Crisis = Question Word (D6, What, Where, Why, Who, When, How) + Auxiliary Verb (D7, Be, Do, Can, May, Have, Will, Should) + Subject (Player) + Reversed Verb + ?
+4. Climax = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
+5. Resolution = Subject (Player) + Upright Verb + Upright Direct Object (Noun) + Conjunctive (D8, For, And, But, Or, Yet, So, However, Therefore) + Subject (Player) + Reversed Verb + Reversed Direct Object (Noun)
 
 - To summarize everything we have discussed:
 - -> We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
-- -> This is the connection we implement in our algorithm to have a game of French Tarot tell us a narrative.
+- -> This is the connection we implement in our algorithm to have a game of French Tarot generate us a narrative.
 
 ## "Arcanum" Algorithm
 ### Definitions
@@ -156,12 +155,14 @@ We have now answered all building block questions for all our defined layers of 
 - After filling in each section, we return the resulting collection of sentences
 
 ## Installation / Usage
-Blah
+TBD
 
 ## Resources
 https://tarotx.net/
 https://en.wikipedia.org/wiki/French_Tarot
 https://storygrid.com/how-to-learn-writing/
+
+
 
 ## NOTES
 ### Story Grid Book Notes
