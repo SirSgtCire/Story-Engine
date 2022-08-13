@@ -12,6 +12,6 @@ public class Base {
 
     public static void main(String [] args) throws Exception {
         Base bae = new Base();
-        bae.logger.info("Welcome to Story Engine!");
+        bae.logger.info("Welcome to Story Engine, also known as Arcanum!");
     }
 }

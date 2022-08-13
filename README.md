@@ -8,17 +8,17 @@ We use the game of French Tarot to drive stories, since Tarot Cards represent na
 ## Rider Waite Tarot Deck
 https://tarotx.net/tarot-card-meanings/rider-waite/
 
-Suit Rankings:
-wands, batons, or rods (clubs); cups (hearts); swords (spades); and coins, pentacles, or disks (diamonds)
+Tarot Suit Rankings:
+wands (clubs) < cups (hearts) < swords (spades) < pentacles (diamonds)
 
 ## French Tarot Game
-###Game Setup:
+### Game Setup:
 - For three players, there are 24 rounds of play, six card dog
 - For four players, there are 18 rounds of play, six card dog
 - For five players, there are 15 rounds of play, three card dog
 - Shuffle the deck, and deal each player a card. The player with the lowest value card deals first.
 
-###Tarot Gameplay Rules:
+### Tarot Gameplay Rules:
 0. Tarot Game is a three to five player game, no more, no less.
 1. Order all cards (1 - 78).
 2. Separate Major Arcana from Minor Arcana.
@@ -47,7 +47,7 @@ wands, batons, or rods (clubs); cups (hearts); swords (spades); and coins, penta
 - The result of the last card is the result of the game.
 - No objections can be made to the result of the game UNLESS a player has broken any of the above rules.
 
-###Tarot Strategies:
+### Tarot Strategies:
 The Taker has one of two decisions to make before game starts:
 - They put their lowest face cards into their discard pile, OR, they put their lowest normal cards into their discard pile.
 - Both decisions are significant strategy-wise and narrative-wise.
@@ -155,12 +155,22 @@ We have now answered all building block questions for all our defined layers of 
 - After filling in each section, we return the resulting collection of sentences
 
 ## Installation / Usage
-TBD
+Clone from Github
+Run the following command in terminal inside the project:
+`mvn -X -U clean test -Dprop.file=src/main/resources/config.properties`
+
+
+## Development
+
+
+## Testing
+
 
 ## Resources
 https://tarotx.net/
 https://en.wikipedia.org/wiki/French_Tarot
 https://storygrid.com/how-to-learn-writing/
+
 
 
 
@@ -170,12 +180,10 @@ Body reading notes:
 between every shuffle, take one half of the cards and invert their orientation, 
 to maintain a certain number of reversed cards.
 
-
 Three part novel builder logic:
 Part 1 - beginning of story
 Part 2 - first round with a trump played
 Part 3 - first round with three (or two) trumps played
-
 
 Story Grid Book Notes:
 
