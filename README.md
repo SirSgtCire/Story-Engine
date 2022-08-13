@@ -67,7 +67,7 @@ The Taker has one of two decisions to make before game starts:
 4. Acts (major life stages in story)
 5. Subplots (controlling theme amplifiers, useful in long story formats)
 6. Global Story (what the author is trying to say)
-- We call these questions FBBQ, the "Five Building Block Questions"
+- We call these questions the "Five Building Block Questions," denoted as FBBQ.
 
 - We have created the following sentence templates:
 1. Inciting Incident = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
