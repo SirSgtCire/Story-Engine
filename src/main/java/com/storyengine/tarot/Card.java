@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.json.simple.JSONObject;
 
 public class Card implements Comparable<Card> {
-    private static final Logger logger = LoggerFactory.getLogger(Card.class);
+    private final Logger logger = LoggerFactory.getLogger(Card.class);
     private String title;
     private String image;
     private String arcana;

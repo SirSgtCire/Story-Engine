@@ -4,18 +4,18 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Spread {
-    private static final Logger logger = LoggerFactory.getLogger(Spread.class);
+    private final Logger logger = LoggerFactory.getLogger(Spread.class);
 
 
-    public static void NCardReading(Integer cardCount) {
-
-    }
-
-    public static void BodyReading() {
+    public void NCardReading(Integer cardCount) {
 
     }
 
-    public static void BeatReading() {
+    public void BodyReading() {
+
+    }
+
+    public void BeatReading() {
 
     }
 }

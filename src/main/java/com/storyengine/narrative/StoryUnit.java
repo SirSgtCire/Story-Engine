@@ -4,25 +4,25 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class StoryUnit {
-    private static final Logger logger = LoggerFactory.getLogger(StoryUnit.class);
+    private final Logger logger = LoggerFactory.getLogger(StoryUnit.class);
 
-    public static void IncitingIncident() {
-
-    }
-
-    public static void Complication() {
+    public void IncitingIncident() {
 
     }
 
-    public static void Crisis() {
+    public void Complication() {
 
     }
 
-    public static void Climax() {
+    public void Crisis() {
 
     }
 
-    public static void Resolution() {
+    public void Climax() {
+
+    }
+
+    public void Resolution() {
 
     }
 }

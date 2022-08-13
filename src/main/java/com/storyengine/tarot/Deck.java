@@ -9,7 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Deck {
-    private static final Logger logger = LoggerFactory.getLogger(Deck.class);
+    private final Logger logger = LoggerFactory.getLogger(Deck.class);
     private List<Card> Deck;
     private Integer size;
     private Random rand;
