@@ -87,25 +87,25 @@ The Taker has one of two decisions to make before game starts:
 - Each card played by a player represents "a Scene driven by that player"
 - Each Scene answers the "Five Building Block Questions"
 - Each Round of Tarot represents a Sequence of 3 - 5 player Scenes, which we call a Chapter
-- Each Chapter answers the "Five Building Block Questions"
+- Each Chapter answers the FBBQ
 - The number of Chapters a story has is based on the number of players in a game of Tarot:
 1. "for three players, there are 24 rounds of play, six card dog", so 24 Chapters
 2. "for four players, there are 18 rounds of play, six card dog", so 18 Chapters
 3. "for five players, there are 15 rounds of play, three card dog", so 15 Chapters
 - In each of these instances, we add Chapter 0 to account for the Prologue, which determines who plays the first trick of the game
 - We assume that every story involves three Acts, following the 25/50/25 novel distribution
-- Each Act answers the "Five Building Block Questions"
+- Each Act answers the FBBQ
 - We assume that every story involves an amount of Subplot equal to the following:
 - -> "Support Characters" are represented by the available face cards in the Tarot deck
 - -> If the Trick played is a face card, the Chapter perspective goes to the associated Support Character
 - -> The number of rounds this occurs is the total amount of Subplot defined in our story
 - Each defined Subplot answers the "Five Building Block Questions"
 - We finalize our story using the Global Story
-- The Global Story answers the "Five Building Block Questions"
+- The Global Story answers the FBBQ
 
 ### Algorithm Walk-Through
 - We start with creating our Tarot Deck, by uploading a JSON containing each card and relevant data
-- We then decide how many main Characters are defined in our story, ranging from 3 - 5
+- We then decide how many main Characters are defined in our story, ranging from 3 to 5
 - For each Character, we do a Body Reading, which builds our Character using Tarot card meanings
 - With each Character defined, we initiate a game of French Tarot
 - We play a game of French Tarot to obtain all the data we need for our story
@@ -134,23 +134,23 @@ The Taker has one of two decisions to make before game starts:
 - With the Global Story and Subplots established, we fill in Act information between our Global Story concrete bounds:
 - -> Ch. 0 = Prologue, Ch. 1 - 6 = Act 1, Ch. 7 - 18 = Act 2, Ch. 19 - 24 = Act 3
 - With our (as square as possible) Matrix, we assign Act lengths following the 25/50/25 novel distribution
-- -> We now answer the "Five Building Block Questions" within each Act, assigning each question to a Chapter
+- -> We now answer the FBBQ within each Act, assigning each question to a Chapter
 - -> The questions for each Act CANNOT overlap with the diagonal of our Matrix
 - -> Following the 25/50/25 novel distribution, we need two Chapters per question in Act 2, which is twice that of Acts 1 and 3
 - We are now ready to evaluate each Sequence/Chapter, which we equate to one Round of French Tarot
-- For each Round, we answer the "Five Building Block Questions" based on turn order in the Round:
+- For each Round, we answer the FBBQ based on turn order in the Round:
 - -> Player 1 = The Trick = Inciting Incident + Complication
-- -> Player 2 = The Defense (Part 1) = Crisis
-- -> Player 3 = The Defense (Part 2) = Climax + Resolution
-- -> The Resolution = Round Winner = Controls the next Round's Inciting Incident
+- -> Player 2 = The Defense (Part 1) = Crisis + Climax
+- -> Player 3 = The Defense (Part 2) = Resolution
+- -> Round Winner = Controls the next Round's Inciting Incident
 - -> The above ties together each consecutive Sequence/Chapter through Resolution -> Inciting Incident, looping on our building block narrative structure
 - We now evaluate each Scene within each Chapter, where Scene = Card played in Round
-- -> Each Card must answer the "Five Building Block Questions" from the perspective of the Character that played the Card
+- -> Each Card must answer the FBBQ  from the perspective of the Character that played the Card
 - We do NOT define Beats, as to give our output enough flexibility in finalizing the writing of our story
 
 We have now answered all building block questions for all our defined layers of story
 - We now generate our Rough Draft Output using our Matrix dataset, containing card interpretations and game round results
-- We use our noun extrapolation rules defined above to answer each set of "Five Building Block Questions" at each level
+- We use our noun extrapolation rules defined above to answer each set of FBBQ at each level
 - These questions are the sentences we use to fill in each level of our story
 - After filling in each section, we return the resulting collection of sentences
 
