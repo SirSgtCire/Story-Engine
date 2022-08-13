@@ -19,6 +19,7 @@ wands (clubs) < cups (hearts) < swords (spades) < pentacles (diamonds)
 - Shuffle the deck, and deal each player a card. The player with the lowest value card deals first.
 
 ### Tarot Gameplay Rules:
+We use the following rules as defined in the rules of the game of French Tarot:
 0. Tarot Game is a three to five player game, no more, no less.
 1. Order all cards (1 - 78).
 2. Separate Major Arcana from Minor Arcana.
@@ -54,7 +55,7 @@ The Taker has one of two decisions to make before game starts:
 - The default choice made will be discarding the lowest normal cards to the discard pile.
 
 ## Narrative Structure
-- Story can be broken down into basic building blocks:
+Story can be broken down into basic building blocks:
 1. Inciting Incident
 2. Complication
 3. Crisis
@@ -69,23 +70,23 @@ The Taker has one of two decisions to make before game starts:
 6. Global Story (what the author is trying to say)
 - We call these questions the "Five Building Block Questions," denoted as FBBQ.
 
-- We have created the following sentence templates:
+We have created the following sentence templates:
 1. Inciting Incident = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
 2. Complication = Subject (Player) + Reversed Verb + Reversed Direct Object (Noun)
 3. Crisis = Question Word (D6, What, Where, Why, Who, When, How) + Auxiliary Verb (D7, Be, Do, Can, May, Have, Will, Should) + Subject (Player) + Reversed Verb + ?
 4. Climax = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
 5. Resolution = Subject (Player) + Upright Verb + Upright Direct Object (Noun) + Conjunctive (D8, For, And, But, Or, Yet, So, However, Therefore) + Subject (Player) + Reversed Verb + Reversed Direct Object (Noun)
 
-- To summarize everything we have discussed:
-- -> We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
-- -> This is the connection we implement in our algorithm to have a game of French Tarot generate us a narrative.
+To summarize everything we have discussed:
+- We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
+- This is the connection we implement in our algorithm to have a game of French Tarot generate us a narrative.
 
 ## "Arcanum" Algorithm
 ### Definitions
 - Tarot is a 3 - 5 player game, which corresponds to our 3 - 5 card spreads of Tarot cards
 - Each player in a game of Tarot corresponds to a defined Character in our story
 - Each card played by a player represents "a Scene driven by that player"
-- Each Scene answers the "Five Building Block Questions"
+- Each Scene answers the FBBQ
 - Each Round of Tarot represents a Sequence of 3 - 5 player Scenes, which we call a Chapter
 - Each Chapter answers the FBBQ
 - The number of Chapters a story has is based on the number of players in a game of Tarot:
@@ -155,16 +156,12 @@ We have now answered all building block questions for all our defined layers of 
 - After filling in each section, we return the resulting collection of sentences
 
 ## Installation / Usage
-Clone from Github
 Run the following command in terminal inside the project:
 `mvn -X -U clean test -Dprop.file=src/main/resources/config.properties`
 
-
 ## Development
 
-
 ## Testing
-
 
 ## Resources
 https://tarotx.net/
