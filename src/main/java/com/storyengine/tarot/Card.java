@@ -12,11 +12,8 @@ public class Card implements Comparable<Card> {
     private Integer number;
     private Integer value;
     private String suit;
-    private String rotation;
+    protected String rotation;
     private JSONObject keywords;
-    private enum rotations {
-        REVERSED, UPRIGHT;
-    }
     
     public Card(String title, String image, String arcana, Integer number,
                 Integer value, String suit, String rotation, JSONObject keywords) {
@@ -48,16 +45,5 @@ public class Card implements Comparable<Card> {
         logger.info(String.format("Suit: %s\n", suit));
         logger.info(String.format("Rotation: %s\n", rotation));
         logger.info(String.format("Keywords: %s\n", keywords.toString()));
-    }
-
-    public void rotate(String newRotation) {
-        logger.info(String.format("Old rotation: %s\n", rotation));
-        try {
-            this.rotation = rotations.valueOf(newRotation).toString();
-        } catch (Exception e) {
-            logger.error(String.format("We received the following input, %s, which triggered the following error:\n%s\n", newRotation, e));
-            throw e;
-        }
-        logger.info(String.format("New rotation: %s\n", rotation));
     }
 }

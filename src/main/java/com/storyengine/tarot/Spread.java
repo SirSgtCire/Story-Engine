@@ -6,7 +6,6 @@ import org.slf4j.LoggerFactory;
 public class Spread {
     private final Logger logger = LoggerFactory.getLogger(Spread.class);
 
-
     public void NCardReading(Integer cardCount) {
 
     }

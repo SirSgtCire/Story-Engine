@@ -1,12 +1,12 @@
 package com.storyengine.tarot;
 
 import java.util.*;
+import org.slf4j.Logger;
 import java.io.FileReader;
+import org.slf4j.LoggerFactory;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 public class Deck {
     private final Logger logger = LoggerFactory.getLogger(Deck.class);
@@ -14,7 +14,7 @@ public class Deck {
     private Integer size;
     private Random rand;
     
-    public Deck(String deckInput, String jsonHeader) throws Exception {
+    public Deck(String deckInput, String jsonHeader) {
         // Create the deck
         Deck = new ArrayList<>();
         rand = new Random();
@@ -74,5 +74,26 @@ public class Deck {
     public void drawOneFromTop() {
         logger.info("Drawing the top card...\n");
         Deck.get(0).display();
+    }
+
+    public void rotate(Card c) {
+        String oldRotation = c.rotation;
+        String newRotation = "UPRIGHT";
+        logger.info(String.format("Current rotation: %s\n", oldRotation));
+        switch (oldRotation) {
+            case "UPRIGHT":
+                logger.info("Rotation is now REVERSED\n");
+                newRotation = "REVERSED";
+                break;
+            case "REVERSED":
+                logger.info("Rotation is now UPRIGHT\n");
+                newRotation = "UPRIGHT";
+                break;
+            default:
+                logger.info("Rotation has not changed\n");
+                break;
+        }
+        c.rotation = newRotation;
+        logger.info(String.format("Latest rotation: %s\n", c.rotation));
     }
 }
