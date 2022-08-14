@@ -50,7 +50,7 @@ public class Deck {
         }
     }
 
-    public Integer getNumCards() {
+    public Integer getDeckSize() {
         return this.size;
     }
     
@@ -61,39 +61,30 @@ public class Deck {
         Deck.get(pick).display();
     }
 
-    public void shuffle() {
-        logger.info("Shuffling the deck...\n");
-        Collections.shuffle(Deck);
-    }
-
-    public void reorder() {
-        logger.info("Reordering the deck...\n");
-        Collections.sort(Deck);
-    }
-
     public void drawOneFromTop() {
         logger.info("Drawing the top card...\n");
         Deck.get(0).display();
     }
 
-    public void rotate(Card c) {
-        String oldRotation = c.rotation;
-        String newRotation = "UPRIGHT";
-        logger.info(String.format("Current rotation: %s\n", oldRotation));
-        switch (oldRotation) {
-            case "UPRIGHT":
-                logger.info("Rotation is now REVERSED\n");
-                newRotation = "REVERSED";
-                break;
-            case "REVERSED":
-                logger.info("Rotation is now UPRIGHT\n");
-                newRotation = "UPRIGHT";
-                break;
-            default:
-                logger.info("Rotation has not changed\n");
-                break;
+    public void getSpecifiedCard(Integer pick) {
+        logger.info(String.format("Drawing card %s from the deck...\n", pick));
+        Deck.get(pick).display();
+    }
+
+    public void shuffle() {
+        logger.info("Shuffling the deck...\n");
+        Collections.shuffle(Deck);
+    }
+
+    public void shuffleNTimes(Integer numTimes) {
+        logger.info(String.format("Shuffling the deck %d times...\n", numTimes));
+        for (int i = 0; i < numTimes; i++) {
+            shuffle();
         }
-        c.rotation = newRotation;
-        logger.info(String.format("Latest rotation: %s\n", c.rotation));
+    }
+
+    public void reorder() {
+        logger.info("Reordering the deck...\n");
+        Collections.sort(Deck);
     }
 }

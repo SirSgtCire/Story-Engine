@@ -1,14 +1,12 @@
 package com.storyengine.narrative;
 
-import static org.junit.Assert.assertTrue;
-
-import com.storyengine.Base;
-import com.storyengine.tarot.Deck;
 import org.junit.Test;
 import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import java.util.Scanner;
+import org.slf4j.LoggerFactory;
+import com.storyengine.Base;
+import com.storyengine.tarot.Deck;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.
@@ -61,7 +59,7 @@ public class NarrativeTest extends Base {
                 logger.info("Here's your starting prompt:");
 
                 while (next != 0) {
-                    tarotDeck.randomCard(tarotDeck.getNumCards());
+                    tarotDeck.randomCard(tarotDeck.getDeckSize());
                     story += (input.nextLine() + "\n");
                     do {
                         logger.info("Enter 1 for another prompt or 0 to end.");

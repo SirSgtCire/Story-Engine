@@ -46,4 +46,25 @@ public class Card implements Comparable<Card> {
         logger.info(String.format("Rotation: %s\n", rotation));
         logger.info(String.format("Keywords: %s\n", keywords.toString()));
     }
+
+    public void rotate() {
+        String oldRotation = this.rotation;
+        String newRotation = "UPRIGHT";
+        logger.info(String.format("Current rotation: %s\n", oldRotation));
+        switch (oldRotation) {
+            case "UPRIGHT":
+                logger.info("Rotation is now REVERSED\n");
+                newRotation = "REVERSED";
+                break;
+            case "REVERSED":
+                logger.info("Rotation is now UPRIGHT\n");
+                newRotation = "UPRIGHT";
+                break;
+            default:
+                logger.info("Rotation has not changed\n");
+                break;
+        }
+        this.rotation = newRotation;
+        logger.info(String.format("Latest rotation: %s\n", this.rotation));
+    }
 }
