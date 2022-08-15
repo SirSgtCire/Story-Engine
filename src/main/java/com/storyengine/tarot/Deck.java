@@ -54,7 +54,7 @@ public class Deck {
         return this.size;
     }
     
-    public void randomCard(Integer deckSize) {
+    public void drawRandomCard(Integer deckSize) {
         logger.info("Drawing a card from the deck...\n");
         int pick = rand.nextInt(deckSize);
         logger.info(String.format("You chose card number %d, which happens to be...\n", pick));

@@ -7,18 +7,17 @@ import org.slf4j.LoggerFactory;
 
 public class Base {
     protected final Config properties = new Config(System.getProperty("prop.file", "src/main/resources/config.properties"));
+    protected Deck tarotDeck;
     private final Logger logger = LoggerFactory.getLogger(Base.class);
-
-    public static void main(String [] args) throws Exception {
-        Base bae = new Base();
-        bae.logger.info("Welcome to Story Engine, also known as Arcanum!");
-    }
 
     public void setup() throws Exception {
         // Set up all framework pieces here
+        logger.info("Initializing Story Engine...");
+        tarotDeck = new Deck(properties.getProperty("json.card.input"), properties.getProperty("json.card.header"));
     }
 
     public void teardown() throws Exception {
         // Tear down all framework pieces here
+        logger.info("Terminating Story Engine...");
     }
 }

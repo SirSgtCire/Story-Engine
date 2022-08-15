@@ -5,25 +5,27 @@ import org.slf4j.Logger;
 import java.util.Scanner;
 import org.slf4j.LoggerFactory;
 import com.storyengine.Base;
-import com.storyengine.tarot.Deck;
-import static org.junit.Assert.assertTrue;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
 
 /**
  * Unit test for simple App.
  */
 public class NarrativeTest extends Base {
     private final Logger logger = LoggerFactory.getLogger(NarrativeTest.class);
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue() {
-        assertTrue( true );
+
+    @BeforeTest
+    public void testInit() throws Exception {
+        super.setup();
+    }
+
+    @AfterTest
+    public void testTerm() throws Exception {
+        super.teardown();
     }
 
     @Test
     public void FortuneTeller() throws Exception {
-        Deck tarotDeck = new Deck(properties.getProperty("json.card.input"), properties.getProperty("json.card.header"));
         Scanner input = new Scanner(System.in);
         logger.info("Welcome, welcome...");
         //ask if the user wants a reading or story prompts
@@ -36,13 +38,13 @@ public class NarrativeTest extends Base {
                 int numCards = 1;
                 while (nextCard == 1) {
                     logger.info("Please think of a question you would like to have answered:");
-                    //on repeats it's not waiting for this and idk why......
+                    //on repeat mode it's not waiting for this and idk why......
                     input.nextLine();
                     logger.info("How many cards shall I pull for you?");
                     numCards = input.nextInt();
                     for (int k = 0; k < numCards; k++) {
                         logger.info("Drawing card "+(k+1)+" of "+(numCards+1));
-                        tarotDeck.randomCard(78);
+                        tarotDeck.drawRandomCard(78);
                     }
                     logger.info("Hmm, interesting....");
                     logger.info("Another question? (1 for yes, 2 for no)");
@@ -59,7 +61,7 @@ public class NarrativeTest extends Base {
                 logger.info("Here's your starting prompt:");
 
                 while (next != 0) {
-                    tarotDeck.randomCard(tarotDeck.getDeckSize());
+                    tarotDeck.drawRandomCard(tarotDeck.getDeckSize());
                     story += (input.nextLine() + "\n");
                     do {
                         logger.info("Enter 1 for another prompt or 0 to end.");
