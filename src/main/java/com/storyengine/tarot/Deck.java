@@ -48,6 +48,8 @@ public class Deck {
             logger.info(String.format("We received the following error:\n%s\n", e));
             e.printStackTrace();
         }
+
+        // TODO: add and remove cards from the deck, and then restore deck to original inputs
     }
 
     public Integer getDeckSize() {
@@ -66,7 +68,7 @@ public class Deck {
         Deck.get(0).display();
     }
 
-    public void getSpecifiedCard(Integer pick) {
+    public void drawSpecifiedCard(Integer pick) {
         logger.info(String.format("Drawing card %s from the deck...\n", pick));
         Deck.get(pick).display();
     }
@@ -76,7 +78,7 @@ public class Deck {
         Collections.shuffle(Deck);
     }
 
-    public void shuffleNTimes(Integer numTimes) {
+    public void shuffleMultipleTimes(Integer numTimes) {
         logger.info(String.format("Shuffling the deck %d times...\n", numTimes));
         for (int i = 0; i < numTimes; i++) {
             shuffle();
