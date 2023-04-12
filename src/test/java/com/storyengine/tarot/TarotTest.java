@@ -9,7 +9,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
 /**
- * Unit test for simple App.
+ * Tests using Tarot to play the game of French Tarot
  */
 public class TarotTest extends Base {
     private final Logger logger = LoggerFactory.getLogger(TarotTest.class);
