@@ -30,3 +30,6 @@ target/
 
 # Simple txt files
 *.txt
+
+# DS_Store files for images
+*.DS_Store
