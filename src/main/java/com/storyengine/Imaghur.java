@@ -34,10 +34,8 @@ public class Imaghur {
         BufferedImage inputImage = ImageIO.read(new File(inputFilePath));
         int imageWidth = inputImage.getWidth();
         int imageHeight = inputImage.getHeight();
-        int numPixels = imageWidth * imageHeight;
 
         // Initialize data structures
-        ArrayList<Point> visitedPixels = new ArrayList<>();
         Map<Color, Integer> colorCounts = new HashMap<>();
 
         // Analyze input image and count colors
@@ -80,7 +78,7 @@ public class Imaghur {
                 Point pix = new Point(x1, y1);
 
                 // Gather pixel and its neighbors in one list
-                ArrayList<Point> neighborsList = gatherPixelNeighbors(pix, givenColor.getValue(), outputImage);
+                pixelsToPaint = gatherPixelNeighbors(pix, givenColor.getValue(), outputImage);
             }
 
             // Now paint each gathered pixel the same color
@@ -101,70 +99,73 @@ public class Imaghur {
         // Create list containing initial pixel and its immediate neighbors
         ArrayList<Point> pixelNeighbors = new ArrayList<>();
         int gatheredPixels = 0;
+        int neighbourDistance = 1;
 
-        // Add original point to our list once
+        // Add original point to our neighbors list, since the point is a neighbor to itself
         pixelNeighbors.add(point);
 
         // Only gather pixels until we reach our threshold
         while (gatheredPixels < threshold) {
             // Add pixels to neighbors list if adjacent to original pixel and not already in the list
             // pixr = pixel to the right of point
-            Point pixr = new Point(point.x+1, point.y);
+            Point pixr = new Point(point.x+neighbourDistance, point.y);
             if (pixr.x >= 0 && pixr.x < imageTemplate.getWidth() && pixr.y >= 0 && pixr.y < imageTemplate.getHeight()
                     && !pixelNeighbors.contains(pixr)) {
                 pixelNeighbors.add(pixr);
                 gatheredPixels++;
             }
             // pixl = pixel to the left of point
-            Point pixl = new Point(point.x-1, point.y);
+            Point pixl = new Point(point.x-neighbourDistance, point.y);
             if (pixl.x >= 0 && pixl.x < imageTemplate.getWidth() && pixl.y >= 0 && pixl.y < imageTemplate.getHeight()
                     && !pixelNeighbors.contains(pixl)) {
                 pixelNeighbors.add(pixl);
                 gatheredPixels++;
             }
             // pixu = pixel above the point
-            Point pixu = new Point(point.x, point.y+1);
+            Point pixu = new Point(point.x, point.y+neighbourDistance);
             if (pixu.x >= 0 && pixu.x < imageTemplate.getWidth() && pixu.y >= 0 && pixu.y < imageTemplate.getHeight()
                     && !pixelNeighbors.contains(pixu)) {
                 pixelNeighbors.add(pixu);
                 gatheredPixels++;
             }
             // pixd = pixel below the point
-            Point pixd = new Point(point.x, point.y-1);
+            Point pixd = new Point(point.x, point.y-neighbourDistance);
             if (pixd.x >= 0 && pixd.x < imageTemplate.getWidth() && pixd.y >= 0 && pixd.y < imageTemplate.getHeight()
                     && !pixelNeighbors.contains(pixd)) {
                 pixelNeighbors.add(pixd);
                 gatheredPixels++;
             }
             // pixur = pixel to the upper right of point
-            Point pixur = new Point(point.x+1, point.y+1);
+            Point pixur = new Point(point.x+neighbourDistance, point.y+neighbourDistance);
             if (pixur.x >= 0 && pixur.x < imageTemplate.getWidth() && pixur.y >= 0 && pixur.y < imageTemplate.getHeight()
                     && !pixelNeighbors.contains(pixur)) {
                 pixelNeighbors.add(pixur);
                 gatheredPixels++;
             }
             // pixul = pixel to the upper left of point
-            Point pixul = new Point(point.x+1, point.y-1);
+            Point pixul = new Point(point.x+neighbourDistance, point.y-neighbourDistance);
             if (pixul.x >= 0 && pixul.x < imageTemplate.getWidth() && pixul.y >= 0 && pixul.y < imageTemplate.getHeight()
                     && !pixelNeighbors.contains(pixul)) {
                 pixelNeighbors.add(pixul);
                 gatheredPixels++;
             }
             // pixdr = pixel to the lower right of point
-            Point pixdr = new Point(point.x-1, point.y+1);
+            Point pixdr = new Point(point.x-neighbourDistance, point.y+neighbourDistance);
             if (pixdr.x >= 0 && pixdr.x < imageTemplate.getWidth() && pixdr.y >= 0 && pixdr.y < imageTemplate.getHeight()
                     && !pixelNeighbors.contains(pixdr)) {
                 pixelNeighbors.add(pixdr);
                 gatheredPixels++;
             }
-            // pixdr = pixel to the lower left of point
-            Point pixdl = new Point(point.x-1, point.y-1);
+            // pixdl = pixel to the lower left of point
+            Point pixdl = new Point(point.x-neighbourDistance, point.y-neighbourDistance);
             if (pixdl.x >= 0 && pixdl.x < imageTemplate.getWidth() && pixdl.y >= 0 && pixdl.y < imageTemplate.getHeight()
                     && !pixelNeighbors.contains(pixdl)) {
                 pixelNeighbors.add(pixdl);
                 gatheredPixels++;
             }
+            neighbourDistance++;
         }
+        logger.info("We reached a blob size of {}.\n", neighbourDistance);
         return pixelNeighbors;
     }
 }

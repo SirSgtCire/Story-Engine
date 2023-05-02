@@ -39,7 +39,7 @@ public class Deck {
                 Deck.add(newCard);
             }
         } catch (Exception e) {
-            logger.info("We received the following error:\n{}\n", e);
+            logger.info("We received the following error:\n{}\n", e.toString());
             e.printStackTrace();
         }
     }
