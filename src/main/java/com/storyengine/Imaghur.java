@@ -61,7 +61,6 @@ public class Imaghur {
         logger.info("Create new image file for output.\n");
         BufferedImage outputImage = new BufferedImage(imageWidth, imageHeight, BufferedImage.TYPE_INT_RGB);
         Graphics2D g2d = outputImage.createGraphics();
-        g2d.setColor(Color.WHITE);
         g2d.fillRect(0, 0, imageWidth, imageHeight);
 
         // Gather a varying number of connected pixels based on the color percentage provided
