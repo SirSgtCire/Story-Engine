@@ -18,7 +18,7 @@ public class Imaghur {
     public static void main(String[] args) {
         String inputFilePath = "src/main/resources/input.png";
         String outputFilePath = "src/main/resources/output.png";
-        boolean sortDescending = false;
+        boolean sortDescending = true;
         pixelTracker = new ArrayList<>();
         try {
             analyzeImage(inputFilePath, outputFilePath, sortDescending);
@@ -56,11 +56,14 @@ public class Imaghur {
         logger.info("Sort colors in descending or ascending order by pixel count.\n");
         List<Map.Entry<Color, Integer>> sortedColors = new ArrayList<>(colorCounts.entrySet());
         sortedColors.sort(sortDescending ? Map.Entry.comparingByValue(Comparator.reverseOrder()) : Map.Entry.comparingByValue());
+        // Make list of colors much more reasonable a task of sorting through by limiting the number of colors we process
+        sortedColors.subList(0, Math.min(sortedColors.size(), 20));
 
         // Create output image
         logger.info("Create new image file for output.\n");
         BufferedImage outputImage = new BufferedImage(imageWidth, imageHeight, BufferedImage.TYPE_INT_RGB);
         Graphics2D g2d = outputImage.createGraphics();
+        g2d.setColor(Color.WHITE);
         g2d.fillRect(0, 0, imageWidth, imageHeight);
 
         // Gather a varying number of connected pixels based on the color percentage provided
