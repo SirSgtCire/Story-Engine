@@ -9,6 +9,7 @@ public class Base {
     protected final Config properties = new Config(System.getProperty("prop.file", "src/main/resources/config.properties"));
     protected Deck tarotDeck;
     protected Game tarotGame;
+    protected Spread tarotSpread;
     private final Logger logger = LoggerFactory.getLogger(Base.class);
 
     public void setup() throws Exception {
@@ -18,9 +19,11 @@ public class Base {
                 properties.getProperty("json.card.input"),
                 properties.getProperty("json.card.header"));
         tarotGame = new Game(
-                Integer.parseInt(properties.getProperty("num.players")),
-                Integer.parseInt(properties.getProperty("num.rounds")),
-                Integer.parseInt(properties.getProperty("dog.pile")));
+                tarotDeck,
+                Integer.parseInt(properties.getProperty("three.players")),
+                Integer.parseInt(properties.getProperty("three.rounds")),
+                Integer.parseInt(properties.getProperty("three.dog.pile")));
+        tarotSpread = new Spread(tarotDeck);
     }
 
     public void teardown() throws Exception {

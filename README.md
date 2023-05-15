@@ -20,6 +20,7 @@ wands (clubs) < cups (hearts) < swords (spades) < pentacles (diamonds)
 
 ### Tarot Gameplay Rules:
 We use the following rules as defined in the rules of the game of French Tarot:
+
 0. Tarot Game is a three to five player game, no more, no less.
 1. Order all cards (1 - 78).
 2. Separate Major Arcana from Minor Arcana.
@@ -61,7 +62,8 @@ Story can be broken down into basic building blocks:
 3. Crisis
 4. Climax
 5. Resolution
-- Each layer of story MUST answer these building block questions:
+Each layer of story MUST answer these building block questions.
+- We define the different layers 
 1. Beats (the smallest unit of story)
 2. Scenes (basic building blocks of story)
 3. Sequences / Chapters (minor life stages in story)
@@ -108,7 +110,7 @@ To summarize everything we have discussed:
 - We start with creating our Tarot Deck, by uploading a JSON containing each card and relevant data
 - We then decide how many main Characters are defined in our story, ranging from 3 to 5
 - For each Character, we do a Body Reading, which builds our Character using Tarot card meanings
-- With each Character defined, we initiate a game of French Tarot
+- After each Character is developed, we initiate a game of French Tarot
 - We play a game of French Tarot to obtain all the data we need for our story
 - -> For the following exercise, we assume a game with 3 Characters, and therefore 24 Rounds of play
 - -> The Character who wins first deal in the Prologue plays the first trick of the game

@@ -44,7 +44,7 @@ public class NarrativeTest extends Base {
                     numCards = input.nextInt();
                     for (int k = 0; k < numCards; k++) {
                         logger.info("Drawing card "+(k+1)+" of "+(numCards+1));
-                        tarotDeck.drawRandomCard(78);
+                        tarotDeck.drawRandomCard();
                     }
                     logger.info("Hmm, interesting....");
                     logger.info("Another question? (1 for yes, 2 for no)");
@@ -61,7 +61,7 @@ public class NarrativeTest extends Base {
                 logger.info("Here's your starting prompt:");
 
                 while (next != 0) {
-                    tarotDeck.drawRandomCard(tarotDeck.getDeckSize());
+                    tarotDeck.drawRandomCard();
                     story += (input.nextLine() + "\n");
                     do {
                         logger.info("Enter 1 for another prompt or 0 to end.");

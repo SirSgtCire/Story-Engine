@@ -5,11 +5,13 @@ import org.slf4j.LoggerFactory;
 
 public class Game {
     private final Logger logger = LoggerFactory.getLogger(Game.class);
+    private Deck deckList;
     private Integer numPlayers;
     private Integer numRounds;
     private Integer dogPile;
 
-    public Game(Integer numPlayers, Integer numRounds, Integer dogPile) {
+    public Game(Deck deckList, Integer numPlayers, Integer numRounds, Integer dogPile) {
+        this.deckList = deckList;
         this.numPlayers = numPlayers;
         this.numRounds = numRounds;
         this.dogPile = dogPile;
