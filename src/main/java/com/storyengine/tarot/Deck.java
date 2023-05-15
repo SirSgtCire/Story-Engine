@@ -11,15 +11,12 @@ import org.json.simple.parser.JSONParser;
 public class Deck {
     private final Logger logger = LoggerFactory.getLogger(Deck.class);
     private List<Card> Deck;
-    private Integer size;
     private Random rand;
     
     public Deck(String deckInput, String jsonHeader) {
         // Create the deck
         Deck = new ArrayList<>();
         rand = new Random();
-        Integer cardCount = 0;
-
         try {
             // Load our deckInput into a jsonObject
             JSONParser parser = new JSONParser();
@@ -40,26 +37,21 @@ public class Deck {
                         (JSONObject) cardData.get("keywords")
                 );
                 Deck.add(newCard);
-                cardCount += 1;
             }
-            size = cardCount;
-
         } catch (Exception e) {
-            logger.info(String.format("We received the following error:\n%s\n", e));
+            logger.info("We received the following error:\n{}\n", e.toString());
             e.printStackTrace();
         }
-
-        // TODO: add and remove cards from the deck, and then restore deck to original inputs
     }
 
     public Integer getDeckSize() {
-        return this.size;
+        return Deck.size();
     }
     
     public void drawRandomCard(Integer deckSize) {
         logger.info("Drawing a card from the deck...\n");
         int pick = rand.nextInt(deckSize);
-        logger.info(String.format("You chose card number %d, which happens to be...\n", pick));
+        logger.info("You chose card number {}, which happens to be...\n", pick);
         Deck.get(pick).display();
     }
 
@@ -69,7 +61,7 @@ public class Deck {
     }
 
     public void drawSpecifiedCard(Integer pick) {
-        logger.info(String.format("Drawing card %s from the deck...\n", pick));
+        logger.info("Drawing card {} from the deck...\n", pick);
         Deck.get(pick).display();
     }
 
@@ -78,8 +70,8 @@ public class Deck {
         Collections.shuffle(Deck);
     }
 
-    public void shuffleMultipleTimes(Integer numTimes) {
-        logger.info(String.format("Shuffling the deck %d times...\n", numTimes));
+    public void shuffleNTimes(Integer numTimes) {
+        logger.info("Shuffling the deck {} times...\n", numTimes);
         for (int i = 0; i < numTimes; i++) {
             shuffle();
         }
