@@ -18,7 +18,7 @@ public class Imaghur {
     public static void main(String[] args) {
         String inputFilePath = "src/main/resources/input.png";
         String outputFilePath = "src/main/resources/output.png";
-        boolean sortDescending = true;
+        boolean sortDescending = false;
         pixelTracker = new ArrayList<>();
         try {
             analyzeImage(inputFilePath, outputFilePath, sortDescending);
@@ -38,7 +38,7 @@ public class Imaghur {
         Map<Color, Integer> colorCounts = new HashMap<>();
 
         // Analyze input image and count colors
-        // TODO: Fix this counter as we ared identifying way too many colors in our input image
+        // TODO: Fix this counter as we are identifying way too many colors in our input image
         logger.info("Identify how many colors we find in our input image.\n");
         for (int y = 0; y < imageHeight; y++) {
             for (int x = 0; x < imageWidth; x++) {
