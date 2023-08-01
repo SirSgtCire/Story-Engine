@@ -19,6 +19,9 @@ public class Game {
         this.packetSize = packetSize;
 
         // TODO: finish setting up tarot game and return game object ready to play from Round 0
+        // Start the game
+        // Play the game out
+        // Review the end-game stats
     }
 
     // TODO: Outline game of tarot here, all steps should become functions
@@ -26,7 +29,7 @@ public class Game {
     public void TarotGameStart() {
         // Shuffle the deck
         // Each player draws one card -> The lowest value is the "First Dealer"
-        // Return all cards to the deck and shuffle the deck
+        // Return all cards to the deck
         // Choose between "Regular Shuffle" or "Special Shuffle" then shuffle
         // Each player draws seven cards
         // Return here
