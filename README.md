@@ -13,9 +13,9 @@ wands (clubs) < cups (hearts) < swords (spades) < pentacles (diamonds)
 
 ## French Tarot Game
 ### Game Setup:
-- For three players, there are 24 rounds of play, six card dog
-- For four players, there are 18 rounds of play, six card dog
-- For five players, there are 15 rounds of play, three card dog
+- For three players, there are 24 rounds of play, six card dog, three card packet
+- For four players, there are 18 rounds of play, six card dog, three card packet
+- For five players, there are 15 rounds of play, three card dog, three card packet
 - Shuffle the deck, and deal each player a card. The player with the lowest value card deals first.
 
 ### Tarot Gameplay Rules:
@@ -62,15 +62,16 @@ Story can be broken down into basic building blocks:
 3. Crisis
 4. Climax
 5. Resolution
+- We call these questions the "Five Building Block Questions," denoted as FBBQ.
+
 Each layer of story MUST answer these building block questions.
-- We define the different layers 
+- We define the different layers as follows:
 1. Beats (the smallest unit of story)
 2. Scenes (basic building blocks of story)
 3. Sequences / Chapters (minor life stages in story)
 4. Acts (major life stages in story)
 5. Subplots (controlling theme amplifiers, useful in long story formats)
 6. Global Story (what the author is trying to say)
-- We call these questions the "Five Building Block Questions," denoted as FBBQ.
 
 We have created the following sentence templates:
 1. Inciting Incident = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
@@ -81,7 +82,7 @@ We have created the following sentence templates:
 
 To summarize everything we have discussed:
 - We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
-- This is the connection we implement in our algorithm to have a game of French Tarot generate us a narrative.
+- This is the connection we implement in our algorithm to have a game of French Tarot generate for us a narrative.
 
 ## "Arcanum" Algorithm
 ### Definitions
@@ -158,8 +159,7 @@ We have now answered all building block questions for all our defined layers of 
 - After filling in each section, we return the resulting collection of sentences
 
 ## Installation / Usage
-Run the following command in terminal inside the project:
-`mvn -X -U clean test -Dprop.file=src/main/resources/config.properties`
+Run the following command in terminal inside the project: `mvn -X -U clean test`
 
 ## Development
 

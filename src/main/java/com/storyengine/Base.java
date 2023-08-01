@@ -22,7 +22,8 @@ public class Base {
                 tarotDeck,
                 Integer.parseInt(properties.getProperty("three.players")),
                 Integer.parseInt(properties.getProperty("three.rounds")),
-                Integer.parseInt(properties.getProperty("three.dog.pile")));
+                Integer.parseInt(properties.getProperty("three.dog.pile")),
+                Integer.parseInt(properties.getProperty("three.packet.size")));
         tarotSpread = new Spread(tarotDeck);
     }
 
