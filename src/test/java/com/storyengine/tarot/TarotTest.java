@@ -2,7 +2,6 @@ package com.storyengine.tarot;
 
 import org.junit.Test;
 import org.slf4j.Logger;
-import java.util.Scanner;
 import org.slf4j.LoggerFactory;
 import com.storyengine.Base;
 import org.testng.Assert;
