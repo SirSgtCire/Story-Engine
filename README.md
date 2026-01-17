@@ -119,8 +119,8 @@ To summarize everything we have discussed:
 - -> In each Round, the player who wins the current Round wins the Trick of the next Round
 
 - After we play the game, we now build our (as square as possible) Story Matrix with size = number of Rounds + 1
-- With the assumption above, we have the following Matrix:
-- | 0 | 5 | 10 | 15 | 20 |  
+- With the assumption above, we have the following Matrix:  
+  | 0 | 5 | 10 | 15 | 20 |  
   | 1 | 6 | 11 | 16 | 21 |  
   | 2 | 7 | 12 | 17 | 22 |  
   | 3 | 8 | 13 | 18 | 23 |  
