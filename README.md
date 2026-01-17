@@ -123,7 +123,7 @@ To summarize everything we have discussed:
   0 5 10 15 20
   1 6 11 16 21
   2 7 12 17 22
-  3 8 13 18 24
+  3 8 13 18 23
   4 9 14 19 24
 - With the Matrix defined, we define the Global Story by using the diagonal of the Matrix, giving us concrete bounds on our narrative structure:
 0. Prologue = Global Story Inciting Incident

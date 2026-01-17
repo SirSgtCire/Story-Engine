@@ -1,18 +1,18 @@
 package com.storyengine.narrative;
 
-import org.junit.Test;
 import org.slf4j.Logger;
 import java.util.Scanner;
 import org.slf4j.LoggerFactory;
 import com.storyengine.Base;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+import org.testng.annotations.AfterTest;
 
 /**
  * Tests using Tarot to tell stories
  */
-public class NarrativeTest extends Base {
-    private final Logger logger = LoggerFactory.getLogger(NarrativeTest.class);
+public class TestNarrative extends Base {
+    private final Logger logger = LoggerFactory.getLogger(TestNarrative.class);
 
     @BeforeTest
     public void testInit() throws Exception {

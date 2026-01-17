@@ -1,18 +1,18 @@
 package com.storyengine.tarot;
 
-import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import com.storyengine.Base;
 import org.testng.Assert;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+import org.testng.annotations.AfterTest;
 
 /**
  * Tests using Tarot to play the game of French Tarot
  */
-public class TarotTest extends Base {
-    private final Logger logger = LoggerFactory.getLogger(TarotTest.class);
+public class TestTarot extends Base {
+    private final Logger logger = LoggerFactory.getLogger(TestTarot.class);
 
     @BeforeTest
     public void testInit() throws Exception {
