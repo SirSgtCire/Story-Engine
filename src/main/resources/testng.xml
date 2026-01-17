@@ -3,12 +3,12 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/user/Repositories/Story-Engine">
         <classes>
-            <class name="com.storyengine.narrative.NarrativeTest">
+            <class name="com.storyengine.narrative.TestNarrative">
                 <methods>
                     <include name="shouldAnswerWithTrue"/>
                 </methods>
             </class>
-            <class name="com.storyengine.tarot.TarotTest">
+            <class name="com.storyengine.tarot.TestTarot">
                 <methods>
                     <include name="shouldAnswerWithTrue"/>
                 </methods>
