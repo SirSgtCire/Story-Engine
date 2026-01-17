@@ -13,13 +13,14 @@ wands (clubs) < cups (hearts) < swords (spades) < pentacles (diamonds)
 
 ## French Tarot Game
 ### Game Setup:
-- For three players, there are 24 rounds of play, six card dog
-- For four players, there are 18 rounds of play, six card dog
-- For five players, there are 15 rounds of play, three card dog
+- For three players, there are 24 rounds of play, six card dog, three card packet
+- For four players, there are 18 rounds of play, six card dog, three card packet
+- For five players, there are 15 rounds of play, three card dog, three card packet
 - Shuffle the deck, and deal each player a card. The player with the lowest value card deals first.
 
 ### Tarot Gameplay Rules:
 We use the following rules as defined in the rules of the game of French Tarot:
+
 0. Tarot Game is a three to five player game, no more, no less.
 1. Order all cards (1 - 78).
 2. Separate Major Arcana from Minor Arcana.
@@ -61,14 +62,16 @@ Story can be broken down into basic building blocks:
 3. Crisis
 4. Climax
 5. Resolution
-- Each layer of story MUST answer these building block questions:
+- We call these questions the "Five Building Block Questions," denoted as FBBQ.
+
+Each layer of story MUST answer these building block questions.
+- We define the different layers as follows:
 1. Beats (the smallest unit of story)
 2. Scenes (basic building blocks of story)
 3. Sequences / Chapters (minor life stages in story)
 4. Acts (major life stages in story)
 5. Subplots (controlling theme amplifiers, useful in long story formats)
 6. Global Story (what the author is trying to say)
-- We call these questions the "Five Building Block Questions," denoted as FBBQ.
 
 We have created the following sentence templates:
 1. Inciting Incident = Subject (Player) + Upright Verb + Upright Direct Object (Noun)
@@ -79,7 +82,7 @@ We have created the following sentence templates:
 
 To summarize everything we have discussed:
 - We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
-- This is the connection we implement in our algorithm to have a game of French Tarot generate us a narrative.
+- This is the connection we implement in our algorithm to have a game of French Tarot generate for us a narrative.
 
 ## "Arcanum" Algorithm
 ### Definitions
@@ -108,7 +111,7 @@ To summarize everything we have discussed:
 - We start with creating our Tarot Deck, by uploading a JSON containing each card and relevant data
 - We then decide how many main Characters are defined in our story, ranging from 3 to 5
 - For each Character, we do a Body Reading, which builds our Character using Tarot card meanings
-- With each Character defined, we initiate a game of French Tarot
+- After each Character is developed, we initiate a game of French Tarot
 - We play a game of French Tarot to obtain all the data we need for our story
 - -> For the following exercise, we assume a game with 3 Characters, and therefore 24 Rounds of play
 - -> The Character who wins first deal in the Prologue plays the first trick of the game
@@ -120,7 +123,7 @@ To summarize everything we have discussed:
   0 5 10 15 20
   1 6 11 16 21
   2 7 12 17 22
-  3 8 13 18 24
+  3 8 13 18 23
   4 9 14 19 24
 - With the Matrix defined, we define the Global Story by using the diagonal of the Matrix, giving us concrete bounds on our narrative structure:
 0. Prologue = Global Story Inciting Incident
@@ -156,181 +159,9 @@ We have now answered all building block questions for all our defined layers of 
 - After filling in each section, we return the resulting collection of sentences
 
 ## Installation / Usage
-Run the following command in terminal inside the project:
-`mvn -X -U clean test -Dprop.file=src/main/resources/config.properties`
-
-## Development
-
-## Testing
+Run the following command in terminal inside the project: `mvn -X -U clean test`
 
 ## Resources
 https://tarotx.net/
 https://en.wikipedia.org/wiki/French_Tarot
 https://storygrid.com/how-to-learn-writing/
-
-
-
-
-## NOTES
-### Story Grid Book Notes
-Body reading notes:
-between every shuffle, take one half of the cards and invert their orientation, 
-to maintain a certain number of reversed cards.
-
-Three part novel builder logic:
-Part 1 - beginning of story
-Part 2 - first round with a trump played
-Part 3 - first round with three (or two) trumps played
-
-Story Grid Book Notes:
-
-Ch. 11
-- story graph example for Silence of the Lambs
-- Six Editor Questions:
-1. What's the Genre?
-2. What are the conventions and obligatory scenes for that Genre?
-3. What's the point of view?
-4. What are the protagonist's objects of desire?
-5. What's the controlling idea/theme?
-6. What is the Beginning Hook, the Middle Build, and Ending Payoff?
-- Also think on how this concept applies to acting, jokes, composing and coding.
-
-Ch. 16 
-- think of how to abstract Genres into a list of relevant conventions and obligatory scenes, to then make a checklist for our review process 
-- (if we cover all the topics in our list, then we pass)
-- Genre Five-Leaf Clover (organizes most known Genre categorizations into five expectation groups: Time, Reality, Style, Structure, Content)
-
-Ch. 18
-- Story Bell Curve (x-axis: Mini-Plot, Arch-Plot, Anti-Plot; y-axis: Potential Audience)
-
-Ch. 22
-- Boiling down both Arch-Plot and Mini-Plot Structure Genres lead to describing "The Hero's Journey"
-- Inner Conflict, Personal Conflict and Extra-Personal Conflict
-- Focus on the struggle to get objects of desire
-- character wants and needs
-
-Ch. 23
-- External Content Genres (what characters want)
-- Internal Content Genres (what characters need)
-
-NOTE: Remember that Genres are fluid, and can morph into each other at any point in a book
-
-Ch. 25
-- Most stories that last a few seasons or over 10 novels require the usage of both External and Internal Content Genres
-
-Ch. 27
-- The Foolscap Method is comparable in strategy to the Story Grid Method, and can be used as a "process derivative" if relevant
-
-Ch. 28
-- The Foolscap Global Story Grid sheet is a one-page summary of a novel that answers the Six Editor Questions from Ch. 11
-- Look to page 114 for the one-page form to fill out
-- If you can fill out this one-page form after reading a book, then the book "passes the test"
-
-Ch. 30
-- Story Value is categorized as a human experience that can shift from positive to negative, or vice versa
-- Walk through the assignment of numerical values to all parts of the Story Value Spectrum (this could be coded)
-- "The Negation of the Negation" and how it appears in your story
-
-Ch. 32
-- First Person, Second Person, Third Person
-- Do not shift too much in the story
-
-Ch. 34
-- pages 137 and 138 for definition of Controlling Idea and example description, respectively
-
-Ch. 36
-- use this chapter to come up with coded parameters for actual novel structure (pages, words, etc)
-
-Ch. 37
-- page 148 is the Kubler-Ross Change Curve For Story
-- keep in mind curve proportions: 25%/50%/25% is a standard generalization, and can be played around with
-
-Ch. 39
-- BEATS!!! lol, it's beat structure, which also happens to be the same structure for all story components:
-1. Inciting Incident
-a. Casual
-b. Coincidence
-
-2. Progressive Complication
-a. Active Turning Point
-b. Revelatory Turning Point
-
-3. Crisis
-a. The Best Bad Choice
-b. Irreconcilable Goods
-
-4. Climax
-
-5. Resolution
-
-- Beats (smallest unit of story) 
--> Scenes (basic building blocks of story) 
--> Sequences (minor life stages in story)
--> Acts (major life stages in story)
--> Subplots (controlling theme amplifiers, useful in long story formats)
--> Global Story (what the author is trying to say)
-- every unit of story follows the same five principles listed above
-
-Ch. 42
-- Turning Points are little buddies to Progressive Complications
-- if decisions and actions are easily reversible, then no story; make sure you can't go backwards easily
-
-Ch. 53
-- Be aware of Paralysis by Analysis, which is planning out Global Story before writing anything
-
-Ch. 59
-- Use the Foolscap Global Story Grid on two scales: Micro and Macro
-- Micro Scale (analyze whole work Scene by Scene, keeping track of all building blocks, pages 236 - 253)
-- Macro Scale (analyze whole work overall, keeping track of all building blocks, use one-page form)
-
-Ch. 66
-- Combining Micro Scale and Macro Scale Story Grids to make the overarching story grid
-
-### Narrative Structure Notes
-- The definition of a noun contains the following subtypes: Person, Thing, Idea, Quality, Action (Place and Animal are less human-centric, and therefore ignored)
-- We assign each of these noun types to one of the Five Questions. We extrapolate the meaning of each of the Five Questions to create the following relationship:
-- -> Inciting Incident: "The __(Thing)__ happens."
-- -> Complication: "The __(Person)__ gets involved."
-- -> Crisis: "The __(Idea)__ becomes known."
-- -> Climax: "The __(Action)__ is taken."
-- -> Resolution: "The __(Quality)__ is achieved."
-
-### Algorithm Notes
-- We now consider how exactly to "interpret" each Tarot card in a way that translates to our previously described building blocks.
-- We use the foundation for a DBT skill to obtain archetypal data from each card.
-- This skill is known as the "Mindfulness Non-Judgmental" skill, and is composed of the following:
-1. What are the Facts of a given situation?
-2. What are the Consequences of a given situation?
-3. What are the Emotions of a given situation?
-- We call these three questions the "FCE"
-- Each question is answered with a list of archetypal answers that reflect both positive and negative perspectives of the card interpretation.
-
-- What we choose to do is equate "Five Questions" to "FCE" as follows:
-- Five Questions = FCE
-- -> Inciting Incident + (Complication + Crisis) + (Climax + Resolution) = Facts + Consequences + Emotions
-- -> Inciting Incident ~= Facts (What are the Facts ~= What was Incited)
-- -> (Complication + Crisis) ~= Consequences (What are the Consequences ~= Complication -> Crisis narrative development)
-- -> (Climax + Resolution) ~= Emotions (What are the Emotions ~= Climax -> Resolution narrative development)
-- We use this relationship as our main connector between the game of French Tarot and the archetypal interpretation of each card.
-- However, we have an immediate issue: Five Questions are full sentences and FCE are lists of words.
-- We need to figure out how to use the words in FCE as the responses to the Five Questions
-
-- The definition of a noun contains the following subtypes: Person, Thing, Idea, Quality, Action (Place and Animal are less human-centric, and therefore ignored)
-- We assign each of these noun types to one of the Five Questions. We extrapolate the meaning of each of the Five Questions to create the following relationship:
-- -> Inciting Incident: "The __(Thing)__ happens."
-- -> Complication: "The __(Person)__ gets involved."
-- -> Crisis: "The __(Idea)__ becomes known."
-- -> Climax: "The __(Action)__ is taken."
-- -> Resolution: "The __(Quality)__ is achieved."
-
-- We now have the following narrative equations:
-1. Inciting Incident ~= Facts ~= "The __(Thing)__ happens."
-2. Complication ~= Consequences ~= "The __(Person)__ gets involved."
-3. Crisis ~= Consequences ~= "The __(Idea)__ becomes known."
-4. Climax ~= Emotions ~= "The __(Action)__ is taken."
-5. Resolution ~= Emotions ~= "The __(Quality)__ is achieved."
-- Notice the overlap of Emotions and Consequences; Consequences can describe both Complications and Crises, and Emotions can describe both Climaxes and Resolutions
-
-- To summarize everything we have discussed:
-- -> We can now relate the card interpretations directly to the narrative building blocks using noun extrapolation.
-- -> This is the connection we implement in our algorithm to have a game of French Tarot tell us a narrative.

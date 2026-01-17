@@ -33,3 +33,6 @@ target/
 
 # DS_Store files for images
 *.DS_Store
+
+# Custom notes file
+NOTES.txt

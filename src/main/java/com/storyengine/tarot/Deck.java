@@ -10,12 +10,12 @@ import org.json.simple.parser.JSONParser;
 
 public class Deck {
     private final Logger logger = LoggerFactory.getLogger(Deck.class);
-    private List<Card> Deck;
+    private List<Card> DeckList;
     private Random rand;
     
     public Deck(String deckInput, String jsonHeader) {
         // Create the deck
-        Deck = new ArrayList<>();
+        DeckList = new ArrayList<>();
         rand = new Random();
         try {
             // Load our deckInput into a jsonObject
@@ -36,7 +36,7 @@ public class Deck {
                         cardData.get("rotation").toString(),
                         (JSONObject) cardData.get("keywords")
                 );
-                Deck.add(newCard);
+                DeckList.add(newCard);
             }
         } catch (Exception e) {
             logger.info("We received the following error:\n{}\n", e.toString());
@@ -45,29 +45,29 @@ public class Deck {
     }
 
     public Integer getDeckSize() {
-        return Deck.size();
+        return DeckList.size();
     }
     
-    public void drawRandomCard(Integer deckSize) {
+    public void drawRandomCard() {
         logger.info("Drawing a card from the deck...\n");
-        int pick = rand.nextInt(deckSize);
+        int pick = rand.nextInt(DeckList.size());
         logger.info("You chose card number {}, which happens to be...\n", pick);
-        Deck.get(pick).display();
+        DeckList.get(pick).display();
     }
 
     public void drawOneFromTop() {
         logger.info("Drawing the top card...\n");
-        Deck.get(0).display();
+        DeckList.get(0).display();
     }
 
     public void drawSpecifiedCard(Integer pick) {
         logger.info("Drawing card {} from the deck...\n", pick);
-        Deck.get(pick).display();
+        DeckList.get(pick).display();
     }
 
     public void shuffle() {
         logger.info("Shuffling the deck...\n");
-        Collections.shuffle(Deck);
+        Collections.shuffle(DeckList);
     }
 
     public void shuffleNTimes(Integer numTimes) {
@@ -79,6 +79,6 @@ public class Deck {
 
     public void reorder() {
         logger.info("Reordering the deck...\n");
-        Collections.sort(Deck);
+        Collections.sort(DeckList);
     }
 }
