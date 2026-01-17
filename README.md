@@ -120,15 +120,11 @@ To summarize everything we have discussed:
 
 - After we play the game, we now build our (as square as possible) Story Matrix with size = number of Rounds + 1
 - With the assumption above, we have the following Matrix:
-- $$
-- \begin{bmatrix}
-  0 & 5 & 10 & 15 & 20 \\
-  1 & 6 & 11 & 16 & 21 \\
-  2 & 7 & 12 & 17 & 22 \\
-  3 & 8 & 13 & 18 & 23 \\
-  4 & 9 & 14 & 19 & 24
-- \end{bmatrix}
-- $$
+  | 0 | 5 | 10 | 15 | 20 |
+  | 1 | 6 | 11 | 16 | 21 |
+  | 2 | 7 | 12 | 17 | 22 |
+  | 3 | 8 | 13 | 18 | 23 |
+  | 4 | 9 | 14 | 19 | 24 |
 - With the Matrix defined, we define the Global Story by using the diagonal of the Matrix, giving us concrete bounds on our narrative structure:
 0. Prologue = Global Story Inciting Incident
 1. Act 1 AND Global Story Complication
