@@ -4,6 +4,10 @@ Welcome to Arcanum, also known as Story Engine!
 
 ## Objective
 We use the game of French Tarot to drive stories, with Tarot Cards represent core narrative archetypes.
+To make stories drivable, we break them down into Story Beats, which are left open to human interpretation.
+
+## Story Beats
+https://storygrid.com/how-to-learn-writing/
 
 ## Rider Waite Tarot Deck
 https://tarotx.net/tarot-card-meanings/rider-waite/
@@ -222,4 +226,5 @@ Run the following command in terminal inside the project: `mvn -X -U clean test`
 ## Resources
 https://tarotx.net/
 https://en.wikipedia.org/wiki/French_Tarot
+https://iellogames.com/wp-content/uploads/2025/03/Tarot_Rulebook_EN_V03.pdf
 https://storygrid.com/how-to-learn-writing/
