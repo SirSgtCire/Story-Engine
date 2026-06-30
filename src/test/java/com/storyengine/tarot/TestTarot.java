@@ -16,7 +16,7 @@ public class TestTarot extends Base {
 
     @BeforeTest
     public void testInit() throws Exception {
-        super.setup();
+        super.setup(Integer.parseInt(properties.getProperty("game.size")));
     }
 
     @AfterTest
@@ -25,12 +25,40 @@ public class TestTarot extends Base {
     }
 
     @Test
-    public void testGameOfTarot() throws Exception {
-        logger.info("Starting a new game of French Tarot...\n");
+    public void testCard() throws Exception {
+        logger.info("Testing card attributes and functions.\n");
+
+        // TODO: Verify functions in Card class
+    }
+
+    @Test
+    public void testDeck() throws Exception {
+        logger.info("Testing deck attributes and functions.\n");
+
+        // TODO: Verify functions in Deck class
+    }
+
+    @Test
+    public void testGame() throws Exception {
+        logger.info("Testing game attributes and functions.\n");
+
+        // TODO: Verify functions in Game class
+    }
+
+    @Test
+    public void testSpread() throws Exception {
+        logger.info("Testing spread attributes and functions.\n");
+
+        // TODO: Verify functions in Spread class
+    }
+
+    @Test
+    public void testFrenchTarot() throws Exception {
+        logger.info("Starting a full round of French Tarot...\n");
 
         // TODO: Run a game of tarot and verify each step succeeds
         int x = 5;
         int y = 5;
-        Assert.assertEquals(x, y, "This should not fail unless changed.");
+        Assert.assertEquals(x, y, "This should not fail unless changed somewhere else.");
     }
 }

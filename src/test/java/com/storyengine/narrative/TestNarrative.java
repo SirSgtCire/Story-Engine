@@ -16,7 +16,7 @@ public class TestNarrative extends Base {
 
     @BeforeTest
     public void testInit() throws Exception {
-        super.setup();
+        super.setup(Integer.parseInt(properties.getProperty("game.size")));
     }
 
     @AfterTest
