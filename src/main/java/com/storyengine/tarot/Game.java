@@ -35,8 +35,8 @@ public class Game {
         // Return here
     }
 
-    // Helper function for handling special shuffle rules
-    public void SpecialShuffle() {
+    // Helper function for handling game start shuffle rules
+    public void GameStartShuffle() {
         // Separate Major and Minor Arcana
         // Take half of Minor Arcana and reverse direction, then shuffle
         // Deal out Minor Arcana to all players
