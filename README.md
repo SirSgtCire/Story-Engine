@@ -27,7 +27,7 @@ https://iellogames.com/wp-content/uploads/2025/03/Tarot_Rulebook_EN_V03.pdf
 - Tarot Suit Rankings: wands (clubs) < pentacles (diamonds) < cups (hearts) < swords (spades).
 - The Major Arcana are ranked in their given order as defined by Rider Waite.
 - The player who draws The Fool in this step must place The Fool on bottom and redraw.
-- The player with the lowest value card plays the first trick in the given round.
+- The player with the lowest value card plays the first trick in the game.
 
 ### Tarot Gameplay Rules:
 We use the following rules for our one round of Tarot gameplay (see links posted above for rules referenced):
@@ -47,29 +47,44 @@ We use the following rules for our one round of Tarot gameplay (see links posted
 - For three to four players, dog size is always six, meaning six individual cards must be dealt to the dog during the deal. For five players dog size is three cards.
 - The dog cannot be dealt the first card or the last card of the shuffled deck.
 - The dog cannot be dealt two consecutive cards.
-- Deal sequencing is randomized following the above rules, with no valid permutation repeated consecutively for the entire deal.
+- The dog cannot be dealt a card from the middle of a player's packet, meaning player packets cannot be broken up.
+- Deal sequencing can be randomized throughout the entire deal (manual dealing) OR chosen at the beginning from the following options:
+- -> THREE PLAYER DEAL CHOICES
+- -> (player 1 --> dog --> player 2 --> player 3 --> repeat)
+- -> (player 1 --> player 2 --> dog --> player 3 --> repeat)
+- -> FOUR PLAYER DEAL CHOICES
+- -> (player 1 --> dog --> player 2 --> player 3 --> player 4 --> repeat)
+- -> (player 1 --> player 2 --> dog --> player 3 --> player 4 --> repeat)
+- -> (player 1 --> player 2 --> player 3 --> dog --> player 4 --> repeat)
+- -> FIVE PLAYER DEAL CHOICES
+- -> (player 1 --> dog --> player 2 --> player 3 --> player 4 --> player 5 --> repeat)
+- -> (player 1 --> player 2 --> dog --> player 3 --> player 4 --> player 5 --> repeat)
+- -> (player 1 --> player 2 --> player 3 --> dog --> player 4 --> player 5 --> repeat)
+- -> (player 1 --> player 2 --> player 3 --> player 4 --> dog --> player 5 --> repeat)
+- -> keeping the dog in the middle of the deal prevents the dog from being dealt the first or last cards of the deck.
 7. Each player looks at their dealt cards and checks for Annulment.
 - If any player has only one Major Arcana in their hand that is NOT The Fool AND that hand is also the smallest valued hand, reshuffle the cards and deal again (start from Step 1 above).
 - Smallest valued hand is determinable by having the most low value cards, such as having all twos, threes and fours in all suits, etc.
 - Repeat these steps until no player declares Annulment.
 
 #### The Bid
-8. Each player examines the value of their dealt cards to perform a bid, starting with first player and moving counterclockwise.
-- If a player does not want to bid, they may pass to the next player and are removed from the bid.
-- When a player makes a bid, consecutive players may only make a bid that is higher in value than the previously made bid, or they may pass the bid to the next player.
-9. The winner of the bid becomes the Taker, and attempts to complete their bid contract in the round.
-- The other players become Defenders and attempt to prevent the Taker from completing their bid contract.
+8. Players spend one round declaring a bid, with consecutive bids moving counterclockwise.
 - The bid types are as follows:
 - -> "Small": if this is the winning bid the player adds the dog to their hand and puts six cards from their hand into their score pile face down.
 - -> "Guard": the same as "Small" except the winner reveals the cards in the dog before adding them to their hand.
 - -> "Guard without Dog": The dog is added to the bid winner's score pile face down.
 - -> "Guard against Dog": The dog is added to the defenders' score pile face down.
+9. Each player examines the value of their dealt cards to perform a bid, starting with first player and moving counterclockwise.
+- If a player does not want to bid, they may pass to the next player and are removed from the bid.
+- When a player makes a bid, consecutive players may only make a bid that is higher in value than the previously made bid, or they may pass the bid to the next player.
+10. The winner of the bid becomes the Taker, and attempts to complete their bid contract in the round.
+- The other players become Defenders and attempt to prevent the Taker from completing their bid contract.
 - Players may never set aside King cards or Major Arcana after winning the bid, unless they cannot discard anything else, in which case they reveal which ones they discard and leave the rest face down.
 - Major Arcana 0, Major Arcana 1 and Major Arcana 21 may never be discarded to the score pile after winning the bid.
 
 #### The Main Phase
-10. The player who won first trick (had the lowest card value) plays the first trick of the game.
-11. Play per trick happens as follows:
+11. The player who won first trick (had the lowest card value) plays the first trick of the game.
+12. Play per trick happens as follows:
 - The first player plays any card from their hand, either a Minor Arcana or a Major Arcana.
 - Consecutive plays must be one of the following:
 - -> Minor Arcana of the same suit and higher value if available, otherwise just match the suit.
@@ -78,15 +93,30 @@ We use the following rules for our one round of Tarot gameplay (see links posted
 - -> Major Arcana that is higher in value if available, otherwise any Major Arcana.
 - -> If no Major Arcana or matching Minor Arcana, then any card from the hand.
 - Play continues counterclockwise until all players play one card.
-12. The player with the highest value card wins this play, and subsequently takes all played cards and puts them in their associated score pile.
+13. The player with the highest value card wins this play, and subsequently takes all played cards and puts them in their associated score pile.
 - The winner then plays the next first trick, with play continuing counterclockwise until all players play another trick.
-13. This flow of play repeats until all cards have been played.
+14. This flow of play repeats until all cards have been played.
 
 #### Card Values
-// TODO: CARD VALUES 
+// TODO: CARD VALUES
+15. Individual cards have the following card values:
+- herp
+16. There are certain card pairings that are worth points during scoring:
+- derp
 
 #### Scoring Points and Winning
 // TODO: SCORING POINTS AND WINNING
+20. After the last card is played, the game ends and scoring can begin.
+21. Scoring is divided into three separate steps:
+- 1a. Score Taker points
+- 2b. Score Game points
+- 3c. Score player points
+  1a. Scoring Taker Points:
+- herp
+  2b. Scoring Game Points:
+- derp
+  3c. Scoring Player Points:
+- schlerp
 
 ### Tarot Strategies:
 The Taker has one of two decisions to make before game starts:
